@@ -1,0 +1,3130 @@
+year,year_code,country_name,country_code,region,region_code,economic_fitness_matrix,economic_fitness_ranking
+1995,YR1995,Afghanistan,AFG,South Asia,SA,0.068948,99
+1995,YR1995,Albania,ALB,Europe & Central Asia,ECA,0.19011,75
+1995,YR1995,Algeria,DZA,Middle East & North Africa,MENA,0.026403,110
+1995,YR1995,Andorra,AND,Europe & Central Asia,ECA,0.65982,51
+1995,YR1995,Angola,AGO,Sub-Saharan Africa,SSA,3.14E-61,147
+1995,YR1995,Argentina,ARG,Latin America & Caribbean,LAC,0.78902,46
+1995,YR1995,Armenia,ARM,Europe & Central Asia,ECA,0.020267,118
+1995,YR1995,Australia,AUS,East Asia & Pacific,EAP,1.1167,36
+1995,YR1995,Austria,AUT,Europe & Central Asia,ECA,4.1483,11
+1995,YR1995,Azerbaijan,AZE,Europe & Central Asia,ECA,0.026633,109
+1995,YR1995,Bahrain,BHR,Middle East & North Africa,MENA,0.050145,102
+1995,YR1995,Bangladesh,BGD,South Asia,SA,0.10746,85
+1995,YR1995,Belarus,BLR,Europe & Central Asia,ECA,0.49446,58
+1995,YR1995,Belgium,BEL,Europe & Central Asia,ECA,5.1239,8
+1995,YR1995,Belize,BLZ,Latin America & Caribbean,LAC,0.041225,103
+1995,YR1995,Benin,BEN,Sub-Saharan Africa,SSA,0.030684,108
+1995,YR1995,Bhutan,BTN,South Asia,SA,0.016536,123
+1995,YR1995,Bolivia,BOL,Latin America & Caribbean,LAC,0.076967,95
+1995,YR1995,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.38089,64
+1995,YR1995,Brazil,BRA,Latin America & Caribbean,LAC,1.6966,25
+1995,YR1995,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.00011853,142
+1995,YR1995,Bulgaria,BGR,Europe & Central Asia,ECA,1.141,35
+1995,YR1995,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.02342,116
+1995,YR1995,Burundi,BDI,Sub-Saharan Africa,SSA,0.0066877,128
+1995,YR1995,Cambodia,KHM,East Asia & Pacific,EAP,0.023143,117
+1995,YR1995,Cameroon,CMR,Sub-Saharan Africa,SSA,0.023974,115
+1995,YR1995,Canada,CAN,North America,NA,1.6268,29
+1995,YR1995,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.02449,113
+1995,YR1995,Chad,TCD,Sub-Saharan Africa,SSA,5.95E-21,144
+1995,YR1995,Chile,CHL,Latin America & Caribbean,LAC,0.34157,66
+1995,YR1995,China,CHN,East Asia & Pacific,EAP,3.857,13
+1995,YR1995,Colombia,COL,Latin America & Caribbean,LAC,0.51624,57
+1995,YR1995,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0055744,130
+1995,YR1995,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0013027,136
+1995,YR1995,Costa Rica,CRI,Latin America & Caribbean,LAC,0.2412,74
+1995,YR1995,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.077092,94
+1995,YR1995,Croatia,HRV,Europe & Central Asia,ECA,1.4443,31
+1995,YR1995,Cyprus,CYP,Europe & Central Asia,ECA,0.5435,54
+1995,YR1995,Czech Republic,CZE,Europe & Central Asia,ECA,4.7976,10
+1995,YR1995,Denmark,DNK,Europe & Central Asia,ECA,2.994,15
+1995,YR1995,Ecuador,ECU,Latin America & Caribbean,LAC,0.085125,91
+1995,YR1995,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.47756,59
+1995,YR1995,El Salvador,SLV,Latin America & Caribbean,LAC,0.32847,67
+1995,YR1995,Eritrea,ERI,Sub-Saharan Africa,SSA,0.068361,100
+1995,YR1995,Estonia,EST,Europe & Central Asia,ECA,1.2526,33
+1995,YR1995,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.014415,125
+1995,YR1995,Finland,FIN,Europe & Central Asia,ECA,1.7605,24
+1995,YR1995,France,FRA,Europe & Central Asia,ECA,6.2065,6
+1995,YR1995,Gabon,GAB,Sub-Saharan Africa,SSA,1.38E-30,145
+1995,YR1995,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.093218,88
+1995,YR1995,Georgia,GEO,Europe & Central Asia,ECA,0.26247,70
+1995,YR1995,Germany,DEU,Europe & Central Asia,ECA,10.273,1
+1995,YR1995,Ghana,GHA,Sub-Saharan Africa,SSA,0.0164,124
+1995,YR1995,Greece,GRC,Europe & Central Asia,ECA,0.97817,41
+1995,YR1995,Greenland,GRL,Europe & Central Asia,ECA,0.0045479,133
+1995,YR1995,Guatemala,GTM,Latin America & Caribbean,LAC,0.4216,61
+1995,YR1995,Guinea,GIN,Sub-Saharan Africa,SSA,0.0074393,127
+1995,YR1995,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,3.16E-15,143
+1995,YR1995,Guyana,GUY,Latin America & Caribbean,LAC,0.0049153,132
+1995,YR1995,Honduras,HND,Latin America & Caribbean,LAC,0.18203,77
+1995,YR1995,Hungary,HUN,Europe & Central Asia,ECA,2.4427,18
+1995,YR1995,Iceland,ISL,Europe & Central Asia,ECA,0.1385,82
+1995,YR1995,India,IND,South Asia,SA,2.6222,16
+1995,YR1995,Indonesia,IDN,East Asia & Pacific,EAP,1.0307,40
+1995,YR1995,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.018025,122
+1995,YR1995,Iraq,IRQ,Middle East & North Africa,MENA,1.89E-37,146
+1995,YR1995,Ireland,IRL,Europe & Central Asia,ECA,1.6294,28
+1995,YR1995,Israel,ISR,Middle East & North Africa,MENA,2.3245,20
+1995,YR1995,Italy,ITA,Europe & Central Asia,ECA,6.6157,5
+1995,YR1995,Japan,JPN,East Asia & Pacific,EAP,7.2301,3
+1995,YR1995,Jordan,JOR,Middle East & North Africa,MENA,0.37063,65
+1995,YR1995,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.16681,78
+1995,YR1995,Kenya,KEN,Sub-Saharan Africa,SSA,0.24584,73
+1995,YR1995,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.0619,37
+1995,YR1995,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.482,17
+1995,YR1995,Kuwait,KWT,Middle East & North Africa,MENA,0.00015943,141
+1995,YR1995,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.18602,76
+1995,YR1995,Lao PDR,LAO,East Asia & Pacific,EAP,0.025415,111
+1995,YR1995,Latvia,LVA,Europe & Central Asia,ECA,0.62726,53
+1995,YR1995,Lebanon,LBN,Middle East & North Africa,MENA,0.52656,55
+1995,YR1995,Liberia,LBR,Sub-Saharan Africa,SSA,0.0053041,131
+1995,YR1995,Libya,LBY,Middle East & North Africa,MENA,0.00047036,138
+1995,YR1995,Lithuania,LTU,Europe & Central Asia,ECA,0.92988,45
+1995,YR1995,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.96362,42
+1995,YR1995,Madagascar,MDG,Sub-Saharan Africa,SSA,0.091297,90
+1995,YR1995,Malawi,MWI,Sub-Saharan Africa,SSA,0.092657,89
+1995,YR1995,Malaysia,MYS,East Asia & Pacific,EAP,1.0528,39
+1995,YR1995,Mali,MLI,Sub-Saharan Africa,SSA,0.03445,105
+1995,YR1995,Malta,MLT,Middle East & North Africa,MENA,0.2855,68
+1995,YR1995,Mauritania,MRT,Sub-Saharan Africa,SSA,0.00030325,139
+1995,YR1995,Mexico,MEX,Latin America & Caribbean,LAC,1.8893,21
+1995,YR1995,Mongolia,MNG,East Asia & Pacific,EAP,0.020141,119
+1995,YR1995,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+1995,YR1995,Morocco,MAR,Middle East & North Africa,MENA,0.42505,60
+1995,YR1995,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.024877,112
+1995,YR1995,Myanmar,MMR,East Asia & Pacific,EAP,0.032911,107
+1995,YR1995,Nepal,NPL,South Asia,SA,0.084765,92
+1995,YR1995,Netherlands,NLD,Europe & Central Asia,ECA,4.9646,9
+1995,YR1995,New Zealand,NZL,East Asia & Pacific,EAP,0.76062,47
+1995,YR1995,Nicaragua,NIC,Latin America & Caribbean,LAC,0.14439,79
+1995,YR1995,Niger,NER,Sub-Saharan Africa,SSA,0.095892,87
+1995,YR1995,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0024274,134
+1995,YR1995,Norway,NOR,Europe & Central Asia,ECA,1.0608,38
+1995,YR1995,Oman,OMN,Middle East & North Africa,MENA,0.084663,93
+1995,YR1995,Pakistan,PAK,South Asia,SA,0.41299,62
+1995,YR1995,Panama,PAN,Latin America & Caribbean,LAC,0.96284,43
+1995,YR1995,Paraguay,PRY,Latin America & Caribbean,LAC,0.14382,80
+1995,YR1995,Peru,PER,Latin America & Caribbean,LAC,0.27603,69
+1995,YR1995,Philippines,PHL,East Asia & Pacific,EAP,0.67803,50
+1995,YR1995,Poland,POL,Europe & Central Asia,ECA,1.8824,22
+1995,YR1995,Portugal,PRT,Europe & Central Asia,ECA,1.3854,32
+1995,YR1995,Qatar,QAT,Middle East & North Africa,MENA,0.0022239,135
+1995,YR1995,Romania,ROU,Europe & Central Asia,ECA,1.5143,30
+1995,YR1995,Russian Federation,RUS,Europe & Central Asia,ECA,0.74716,48
+1995,YR1995,Rwanda,RWA,Sub-Saharan Africa,SSA,0.0056875,129
+1995,YR1995,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.13243,83
+1995,YR1995,Senegal,SEN,Sub-Saharan Africa,SSA,0.037011,104
+1995,YR1995,Serbia,SRB,Europe & Central Asia,ECA,..,..
+1995,YR1995,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.14373,81
+1995,YR1995,Singapore,SGP,East Asia & Pacific,EAP,1.6845,27
+1995,YR1995,Slovak Republic,SVK,Europe & Central Asia,ECA,1.8588,23
+1995,YR1995,Slovenia,SVN,Europe & Central Asia,ECA,2.3997,19
+1995,YR1995,Somalia,SOM,Sub-Saharan Africa,SSA,0.00096288,137
+1995,YR1995,South Africa,ZAF,Sub-Saharan Africa,SSA,0.94555,44
+1995,YR1995,Spain,ESP,Europe & Central Asia,ECA,3.9636,12
+1995,YR1995,Sudan,SDN,Sub-Saharan Africa,SSA,0.01341,126
+1995,YR1995,Suriname,SUR,Latin America & Caribbean,LAC,0.024359,114
+1995,YR1995,Sweden,SWE,Europe & Central Asia,ECA,3.3669,14
+1995,YR1995,Switzerland,CHE,Europe & Central Asia,ECA,6.132,7
+1995,YR1995,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.075766,96
+1995,YR1995,Tajikistan,TJK,Europe & Central Asia,ECA,0.064967,101
+1995,YR1995,Tanzania,TZA,Sub-Saharan Africa,SSA,0.033436,106
+1995,YR1995,Thailand,THA,East Asia & Pacific,EAP,1.6888,26
+1995,YR1995,Togo,TGO,Sub-Saharan Africa,SSA,0.1192,84
+1995,YR1995,Tunisia,TUN,Middle East & North Africa,MENA,0.52585,56
+1995,YR1995,Turkey,TUR,Europe & Central Asia,ECA,1.1475,34
+1995,YR1995,Turkmenistan,TKM,Europe & Central Asia,ECA,0.018989,121
+1995,YR1995,Uganda,UGA,Sub-Saharan Africa,SSA,0.072513,97
+1995,YR1995,Ukraine,UKR,Europe & Central Asia,ECA,0.64156,52
+1995,YR1995,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.10596,86
+1995,YR1995,United Kingdom,GBR,Europe & Central Asia,ECA,6.6168,4
+1995,YR1995,United States,USA,North America,NA,7.4409,2
+1995,YR1995,Uruguay,URY,Latin America & Caribbean,LAC,0.74337,49
+1995,YR1995,Uzbekistan,UZB,Europe & Central Asia,ECA,0.020125,120
+1995,YR1995,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.25086,72
+1995,YR1995,Vietnam,VNM,East Asia & Pacific,EAP,0.26026,71
+1995,YR1995,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.00019593,140
+1995,YR1995,Zambia,ZMB,Sub-Saharan Africa,SSA,0.069616,98
+1995,YR1995,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.40779,63
+1996,YR1996,Afghanistan,AFG,South Asia,SA,0.064491,106
+1996,YR1996,Albania,ALB,Europe & Central Asia,ECA,0.44012,68
+1996,YR1996,Algeria,DZA,Middle East & North Africa,MENA,0.034917,115
+1996,YR1996,Andorra,AND,Europe & Central Asia,ECA,0.6561,55
+1996,YR1996,Angola,AGO,Sub-Saharan Africa,SSA,2.21E-105,147
+1996,YR1996,Argentina,ARG,Latin America & Caribbean,LAC,0.80379,47
+1996,YR1996,Armenia,ARM,Europe & Central Asia,ECA,0.54333,58
+1996,YR1996,Australia,AUS,East Asia & Pacific,EAP,1.1428,39
+1996,YR1996,Austria,AUT,Europe & Central Asia,ECA,3.9823,11
+1996,YR1996,Azerbaijan,AZE,Europe & Central Asia,ECA,0.40006,71
+1996,YR1996,Bahrain,BHR,Middle East & North Africa,MENA,0.087234,103
+1996,YR1996,Bangladesh,BGD,South Asia,SA,0.12899,89
+1996,YR1996,Belarus,BLR,Europe & Central Asia,ECA,0.89852,45
+1996,YR1996,Belgium,BEL,Europe & Central Asia,ECA,5.1049,8
+1996,YR1996,Belize,BLZ,Latin America & Caribbean,LAC,0.040113,112
+1996,YR1996,Benin,BEN,Sub-Saharan Africa,SSA,0.027581,123
+1996,YR1996,Bhutan,BTN,South Asia,SA,0.013548,125
+1996,YR1996,Bolivia,BOL,Latin America & Caribbean,LAC,0.114,94
+1996,YR1996,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.66933,54
+1996,YR1996,Brazil,BRA,Latin America & Caribbean,LAC,1.7423,25
+1996,YR1996,Brunei Darussalam,BRN,East Asia & Pacific,EAP,1.56E-06,140
+1996,YR1996,Bulgaria,BGR,Europe & Central Asia,ECA,1.5251,30
+1996,YR1996,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.047047,110
+1996,YR1996,Burundi,BDI,Sub-Saharan Africa,SSA,0.0069306,130
+1996,YR1996,Cambodia,KHM,East Asia & Pacific,EAP,0.089116,102
+1996,YR1996,Cameroon,CMR,Sub-Saharan Africa,SSA,0.013859,124
+1996,YR1996,Canada,CAN,North America,NA,2.1766,20
+1996,YR1996,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.039857,113
+1996,YR1996,Chad,TCD,Sub-Saharan Africa,SSA,5.02E-19,146
+1996,YR1996,Chile,CHL,Latin America & Caribbean,LAC,0.46454,64
+1996,YR1996,China,CHN,East Asia & Pacific,EAP,3.5214,13
+1996,YR1996,Colombia,COL,Latin America & Caribbean,LAC,0.45681,65
+1996,YR1996,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0078537,129
+1996,YR1996,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,7.40E-12,144
+1996,YR1996,Costa Rica,CRI,Latin America & Caribbean,LAC,0.30802,74
+1996,YR1996,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.12172,92
+1996,YR1996,Croatia,HRV,Europe & Central Asia,ECA,1.2617,36
+1996,YR1996,Cyprus,CYP,Europe & Central Asia,ECA,0.76057,48
+1996,YR1996,Czech Republic,CZE,Europe & Central Asia,ECA,4.024,10
+1996,YR1996,Denmark,DNK,Europe & Central Asia,ECA,2.8523,15
+1996,YR1996,Ecuador,ECU,Latin America & Caribbean,LAC,0.1071,97
+1996,YR1996,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.4821,63
+1996,YR1996,El Salvador,SLV,Latin America & Caribbean,LAC,0.33383,73
+1996,YR1996,Eritrea,ERI,Sub-Saharan Africa,SSA,0.00037985,136
+1996,YR1996,Estonia,EST,Europe & Central Asia,ECA,1.1198,40
+1996,YR1996,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.0067597,131
+1996,YR1996,Finland,FIN,Europe & Central Asia,ECA,1.8897,22
+1996,YR1996,France,FRA,Europe & Central Asia,ECA,6.1954,5
+1996,YR1996,Gabon,GAB,Sub-Saharan Africa,SSA,1.07E-11,143
+1996,YR1996,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.10831,96
+1996,YR1996,Georgia,GEO,Europe & Central Asia,ECA,0.66938,53
+1996,YR1996,Germany,DEU,Europe & Central Asia,ECA,9.1431,1
+1996,YR1996,Ghana,GHA,Sub-Saharan Africa,SSA,0.037726,114
+1996,YR1996,Greece,GRC,Europe & Central Asia,ECA,0.96358,43
+1996,YR1996,Greenland,GRL,Europe & Central Asia,ECA,0.0036227,133
+1996,YR1996,Guatemala,GTM,Latin America & Caribbean,LAC,0.44384,66
+1996,YR1996,Guinea,GIN,Sub-Saharan Africa,SSA,0.012665,126
+1996,YR1996,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,2.01E-09,142
+1996,YR1996,Guyana,GUY,Latin America & Caribbean,LAC,0.004672,132
+1996,YR1996,Honduras,HND,Latin America & Caribbean,LAC,0.22767,78
+1996,YR1996,Hungary,HUN,Europe & Central Asia,ECA,2.4136,18
+1996,YR1996,Iceland,ISL,Europe & Central Asia,ECA,0.16643,84
+1996,YR1996,India,IND,South Asia,SA,2.676,17
+1996,YR1996,Indonesia,IDN,East Asia & Pacific,EAP,1.1111,41
+1996,YR1996,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.031895,117
+1996,YR1996,Iraq,IRQ,Middle East & North Africa,MENA,0.066219,105
+1996,YR1996,Ireland,IRL,Europe & Central Asia,ECA,1.6307,27
+1996,YR1996,Israel,ISR,Middle East & North Africa,MENA,2.0486,21
+1996,YR1996,Italy,ITA,Europe & Central Asia,ECA,5.6901,6
+1996,YR1996,Japan,JPN,East Asia & Pacific,EAP,7.1785,2
+1996,YR1996,Jordan,JOR,Middle East & North Africa,MENA,0.24852,77
+1996,YR1996,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.64011,56
+1996,YR1996,Kenya,KEN,Sub-Saharan Africa,SSA,0.2723,75
+1996,YR1996,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.3306,34
+1996,YR1996,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.8253,16
+1996,YR1996,Kuwait,KWT,Middle East & North Africa,MENA,0.00018362,137
+1996,YR1996,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.4374,69
+1996,YR1996,Lao PDR,LAO,East Asia & Pacific,EAP,0.18017,82
+1996,YR1996,Latvia,LVA,Europe & Central Asia,ECA,0.75909,49
+1996,YR1996,Lebanon,LBN,Middle East & North Africa,MENA,0.53152,60
+1996,YR1996,Liberia,LBR,Sub-Saharan Africa,SSA,2.98E-09,141
+1996,YR1996,Libya,LBY,Middle East & North Africa,MENA,4.35E-12,145
+1996,YR1996,Lithuania,LTU,Europe & Central Asia,ECA,1.0395,42
+1996,YR1996,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.70719,52
+1996,YR1996,Madagascar,MDG,Sub-Saharan Africa,SSA,0.11219,95
+1996,YR1996,Malawi,MWI,Sub-Saharan Africa,SSA,0.083728,104
+1996,YR1996,Malaysia,MYS,East Asia & Pacific,EAP,1.1634,37
+1996,YR1996,Mali,MLI,Sub-Saharan Africa,SSA,0.031481,120
+1996,YR1996,Malta,MLT,Middle East & North Africa,MENA,0.52872,61
+1996,YR1996,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0015827,134
+1996,YR1996,Mexico,MEX,Latin America & Caribbean,LAC,1.6776,26
+1996,YR1996,Mongolia,MNG,East Asia & Pacific,EAP,0.064401,107
+1996,YR1996,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+1996,YR1996,Morocco,MAR,Middle East & North Africa,MENA,0.42687,70
+1996,YR1996,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.031872,118
+1996,YR1996,Myanmar,MMR,East Asia & Pacific,EAP,0.052975,109
+1996,YR1996,Nepal,NPL,South Asia,SA,0.10277,100
+1996,YR1996,Netherlands,NLD,Europe & Central Asia,ECA,4.7052,9
+1996,YR1996,New Zealand,NZL,East Asia & Pacific,EAP,0.73081,50
+1996,YR1996,Nicaragua,NIC,Latin America & Caribbean,LAC,0.12737,90
+1996,YR1996,Niger,NER,Sub-Saharan Africa,SSA,0.10338,99
+1996,YR1996,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0098886,128
+1996,YR1996,Norway,NOR,Europe & Central Asia,ECA,0.95932,44
+1996,YR1996,Oman,OMN,Middle East & North Africa,MENA,0.099349,101
+1996,YR1996,Pakistan,PAK,South Asia,SA,0.44049,67
+1996,YR1996,Panama,PAN,Latin America & Caribbean,LAC,0.61509,57
+1996,YR1996,Paraguay,PRY,Latin America & Caribbean,LAC,0.12635,91
+1996,YR1996,Peru,PER,Latin America & Caribbean,LAC,0.27147,76
+1996,YR1996,Philippines,PHL,East Asia & Pacific,EAP,0.72516,51
+1996,YR1996,Poland,POL,Europe & Central Asia,ECA,1.8825,23
+1996,YR1996,Portugal,PRT,Europe & Central Asia,ECA,1.3322,33
+1996,YR1996,Qatar,QAT,Middle East & North Africa,MENA,0.00014663,138
+1996,YR1996,Romania,ROU,Europe & Central Asia,ECA,1.3077,35
+1996,YR1996,Russian Federation,RUS,Europe & Central Asia,ECA,1.1473,38
+1996,YR1996,Rwanda,RWA,Sub-Saharan Africa,SSA,0.034577,116
+1996,YR1996,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.11688,93
+1996,YR1996,Senegal,SEN,Sub-Saharan Africa,SSA,0.17083,83
+1996,YR1996,Serbia,SRB,Europe & Central Asia,ECA,..,..
+1996,YR1996,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.16547,85
+1996,YR1996,Singapore,SGP,East Asia & Pacific,EAP,1.5187,31
+1996,YR1996,Slovak Republic,SVK,Europe & Central Asia,ECA,1.8672,24
+1996,YR1996,Slovenia,SVN,Europe & Central Asia,ECA,2.39,19
+1996,YR1996,Somalia,SOM,Sub-Saharan Africa,SSA,0.0012737,135
+1996,YR1996,South Africa,ZAF,Sub-Saharan Africa,SSA,0.82188,46
+1996,YR1996,Spain,ESP,Europe & Central Asia,ECA,3.791,12
+1996,YR1996,Sudan,SDN,Sub-Saharan Africa,SSA,0.028294,121
+1996,YR1996,Suriname,SUR,Latin America & Caribbean,LAC,0.010182,127
+1996,YR1996,Sweden,SWE,Europe & Central Asia,ECA,3.2344,14
+1996,YR1996,Switzerland,CHE,Europe & Central Asia,ECA,5.3914,7
+1996,YR1996,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.10472,98
+1996,YR1996,Tajikistan,TJK,Europe & Central Asia,ECA,0.13224,87
+1996,YR1996,Tanzania,TZA,Sub-Saharan Africa,SSA,0.043646,111
+1996,YR1996,Thailand,THA,East Asia & Pacific,EAP,1.5323,29
+1996,YR1996,Togo,TGO,Sub-Saharan Africa,SSA,0.14048,86
+1996,YR1996,Tunisia,TUN,Middle East & North Africa,MENA,0.53871,59
+1996,YR1996,Turkey,TUR,Europe & Central Asia,ECA,1.3616,32
+1996,YR1996,Turkmenistan,TKM,Europe & Central Asia,ECA,0.031699,119
+1996,YR1996,Uganda,UGA,Sub-Saharan Africa,SSA,0.057408,108
+1996,YR1996,Ukraine,UKR,Europe & Central Asia,ECA,1.5869,28
+1996,YR1996,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.12949,88
+1996,YR1996,United Kingdom,GBR,Europe & Central Asia,ECA,6.3503,4
+1996,YR1996,United States,USA,North America,NA,6.8277,3
+1996,YR1996,Uruguay,URY,Latin America & Caribbean,LAC,0.48999,62
+1996,YR1996,Uzbekistan,UZB,Europe & Central Asia,ECA,0.20037,79
+1996,YR1996,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.19595,80
+1996,YR1996,Vietnam,VNM,East Asia & Pacific,EAP,0.34549,72
+1996,YR1996,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,5.10E-05,139
+1996,YR1996,Zambia,ZMB,Sub-Saharan Africa,SSA,0.027963,122
+1996,YR1996,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.19333,81
+1997,YR1997,Afghanistan,AFG,South Asia,SA,0.21925,81
+1997,YR1997,Albania,ALB,Europe & Central Asia,ECA,0.37589,74
+1997,YR1997,Algeria,DZA,Middle East & North Africa,MENA,0.0039139,130
+1997,YR1997,Andorra,AND,Europe & Central Asia,ECA,0.85326,51
+1997,YR1997,Angola,AGO,Sub-Saharan Africa,SSA,3.86E-113,146
+1997,YR1997,Argentina,ARG,Latin America & Caribbean,LAC,0.92882,47
+1997,YR1997,Armenia,ARM,Europe & Central Asia,ECA,1.1829,37
+1997,YR1997,Australia,AUS,East Asia & Pacific,EAP,1.1126,40
+1997,YR1997,Austria,AUT,Europe & Central Asia,ECA,3.8046,12
+1997,YR1997,Azerbaijan,AZE,Europe & Central Asia,ECA,0.33687,76
+1997,YR1997,Bahrain,BHR,Middle East & North Africa,MENA,0.038674,114
+1997,YR1997,Bangladesh,BGD,South Asia,SA,0.14994,93
+1997,YR1997,Belarus,BLR,Europe & Central Asia,ECA,0.825,52
+1997,YR1997,Belgium,BEL,Europe & Central Asia,ECA,5.059,7
+1997,YR1997,Belize,BLZ,Latin America & Caribbean,LAC,0.060463,110
+1997,YR1997,Benin,BEN,Sub-Saharan Africa,SSA,0.0068592,127
+1997,YR1997,Bhutan,BTN,South Asia,SA,0.039535,113
+1997,YR1997,Bolivia,BOL,Latin America & Caribbean,LAC,0.088189,106
+1997,YR1997,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.64991,57
+1997,YR1997,Brazil,BRA,Latin America & Caribbean,LAC,1.5301,30
+1997,YR1997,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.016519,123
+1997,YR1997,Bulgaria,BGR,Europe & Central Asia,ECA,1.5655,29
+1997,YR1997,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.12448,97
+1997,YR1997,Burundi,BDI,Sub-Saharan Africa,SSA,0.0020183,135
+1997,YR1997,Cambodia,KHM,East Asia & Pacific,EAP,0.047222,112
+1997,YR1997,Cameroon,CMR,Sub-Saharan Africa,SSA,0.015522,124
+1997,YR1997,Canada,CAN,North America,NA,1.9613,21
+1997,YR1997,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.035573,116
+1997,YR1997,Chad,TCD,Sub-Saharan Africa,SSA,3.86E-14,141
+1997,YR1997,Chile,CHL,Latin America & Caribbean,LAC,0.50715,62
+1997,YR1997,China,CHN,East Asia & Pacific,EAP,3.8326,10
+1997,YR1997,Colombia,COL,Latin America & Caribbean,LAC,0.4551,67
+1997,YR1997,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,2.43E-07,136
+1997,YR1997,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,3.53E-09,139
+1997,YR1997,Costa Rica,CRI,Latin America & Caribbean,LAC,0.41364,72
+1997,YR1997,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.11469,99
+1997,YR1997,Croatia,HRV,Europe & Central Asia,ECA,1.3391,35
+1997,YR1997,Cyprus,CYP,Europe & Central Asia,ECA,0.86073,50
+1997,YR1997,Czech Republic,CZE,Europe & Central Asia,ECA,3.825,11
+1997,YR1997,Denmark,DNK,Europe & Central Asia,ECA,2.8763,16
+1997,YR1997,Ecuador,ECU,Latin America & Caribbean,LAC,0.10676,100
+1997,YR1997,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.48933,63
+1997,YR1997,El Salvador,SLV,Latin America & Caribbean,LAC,0.38233,73
+1997,YR1997,Eritrea,ERI,Sub-Saharan Africa,SSA,0.0077118,126
+1997,YR1997,Estonia,EST,Europe & Central Asia,ECA,1.0886,43
+1997,YR1997,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.0053632,128
+1997,YR1997,Finland,FIN,Europe & Central Asia,ECA,1.8691,24
+1997,YR1997,France,FRA,Europe & Central Asia,ECA,5.8483,5
+1997,YR1997,Gabon,GAB,Sub-Saharan Africa,SSA,9.74E-08,137
+1997,YR1997,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.22616,80
+1997,YR1997,Georgia,GEO,Europe & Central Asia,ECA,0.61913,59
+1997,YR1997,Germany,DEU,Europe & Central Asia,ECA,8.5065,1
+1997,YR1997,Ghana,GHA,Sub-Saharan Africa,SSA,0.048677,111
+1997,YR1997,Greece,GRC,Europe & Central Asia,ECA,1.1032,42
+1997,YR1997,Greenland,GRL,Europe & Central Asia,ECA,0.0040133,129
+1997,YR1997,Guatemala,GTM,Latin America & Caribbean,LAC,0.43761,69
+1997,YR1997,Guinea,GIN,Sub-Saharan Africa,SSA,0.0038291,131
+1997,YR1997,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,1.05E-08,138
+1997,YR1997,Guyana,GUY,Latin America & Caribbean,LAC,0.024643,118
+1997,YR1997,Honduras,HND,Latin America & Caribbean,LAC,0.23441,79
+1997,YR1997,Hungary,HUN,Europe & Central Asia,ECA,1.9736,20
+1997,YR1997,Iceland,ISL,Europe & Central Asia,ECA,0.18409,85
+1997,YR1997,India,IND,South Asia,SA,3.1265,15
+1997,YR1997,Indonesia,IDN,East Asia & Pacific,EAP,1.1514,39
+1997,YR1997,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.19168,83
+1997,YR1997,Iraq,IRQ,Middle East & North Africa,MENA,2.40E-271,147
+1997,YR1997,Ireland,IRL,Europe & Central Asia,ECA,1.5993,28
+1997,YR1997,Israel,ISR,Middle East & North Africa,MENA,1.9572,22
+1997,YR1997,Italy,ITA,Europe & Central Asia,ECA,5.9444,4
+1997,YR1997,Japan,JPN,East Asia & Pacific,EAP,6.4507,3
+1997,YR1997,Jordan,JOR,Middle East & North Africa,MENA,0.47815,64
+1997,YR1997,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.46736,65
+1997,YR1997,Kenya,KEN,Sub-Saharan Africa,SSA,0.35672,75
+1997,YR1997,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.99077,45
+1997,YR1997,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.8115,17
+1997,YR1997,Kuwait,KWT,Middle East & North Africa,MENA,1.78E-28,145
+1997,YR1997,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.46501,66
+1997,YR1997,Lao PDR,LAO,East Asia & Pacific,EAP,0.1631,89
+1997,YR1997,Latvia,LVA,Europe & Central Asia,ECA,0.81752,53
+1997,YR1997,Lebanon,LBN,Middle East & North Africa,MENA,1.0196,44
+1997,YR1997,Liberia,LBR,Sub-Saharan Africa,SSA,5.10E-21,142
+1997,YR1997,Libya,LBY,Middle East & North Africa,MENA,2.18E-28,143
+1997,YR1997,Lithuania,LTU,Europe & Central Asia,ECA,1.104,41
+1997,YR1997,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.66769,56
+1997,YR1997,Madagascar,MDG,Sub-Saharan Africa,SSA,0.15909,90
+1997,YR1997,Malawi,MWI,Sub-Saharan Africa,SSA,0.098994,102
+1997,YR1997,Malaysia,MYS,East Asia & Pacific,EAP,1.1729,38
+1997,YR1997,Mali,MLI,Sub-Saharan Africa,SSA,0.02878,117
+1997,YR1997,Malta,MLT,Middle East & North Africa,MENA,0.54066,61
+1997,YR1997,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0024457,133
+1997,YR1997,Mexico,MEX,Latin America & Caribbean,LAC,1.8383,25
+1997,YR1997,Mongolia,MNG,East Asia & Pacific,EAP,0.08927,105
+1997,YR1997,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+1997,YR1997,Morocco,MAR,Middle East & North Africa,MENA,0.43441,70
+1997,YR1997,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.0358,115
+1997,YR1997,Myanmar,MMR,East Asia & Pacific,EAP,0.087021,107
+1997,YR1997,Nepal,NPL,South Asia,SA,0.15785,92
+1997,YR1997,Netherlands,NLD,Europe & Central Asia,ECA,4.4316,9
+1997,YR1997,New Zealand,NZL,East Asia & Pacific,EAP,0.77881,54
+1997,YR1997,Nicaragua,NIC,Latin America & Caribbean,LAC,0.10595,101
+1997,YR1997,Niger,NER,Sub-Saharan Africa,SSA,0.13496,94
+1997,YR1997,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0022254,134
+1997,YR1997,Norway,NOR,Europe & Central Asia,ECA,0.90993,48
+1997,YR1997,Oman,OMN,Middle East & North Africa,MENA,0.092458,104
+1997,YR1997,Pakistan,PAK,South Asia,SA,0.43377,71
+1997,YR1997,Panama,PAN,Latin America & Caribbean,LAC,0.94916,46
+1997,YR1997,Paraguay,PRY,Latin America & Caribbean,LAC,0.13116,96
+1997,YR1997,Peru,PER,Latin America & Caribbean,LAC,0.3116,77
+1997,YR1997,Philippines,PHL,East Asia & Pacific,EAP,0.69204,55
+1997,YR1997,Poland,POL,Europe & Central Asia,ECA,2.0605,19
+1997,YR1997,Portugal,PRT,Europe & Central Asia,ECA,1.4323,32
+1997,YR1997,Qatar,QAT,Middle East & North Africa,MENA,1.84E-28,144
+1997,YR1997,Romania,ROU,Europe & Central Asia,ECA,1.3921,33
+1997,YR1997,Russian Federation,RUS,Europe & Central Asia,ECA,1.2101,36
+1997,YR1997,Rwanda,RWA,Sub-Saharan Africa,SSA,0.023748,119
+1997,YR1997,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.02323,120
+1997,YR1997,Senegal,SEN,Sub-Saharan Africa,SSA,0.17111,86
+1997,YR1997,Serbia,SRB,Europe & Central Asia,ECA,..,..
+1997,YR1997,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.24334,78
+1997,YR1997,Singapore,SGP,East Asia & Pacific,EAP,1.4656,31
+1997,YR1997,Slovak Republic,SVK,Europe & Central Asia,ECA,1.8904,23
+1997,YR1997,Slovenia,SVN,Europe & Central Asia,ECA,2.3422,18
+1997,YR1997,Somalia,SOM,Sub-Saharan Africa,SSA,0.0029287,132
+1997,YR1997,South Africa,ZAF,Sub-Saharan Africa,SSA,0.86705,49
+1997,YR1997,Spain,ESP,Europe & Central Asia,ECA,3.6635,13
+1997,YR1997,Sudan,SDN,Sub-Saharan Africa,SSA,0.018,122
+1997,YR1997,Suriname,SUR,Latin America & Caribbean,LAC,0.0085638,125
+1997,YR1997,Sweden,SWE,Europe & Central Asia,ECA,3.2109,14
+1997,YR1997,Switzerland,CHE,Europe & Central Asia,ECA,4.8651,8
+1997,YR1997,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.098989,103
+1997,YR1997,Tajikistan,TJK,Europe & Central Asia,ECA,0.13271,95
+1997,YR1997,Tanzania,TZA,Sub-Saharan Africa,SSA,0.075087,109
+1997,YR1997,Thailand,THA,East Asia & Pacific,EAP,1.7696,26
+1997,YR1997,Togo,TGO,Sub-Saharan Africa,SSA,0.16951,87
+1997,YR1997,Tunisia,TUN,Middle East & North Africa,MENA,0.57131,60
+1997,YR1997,Turkey,TUR,Europe & Central Asia,ECA,1.6044,27
+1997,YR1997,Turkmenistan,TKM,Europe & Central Asia,ECA,0.019068,121
+1997,YR1997,Uganda,UGA,Sub-Saharan Africa,SSA,0.084416,108
+1997,YR1997,Ukraine,UKR,Europe & Central Asia,ECA,1.3722,34
+1997,YR1997,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.16518,88
+1997,YR1997,United Kingdom,GBR,Europe & Central Asia,ECA,5.6764,6
+1997,YR1997,United States,USA,North America,NA,6.8148,2
+1997,YR1997,Uruguay,URY,Latin America & Caribbean,LAC,0.61943,58
+1997,YR1997,Uzbekistan,UZB,Europe & Central Asia,ECA,0.19076,84
+1997,YR1997,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.21275,82
+1997,YR1997,Vietnam,VNM,East Asia & Pacific,EAP,0.45242,68
+1997,YR1997,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,2.01E-10,140
+1997,YR1997,Zambia,ZMB,Sub-Saharan Africa,SSA,0.11811,98
+1997,YR1997,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.15889,91
+1998,YR1998,Afghanistan,AFG,South Asia,SA,0.088009,108
+1998,YR1998,Albania,ALB,Europe & Central Asia,ECA,0.43081,70
+1998,YR1998,Algeria,DZA,Middle East & North Africa,MENA,0.027782,125
+1998,YR1998,Andorra,AND,Europe & Central Asia,ECA,0.85578,52
+1998,YR1998,Angola,AGO,Sub-Saharan Africa,SSA,3.31E-18,146
+1998,YR1998,Argentina,ARG,Latin America & Caribbean,LAC,0.89541,50
+1998,YR1998,Armenia,ARM,Europe & Central Asia,ECA,0.79878,53
+1998,YR1998,Australia,AUS,East Asia & Pacific,EAP,0.9868,46
+1998,YR1998,Austria,AUT,Europe & Central Asia,ECA,3.7637,10
+1998,YR1998,Azerbaijan,AZE,Europe & Central Asia,ECA,0.3872,74
+1998,YR1998,Bahrain,BHR,Middle East & North Africa,MENA,0.13366,100
+1998,YR1998,Bangladesh,BGD,South Asia,SA,0.17704,93
+1998,YR1998,Belarus,BLR,Europe & Central Asia,ECA,1.4389,32
+1998,YR1998,Belgium,BEL,Europe & Central Asia,ECA,4.8521,7
+1998,YR1998,Belize,BLZ,Latin America & Caribbean,LAC,0.10276,106
+1998,YR1998,Benin,BEN,Sub-Saharan Africa,SSA,0.086408,109
+1998,YR1998,Bhutan,BTN,South Asia,SA,0.078231,113
+1998,YR1998,Bolivia,BOL,Latin America & Caribbean,LAC,0.11271,103
+1998,YR1998,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.69868,57
+1998,YR1998,Brazil,BRA,Latin America & Caribbean,LAC,1.7377,27
+1998,YR1998,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.028727,124
+1998,YR1998,Bulgaria,BGR,Europe & Central Asia,ECA,1.5938,30
+1998,YR1998,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.081915,111
+1998,YR1998,Burundi,BDI,Sub-Saharan Africa,SSA,0.0030537,137
+1998,YR1998,Cambodia,KHM,East Asia & Pacific,EAP,0.062031,118
+1998,YR1998,Cameroon,CMR,Sub-Saharan Africa,SSA,0.0046761,135
+1998,YR1998,Canada,CAN,North America,NA,2.0334,20
+1998,YR1998,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.052478,120
+1998,YR1998,Chad,TCD,Sub-Saharan Africa,SSA,3.75E-06,144
+1998,YR1998,Chile,CHL,Latin America & Caribbean,LAC,0.62131,58
+1998,YR1998,China,CHN,East Asia & Pacific,EAP,3.5612,13
+1998,YR1998,Colombia,COL,Latin America & Caribbean,LAC,0.54927,63
+1998,YR1998,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0024982,138
+1998,YR1998,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0018641,139
+1998,YR1998,Costa Rica,CRI,Latin America & Caribbean,LAC,0.40454,72
+1998,YR1998,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.10607,105
+1998,YR1998,Croatia,HRV,Europe & Central Asia,ECA,1.2257,40
+1998,YR1998,Cyprus,CYP,Europe & Central Asia,ECA,0.74449,55
+1998,YR1998,Czech Republic,CZE,Europe & Central Asia,ECA,3.6777,12
+1998,YR1998,Denmark,DNK,Europe & Central Asia,ECA,2.9014,16
+1998,YR1998,Ecuador,ECU,Latin America & Caribbean,LAC,0.14834,99
+1998,YR1998,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.5567,62
+1998,YR1998,El Salvador,SLV,Latin America & Caribbean,LAC,0.4636,67
+1998,YR1998,Eritrea,ERI,Sub-Saharan Africa,SSA,0.076633,114
+1998,YR1998,Estonia,EST,Europe & Central Asia,ECA,1.1795,42
+1998,YR1998,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.014229,126
+1998,YR1998,Finland,FIN,Europe & Central Asia,ECA,1.7543,23
+1998,YR1998,France,FRA,Europe & Central Asia,ECA,5.5251,5
+1998,YR1998,Gabon,GAB,Sub-Saharan Africa,SSA,0.0014398,141
+1998,YR1998,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.18719,92
+1998,YR1998,Georgia,GEO,Europe & Central Asia,ECA,0.75976,54
+1998,YR1998,Germany,DEU,Europe & Central Asia,ECA,7.8845,1
+1998,YR1998,Ghana,GHA,Sub-Saharan Africa,SSA,0.073829,115
+1998,YR1998,Greece,GRC,Europe & Central Asia,ECA,1.261,38
+1998,YR1998,Greenland,GRL,Europe & Central Asia,ECA,0.0053989,133
+1998,YR1998,Guatemala,GTM,Latin America & Caribbean,LAC,0.43841,68
+1998,YR1998,Guinea,GIN,Sub-Saharan Africa,SSA,0.0010683,142
+1998,YR1998,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,6.44E-06,143
+1998,YR1998,Guyana,GUY,Latin America & Caribbean,LAC,0.032157,123
+1998,YR1998,Honduras,HND,Latin America & Caribbean,LAC,0.24765,85
+1998,YR1998,Hungary,HUN,Europe & Central Asia,ECA,1.935,21
+1998,YR1998,Iceland,ISL,Europe & Central Asia,ECA,0.19753,91
+1998,YR1998,India,IND,South Asia,SA,3.1755,15
+1998,YR1998,Indonesia,IDN,East Asia & Pacific,EAP,1.3051,34
+1998,YR1998,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.19916,90
+1998,YR1998,Iraq,IRQ,Middle East & North Africa,MENA,5.47E-47,147
+1998,YR1998,Ireland,IRL,Europe & Central Asia,ECA,1.2995,36
+1998,YR1998,Israel,ISR,Middle East & North Africa,MENA,1.868,22
+1998,YR1998,Italy,ITA,Europe & Central Asia,ECA,5.669,4
+1998,YR1998,Japan,JPN,East Asia & Pacific,EAP,5.918,3
+1998,YR1998,Jordan,JOR,Middle East & North Africa,MENA,0.43732,69
+1998,YR1998,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.32074,79
+1998,YR1998,Kenya,KEN,Sub-Saharan Africa,SSA,0.40278,73
+1998,YR1998,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.4275,33
+1998,YR1998,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.4708,17
+1998,YR1998,Kuwait,KWT,Middle East & North Africa,MENA,0.0073886,130
+1998,YR1998,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.30515,80
+1998,YR1998,Lao PDR,LAO,East Asia & Pacific,EAP,0.068377,116
+1998,YR1998,Latvia,LVA,Europe & Central Asia,ECA,0.95381,48
+1998,YR1998,Lebanon,LBN,Middle East & North Africa,MENA,0.98671,47
+1998,YR1998,Liberia,LBR,Sub-Saharan Africa,SSA,1.47E-06,145
+1998,YR1998,Libya,LBY,Middle East & North Africa,MENA,0.0014972,140
+1998,YR1998,Lithuania,LTU,Europe & Central Asia,ECA,1.0684,45
+1998,YR1998,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.5787,60
+1998,YR1998,Madagascar,MDG,Sub-Saharan Africa,SSA,0.1666,96
+1998,YR1998,Malawi,MWI,Sub-Saharan Africa,SSA,0.081844,112
+1998,YR1998,Malaysia,MYS,East Asia & Pacific,EAP,1.237,39
+1998,YR1998,Mali,MLI,Sub-Saharan Africa,SSA,0.049021,121
+1998,YR1998,Malta,MLT,Middle East & North Africa,MENA,0.41934,71
+1998,YR1998,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0051097,134
+1998,YR1998,Mexico,MEX,Latin America & Caribbean,LAC,1.7385,26
+1998,YR1998,Mongolia,MNG,East Asia & Pacific,EAP,0.10892,104
+1998,YR1998,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+1998,YR1998,Morocco,MAR,Middle East & North Africa,MENA,0.46879,66
+1998,YR1998,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.054563,119
+1998,YR1998,Myanmar,MMR,East Asia & Pacific,EAP,0.082819,110
+1998,YR1998,Nepal,NPL,South Asia,SA,0.27601,81
+1998,YR1998,Netherlands,NLD,Europe & Central Asia,ECA,4.3403,9
+1998,YR1998,New Zealand,NZL,East Asia & Pacific,EAP,0.93496,49
+1998,YR1998,Nicaragua,NIC,Latin America & Caribbean,LAC,0.15204,97
+1998,YR1998,Niger,NER,Sub-Saharan Africa,SSA,0.12809,101
+1998,YR1998,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0087175,129
+1998,YR1998,Norway,NOR,Europe & Central Asia,ECA,1.1108,43
+1998,YR1998,Oman,OMN,Middle East & North Africa,MENA,0.17657,94
+1998,YR1998,Pakistan,PAK,South Asia,SA,0.52464,64
+1998,YR1998,Panama,PAN,Latin America & Caribbean,LAC,1.0877,44
+1998,YR1998,Paraguay,PRY,Latin America & Caribbean,LAC,0.12192,102
+1998,YR1998,Peru,PER,Latin America & Caribbean,LAC,0.37814,75
+1998,YR1998,Philippines,PHL,East Asia & Pacific,EAP,0.72819,56
+1998,YR1998,Poland,POL,Europe & Central Asia,ECA,2.1746,19
+1998,YR1998,Portugal,PRT,Europe & Central Asia,ECA,1.5364,31
+1998,YR1998,Qatar,QAT,Middle East & North Africa,MENA,0.0040286,136
+1998,YR1998,Romania,ROU,Europe & Central Asia,ECA,1.3016,35
+1998,YR1998,Russian Federation,RUS,Europe & Central Asia,ECA,1.2961,37
+1998,YR1998,Rwanda,RWA,Sub-Saharan Africa,SSA,0.012311,127
+1998,YR1998,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.26974,82
+1998,YR1998,Senegal,SEN,Sub-Saharan Africa,SSA,0.258,84
+1998,YR1998,Serbia,SRB,Europe & Central Asia,ECA,..,..
+1998,YR1998,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.33585,78
+1998,YR1998,Singapore,SGP,East Asia & Pacific,EAP,1.6075,29
+1998,YR1998,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6955,28
+1998,YR1998,Slovenia,SVN,Europe & Central Asia,ECA,2.3267,18
+1998,YR1998,Somalia,SOM,Sub-Saharan Africa,SSA,0.0097874,128
+1998,YR1998,South Africa,ZAF,Sub-Saharan Africa,SSA,0.89442,51
+1998,YR1998,Spain,ESP,Europe & Central Asia,ECA,3.7064,11
+1998,YR1998,Sudan,SDN,Sub-Saharan Africa,SSA,0.039918,122
+1998,YR1998,Suriname,SUR,Latin America & Caribbean,LAC,0.0062709,132
+1998,YR1998,Sweden,SWE,Europe & Central Asia,ECA,3.2804,14
+1998,YR1998,Switzerland,CHE,Europe & Central Asia,ECA,4.5718,8
+1998,YR1998,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.24083,87
+1998,YR1998,Tajikistan,TJK,Europe & Central Asia,ECA,0.17472,95
+1998,YR1998,Tanzania,TZA,Sub-Saharan Africa,SSA,0.22599,88
+1998,YR1998,Thailand,THA,East Asia & Pacific,EAP,1.7461,24
+1998,YR1998,Togo,TGO,Sub-Saharan Africa,SSA,0.14877,98
+1998,YR1998,Tunisia,TUN,Middle East & North Africa,MENA,0.59513,59
+1998,YR1998,Turkey,TUR,Europe & Central Asia,ECA,1.741,25
+1998,YR1998,Turkmenistan,TKM,Europe & Central Asia,ECA,0.088655,107
+1998,YR1998,Uganda,UGA,Sub-Saharan Africa,SSA,0.066135,117
+1998,YR1998,Ukraine,UKR,Europe & Central Asia,ECA,1.2253,41
+1998,YR1998,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.34634,77
+1998,YR1998,United Kingdom,GBR,Europe & Central Asia,ECA,5.5093,6
+1998,YR1998,United States,USA,North America,NA,6.498,2
+1998,YR1998,Uruguay,URY,Latin America & Caribbean,LAC,0.56195,61
+1998,YR1998,Uzbekistan,UZB,Europe & Central Asia,ECA,0.22466,89
+1998,YR1998,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.36451,76
+1998,YR1998,Vietnam,VNM,East Asia & Pacific,EAP,0.50304,65
+1998,YR1998,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.0070651,131
+1998,YR1998,Zambia,ZMB,Sub-Saharan Africa,SSA,0.24401,86
+1998,YR1998,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.26544,83
+1999,YR1999,Afghanistan,AFG,South Asia,SA,0.14127,99
+1999,YR1999,Albania,ALB,Europe & Central Asia,ECA,0.44994,71
+1999,YR1999,Algeria,DZA,Middle East & North Africa,MENA,0.0091894,130
+1999,YR1999,Andorra,AND,Europe & Central Asia,ECA,0.7634,54
+1999,YR1999,Angola,AGO,Sub-Saharan Africa,SSA,1.60E-20,146
+1999,YR1999,Argentina,ARG,Latin America & Caribbean,LAC,0.88869,51
+1999,YR1999,Armenia,ARM,Europe & Central Asia,ECA,0.82219,53
+1999,YR1999,Australia,AUS,East Asia & Pacific,EAP,1.0267,46
+1999,YR1999,Austria,AUT,Europe & Central Asia,ECA,3.7841,12
+1999,YR1999,Azerbaijan,AZE,Europe & Central Asia,ECA,0.14784,98
+1999,YR1999,Bahrain,BHR,Middle East & North Africa,MENA,0.10837,107
+1999,YR1999,Bangladesh,BGD,South Asia,SA,0.14039,100
+1999,YR1999,Belarus,BLR,Europe & Central Asia,ECA,1.3937,35
+1999,YR1999,Belgium,BEL,Europe & Central Asia,ECA,4.9406,7
+1999,YR1999,Belize,BLZ,Latin America & Caribbean,LAC,0.030723,122
+1999,YR1999,Benin,BEN,Sub-Saharan Africa,SSA,0.061686,116
+1999,YR1999,Bhutan,BTN,South Asia,SA,0.088079,110
+1999,YR1999,Bolivia,BOL,Latin America & Caribbean,LAC,0.12686,102
+1999,YR1999,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.54795,62
+1999,YR1999,Brazil,BRA,Latin America & Caribbean,LAC,1.5826,29
+1999,YR1999,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.0070978,132
+1999,YR1999,Bulgaria,BGR,Europe & Central Asia,ECA,1.5321,31
+1999,YR1999,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.1233,104
+1999,YR1999,Burundi,BDI,Sub-Saharan Africa,SSA,0.0050292,134
+1999,YR1999,Cambodia,KHM,East Asia & Pacific,EAP,0.072406,112
+1999,YR1999,Cameroon,CMR,Sub-Saharan Africa,SSA,0.013287,128
+1999,YR1999,Canada,CAN,North America,NA,2.0091,20
+1999,YR1999,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.08852,109
+1999,YR1999,Chad,TCD,Sub-Saharan Africa,SSA,0.0025015,141
+1999,YR1999,Chile,CHL,Latin America & Caribbean,LAC,0.53348,64
+1999,YR1999,China,CHN,East Asia & Pacific,EAP,3.85,11
+1999,YR1999,Colombia,COL,Latin America & Caribbean,LAC,0.50307,66
+1999,YR1999,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0046075,135
+1999,YR1999,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.00063079,144
+1999,YR1999,Costa Rica,CRI,Latin America & Caribbean,LAC,0.31038,78
+1999,YR1999,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.12213,105
+1999,YR1999,Croatia,HRV,Europe & Central Asia,ECA,1.0062,47
+1999,YR1999,Cyprus,CYP,Europe & Central Asia,ECA,0.71777,56
+1999,YR1999,Czech Republic,CZE,Europe & Central Asia,ECA,3.7531,13
+1999,YR1999,Denmark,DNK,Europe & Central Asia,ECA,2.8274,16
+1999,YR1999,Ecuador,ECU,Latin America & Caribbean,LAC,0.16266,93
+1999,YR1999,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.63485,57
+1999,YR1999,El Salvador,SLV,Latin America & Caribbean,LAC,0.47085,69
+1999,YR1999,Eritrea,ERI,Sub-Saharan Africa,SSA,0.036544,121
+1999,YR1999,Estonia,EST,Europe & Central Asia,ECA,1.0478,45
+1999,YR1999,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.014369,127
+1999,YR1999,Finland,FIN,Europe & Central Asia,ECA,1.8077,23
+1999,YR1999,France,FRA,Europe & Central Asia,ECA,5.6473,4
+1999,YR1999,Gabon,GAB,Sub-Saharan Africa,SSA,0.0031456,139
+1999,YR1999,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.11238,106
+1999,YR1999,Georgia,GEO,Europe & Central Asia,ECA,0.58247,61
+1999,YR1999,Germany,DEU,Europe & Central Asia,ECA,7.6533,1
+1999,YR1999,Ghana,GHA,Sub-Saharan Africa,SSA,0.079639,111
+1999,YR1999,Greece,GRC,Europe & Central Asia,ECA,1.1872,40
+1999,YR1999,Greenland,GRL,Europe & Central Asia,ECA,0.01204,129
+1999,YR1999,Guatemala,GTM,Latin America & Caribbean,LAC,0.47399,68
+1999,YR1999,Guinea,GIN,Sub-Saharan Africa,SSA,0.0017032,142
+1999,YR1999,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,1.73E-07,145
+1999,YR1999,Guyana,GUY,Latin America & Caribbean,LAC,0.028564,123
+1999,YR1999,Honduras,HND,Latin America & Caribbean,LAC,0.22439,85
+1999,YR1999,Hungary,HUN,Europe & Central Asia,ECA,1.9001,22
+1999,YR1999,Iceland,ISL,Europe & Central Asia,ECA,0.20274,89
+1999,YR1999,India,IND,South Asia,SA,3.2775,14
+1999,YR1999,Indonesia,IDN,East Asia & Pacific,EAP,1.4004,34
+1999,YR1999,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.21968,86
+1999,YR1999,Iraq,IRQ,Middle East & North Africa,MENA,5.70E-45,147
+1999,YR1999,Ireland,IRL,Europe & Central Asia,ECA,1.1876,39
+1999,YR1999,Israel,ISR,Middle East & North Africa,MENA,1.9739,21
+1999,YR1999,Italy,ITA,Europe & Central Asia,ECA,5.5047,5
+1999,YR1999,Japan,JPN,East Asia & Pacific,EAP,5.7591,3
+1999,YR1999,Jordan,JOR,Middle East & North Africa,MENA,0.85871,52
+1999,YR1999,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.25971,81
+1999,YR1999,Kenya,KEN,Sub-Saharan Africa,SSA,0.37762,73
+1999,YR1999,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.4042,33
+1999,YR1999,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.4065,18
+1999,YR1999,Kuwait,KWT,Middle East & North Africa,MENA,0.0034453,137
+1999,YR1999,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.31312,76
+1999,YR1999,Lao PDR,LAO,East Asia & Pacific,EAP,0.069619,113
+1999,YR1999,Latvia,LVA,Europe & Central Asia,ECA,0.92123,50
+1999,YR1999,Lebanon,LBN,Middle East & North Africa,MENA,0.99913,48
+1999,YR1999,Liberia,LBR,Sub-Saharan Africa,SSA,0.0032311,138
+1999,YR1999,Libya,LBY,Middle East & North Africa,MENA,0.0010693,143
+1999,YR1999,Lithuania,LTU,Europe & Central Asia,ECA,1.0889,42
+1999,YR1999,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.52707,65
+1999,YR1999,Madagascar,MDG,Sub-Saharan Africa,SSA,0.20891,88
+1999,YR1999,Malawi,MWI,Sub-Saharan Africa,SSA,0.068554,114
+1999,YR1999,Malaysia,MYS,East Asia & Pacific,EAP,1.1864,41
+1999,YR1999,Mali,MLI,Sub-Saharan Africa,SSA,0.06027,118
+1999,YR1999,Malta,MLT,Middle East & North Africa,MENA,0.45913,70
+1999,YR1999,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0069085,133
+1999,YR1999,Mexico,MEX,Latin America & Caribbean,LAC,1.7518,25
+1999,YR1999,Mongolia,MNG,East Asia & Pacific,EAP,0.17105,92
+1999,YR1999,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+1999,YR1999,Morocco,MAR,Middle East & North Africa,MENA,0.49309,67
+1999,YR1999,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.12585,103
+1999,YR1999,Myanmar,MMR,East Asia & Pacific,EAP,0.099925,108
+1999,YR1999,Nepal,NPL,South Asia,SA,0.27949,80
+1999,YR1999,Netherlands,NLD,Europe & Central Asia,ECA,4.4804,8
+1999,YR1999,New Zealand,NZL,East Asia & Pacific,EAP,0.95098,49
+1999,YR1999,Nicaragua,NIC,Latin America & Caribbean,LAC,0.15977,94
+1999,YR1999,Niger,NER,Sub-Saharan Africa,SSA,0.15433,95
+1999,YR1999,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0084465,131
+1999,YR1999,Norway,NOR,Europe & Central Asia,ECA,1.0612,43
+1999,YR1999,Oman,OMN,Middle East & North Africa,MENA,0.18378,90
+1999,YR1999,Pakistan,PAK,South Asia,SA,0.53478,63
+1999,YR1999,Panama,PAN,Latin America & Caribbean,LAC,1.0543,44
+1999,YR1999,Paraguay,PRY,Latin America & Caribbean,LAC,0.12897,101
+1999,YR1999,Peru,PER,Latin America & Caribbean,LAC,0.35547,74
+1999,YR1999,Philippines,PHL,East Asia & Pacific,EAP,0.73938,55
+1999,YR1999,Poland,POL,Europe & Central Asia,ECA,2.1282,19
+1999,YR1999,Portugal,PRT,Europe & Central Asia,ECA,1.5352,30
+1999,YR1999,Qatar,QAT,Middle East & North Africa,MENA,0.0042772,136
+1999,YR1999,Romania,ROU,Europe & Central Asia,ECA,1.3236,38
+1999,YR1999,Russian Federation,RUS,Europe & Central Asia,ECA,1.3616,37
+1999,YR1999,Rwanda,RWA,Sub-Saharan Africa,SSA,0.016552,126
+1999,YR1999,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.063499,115
+1999,YR1999,Senegal,SEN,Sub-Saharan Africa,SSA,0.21064,87
+1999,YR1999,Serbia,SRB,Europe & Central Asia,ECA,..,..
+1999,YR1999,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.40369,72
+1999,YR1999,Singapore,SGP,East Asia & Pacific,EAP,1.6762,28
+1999,YR1999,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6805,27
+1999,YR1999,Slovenia,SVN,Europe & Central Asia,ECA,2.4298,17
+1999,YR1999,Somalia,SOM,Sub-Saharan Africa,SSA,0.023148,124
+1999,YR1999,South Africa,ZAF,Sub-Saharan Africa,SSA,1.4911,32
+1999,YR1999,Spain,ESP,Europe & Central Asia,ECA,3.9588,10
+1999,YR1999,Sudan,SDN,Sub-Saharan Africa,SSA,0.043967,120
+1999,YR1999,Suriname,SUR,Latin America & Caribbean,LAC,0.017751,125
+1999,YR1999,Sweden,SWE,Europe & Central Asia,ECA,3.1129,15
+1999,YR1999,Switzerland,CHE,Europe & Central Asia,ECA,4.358,9
+1999,YR1999,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.24535,83
+1999,YR1999,Tajikistan,TJK,Europe & Central Asia,ECA,0.15364,97
+1999,YR1999,Tanzania,TZA,Sub-Saharan Africa,SSA,0.30074,79
+1999,YR1999,Thailand,THA,East Asia & Pacific,EAP,1.7817,24
+1999,YR1999,Togo,TGO,Sub-Saharan Africa,SSA,0.15394,96
+1999,YR1999,Tunisia,TUN,Middle East & North Africa,MENA,0.60329,59
+1999,YR1999,Turkey,TUR,Europe & Central Asia,ECA,1.7208,26
+1999,YR1999,Turkmenistan,TKM,Europe & Central Asia,ECA,0.061247,117
+1999,YR1999,Uganda,UGA,Sub-Saharan Africa,SSA,0.05755,119
+1999,YR1999,Ukraine,UKR,Europe & Central Asia,ECA,1.393,36
+1999,YR1999,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.34197,75
+1999,YR1999,United Kingdom,GBR,Europe & Central Asia,ECA,5.2759,6
+1999,YR1999,United States,USA,North America,NA,6.8009,2
+1999,YR1999,Uruguay,URY,Latin America & Caribbean,LAC,0.61205,58
+1999,YR1999,Uzbekistan,UZB,Europe & Central Asia,ECA,0.22723,84
+1999,YR1999,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.174,91
+1999,YR1999,Vietnam,VNM,East Asia & Pacific,EAP,0.58929,60
+1999,YR1999,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.0025557,140
+1999,YR1999,Zambia,ZMB,Sub-Saharan Africa,SSA,0.25267,82
+1999,YR1999,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.3129,77
+2000,YR2000,Afghanistan,AFG,South Asia,SA,0.232,86
+2000,YR2000,Albania,ALB,Europe & Central Asia,ECA,0.54939,63
+2000,YR2000,Algeria,DZA,Middle East & North Africa,MENA,0.010191,130
+2000,YR2000,Andorra,AND,Europe & Central Asia,ECA,0.85494,52
+2000,YR2000,Angola,AGO,Sub-Saharan Africa,SSA,5.66E-41,146
+2000,YR2000,Argentina,ARG,Latin America & Caribbean,LAC,0.90567,49
+2000,YR2000,Armenia,ARM,Europe & Central Asia,ECA,0.61208,60
+2000,YR2000,Australia,AUS,East Asia & Pacific,EAP,1.1822,43
+2000,YR2000,Austria,AUT,Europe & Central Asia,ECA,3.593,13
+2000,YR2000,Azerbaijan,AZE,Europe & Central Asia,ECA,0.13855,102
+2000,YR2000,Bahrain,BHR,Middle East & North Africa,MENA,0.16121,97
+2000,YR2000,Bangladesh,BGD,South Asia,SA,0.24871,84
+2000,YR2000,Belarus,BLR,Europe & Central Asia,ECA,1.226,42
+2000,YR2000,Belgium,BEL,Europe & Central Asia,ECA,4.491,8
+2000,YR2000,Belize,BLZ,Latin America & Caribbean,LAC,0.090497,114
+2000,YR2000,Benin,BEN,Sub-Saharan Africa,SSA,0.076409,115
+2000,YR2000,Bhutan,BTN,South Asia,SA,0.058558,119
+2000,YR2000,Bolivia,BOL,Latin America & Caribbean,LAC,0.15955,98
+2000,YR2000,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.54402,65
+2000,YR2000,Brazil,BRA,Latin America & Caribbean,LAC,1.5995,28
+2000,YR2000,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.0078954,133
+2000,YR2000,Bulgaria,BGR,Europe & Central Asia,ECA,1.5079,32
+2000,YR2000,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.31814,78
+2000,YR2000,Burundi,BDI,Sub-Saharan Africa,SSA,0.0058257,135
+2000,YR2000,Cambodia,KHM,East Asia & Pacific,EAP,0.12202,106
+2000,YR2000,Cameroon,CMR,Sub-Saharan Africa,SSA,0.028508,125
+2000,YR2000,Canada,CAN,North America,NA,1.9088,22
+2000,YR2000,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.098779,111
+2000,YR2000,Chad,TCD,Sub-Saharan Africa,SSA,0.00040674,142
+2000,YR2000,Chile,CHL,Latin America & Caribbean,LAC,0.5699,61
+2000,YR2000,China,CHN,East Asia & Pacific,EAP,4.4365,9
+2000,YR2000,Colombia,COL,Latin America & Caribbean,LAC,0.53639,66
+2000,YR2000,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0063601,134
+2000,YR2000,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.00022748,144
+2000,YR2000,Costa Rica,CRI,Latin America & Caribbean,LAC,0.35257,75
+2000,YR2000,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.14061,101
+2000,YR2000,Croatia,HRV,Europe & Central Asia,ECA,1.1422,44
+2000,YR2000,Cyprus,CYP,Europe & Central Asia,ECA,0.85635,51
+2000,YR2000,Czech Republic,CZE,Europe & Central Asia,ECA,3.7031,12
+2000,YR2000,Denmark,DNK,Europe & Central Asia,ECA,2.6122,16
+2000,YR2000,Ecuador,ECU,Latin America & Caribbean,LAC,0.17789,95
+2000,YR2000,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.62307,59
+2000,YR2000,El Salvador,SLV,Latin America & Caribbean,LAC,0.45311,71
+2000,YR2000,Eritrea,ERI,Sub-Saharan Africa,SSA,0.060721,118
+2000,YR2000,Estonia,EST,Europe & Central Asia,ECA,0.96635,47
+2000,YR2000,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.036242,122
+2000,YR2000,Finland,FIN,Europe & Central Asia,ECA,1.5925,29
+2000,YR2000,France,FRA,Europe & Central Asia,ECA,5.3649,5
+2000,YR2000,Gabon,GAB,Sub-Saharan Africa,SSA,0.0011003,140
+2000,YR2000,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.20126,89
+2000,YR2000,Georgia,GEO,Europe & Central Asia,ECA,0.6959,57
+2000,YR2000,Germany,DEU,Europe & Central Asia,ECA,7.334,1
+2000,YR2000,Ghana,GHA,Sub-Saharan Africa,SSA,0.071844,116
+2000,YR2000,Greece,GRC,Europe & Central Asia,ECA,1.2401,40
+2000,YR2000,Greenland,GRL,Europe & Central Asia,ECA,0.0095867,131
+2000,YR2000,Guatemala,GTM,Latin America & Caribbean,LAC,0.52948,67
+2000,YR2000,Guinea,GIN,Sub-Saharan Africa,SSA,0.0057415,136
+2000,YR2000,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,1.07E-15,145
+2000,YR2000,Guyana,GUY,Latin America & Caribbean,LAC,0.023755,127
+2000,YR2000,Honduras,HND,Latin America & Caribbean,LAC,0.18984,93
+2000,YR2000,Hungary,HUN,Europe & Central Asia,ECA,1.8497,24
+2000,YR2000,Iceland,ISL,Europe & Central Asia,ECA,0.21833,87
+2000,YR2000,India,IND,South Asia,SA,3.5839,14
+2000,YR2000,Indonesia,IDN,East Asia & Pacific,EAP,1.5487,31
+2000,YR2000,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.20502,88
+2000,YR2000,Iraq,IRQ,Middle East & North Africa,MENA,4.20E-54,147
+2000,YR2000,Ireland,IRL,Europe & Central Asia,ECA,1.2696,38
+2000,YR2000,Israel,ISR,Middle East & North Africa,MENA,1.9315,21
+2000,YR2000,Italy,ITA,Europe & Central Asia,ECA,5.7489,4
+2000,YR2000,Japan,JPN,East Asia & Pacific,EAP,6.0641,3
+2000,YR2000,Jordan,JOR,Middle East & North Africa,MENA,0.85766,50
+2000,YR2000,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.2536,83
+2000,YR2000,Kenya,KEN,Sub-Saharan Africa,SSA,0.38733,74
+2000,YR2000,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.5543,30
+2000,YR2000,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.5668,17
+2000,YR2000,Kuwait,KWT,Middle East & North Africa,MENA,0.0051716,137
+2000,YR2000,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.51999,68
+2000,YR2000,Lao PDR,LAO,East Asia & Pacific,EAP,0.050191,120
+2000,YR2000,Latvia,LVA,Europe & Central Asia,ECA,0.77959,54
+2000,YR2000,Lebanon,LBN,Middle East & North Africa,MENA,1.013,45
+2000,YR2000,Liberia,LBR,Sub-Saharan Africa,SSA,0.0029908,139
+2000,YR2000,Libya,LBY,Middle East & North Africa,MENA,0.00035726,143
+2000,YR2000,Lithuania,LTU,Europe & Central Asia,ECA,0.92116,48
+2000,YR2000,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.48114,70
+2000,YR2000,Madagascar,MDG,Sub-Saharan Africa,SSA,0.27727,81
+2000,YR2000,Malawi,MWI,Sub-Saharan Africa,SSA,0.097179,112
+2000,YR2000,Malaysia,MYS,East Asia & Pacific,EAP,1.3703,35
+2000,YR2000,Mali,MLI,Sub-Saharan Africa,SSA,0.12233,105
+2000,YR2000,Malta,MLT,Middle East & North Africa,MENA,0.29052,80
+2000,YR2000,Mauritania,MRT,Sub-Saharan Africa,SSA,0.014042,129
+2000,YR2000,Mexico,MEX,Latin America & Caribbean,LAC,1.728,26
+2000,YR2000,Mongolia,MNG,East Asia & Pacific,EAP,0.11794,108
+2000,YR2000,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+2000,YR2000,Morocco,MAR,Middle East & North Africa,MENA,0.50539,69
+2000,YR2000,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.19746,92
+2000,YR2000,Myanmar,MMR,East Asia & Pacific,EAP,0.11692,109
+2000,YR2000,Nepal,NPL,South Asia,SA,0.32289,76
+2000,YR2000,Netherlands,NLD,Europe & Central Asia,ECA,3.9398,10
+2000,YR2000,New Zealand,NZL,East Asia & Pacific,EAP,0.967,46
+2000,YR2000,Nicaragua,NIC,Latin America & Caribbean,LAC,0.15464,99
+2000,YR2000,Niger,NER,Sub-Saharan Africa,SSA,0.14546,100
+2000,YR2000,Nigeria,NGA,Sub-Saharan Africa,SSA,0.00081844,141
+2000,YR2000,Norway,NOR,Europe & Central Asia,ECA,0.83635,53
+2000,YR2000,Oman,OMN,Middle East & North Africa,MENA,0.13259,103
+2000,YR2000,Pakistan,PAK,South Asia,SA,0.54465,64
+2000,YR2000,Panama,PAN,Latin America & Caribbean,LAC,1.2355,41
+2000,YR2000,Paraguay,PRY,Latin America & Caribbean,LAC,0.12058,107
+2000,YR2000,Peru,PER,Latin America & Caribbean,LAC,0.39814,73
+2000,YR2000,Philippines,PHL,East Asia & Pacific,EAP,0.77543,55
+2000,YR2000,Poland,POL,Europe & Central Asia,ECA,2.14,20
+2000,YR2000,Portugal,PRT,Europe & Central Asia,ECA,1.7137,27
+2000,YR2000,Qatar,QAT,Middle East & North Africa,MENA,0.0082303,132
+2000,YR2000,Romania,ROU,Europe & Central Asia,ECA,1.2895,37
+2000,YR2000,Russian Federation,RUS,Europe & Central Asia,ECA,1.241,39
+2000,YR2000,Rwanda,RWA,Sub-Saharan Africa,SSA,0.027094,126
+2000,YR2000,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.044851,121
+2000,YR2000,Senegal,SEN,Sub-Saharan Africa,SSA,0.27202,82
+2000,YR2000,Serbia,SRB,Europe & Central Asia,ECA,..,..
+2000,YR2000,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.32021,77
+2000,YR2000,Singapore,SGP,East Asia & Pacific,EAP,1.7678,25
+2000,YR2000,Slovak Republic,SVK,Europe & Central Asia,ECA,1.4812,33
+2000,YR2000,Slovenia,SVN,Europe & Central Asia,ECA,2.4229,18
+2000,YR2000,Somalia,SOM,Sub-Saharan Africa,SSA,0.034577,123
+2000,YR2000,South Africa,ZAF,Sub-Saharan Africa,SSA,1.3908,34
+2000,YR2000,Spain,ESP,Europe & Central Asia,ECA,3.8666,11
+2000,YR2000,Sudan,SDN,Sub-Saharan Africa,SSA,0.017508,128
+2000,YR2000,Suriname,SUR,Latin America & Caribbean,LAC,0.067116,117
+2000,YR2000,Sweden,SWE,Europe & Central Asia,ECA,2.7734,15
+2000,YR2000,Switzerland,CHE,Europe & Central Asia,ECA,4.5034,7
+2000,YR2000,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.20007,90
+2000,YR2000,Tajikistan,TJK,Europe & Central Asia,ECA,0.10272,110
+2000,YR2000,Tanzania,TZA,Sub-Saharan Africa,SSA,0.18153,94
+2000,YR2000,Thailand,THA,East Asia & Pacific,EAP,2.2107,19
+2000,YR2000,Togo,TGO,Sub-Saharan Africa,SSA,0.16592,96
+2000,YR2000,Tunisia,TUN,Middle East & North Africa,MENA,0.6948,58
+2000,YR2000,Turkey,TUR,Europe & Central Asia,ECA,1.8912,23
+2000,YR2000,Turkmenistan,TKM,Europe & Central Asia,ECA,0.029817,124
+2000,YR2000,Uganda,UGA,Sub-Saharan Africa,SSA,0.09442,113
+2000,YR2000,Ukraine,UKR,Europe & Central Asia,ECA,1.3613,36
+2000,YR2000,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.29689,79
+2000,YR2000,United Kingdom,GBR,Europe & Central Asia,ECA,4.8404,6
+2000,YR2000,United States,USA,North America,NA,6.3808,2
+2000,YR2000,Uruguay,URY,Latin America & Caribbean,LAC,0.56575,62
+2000,YR2000,Uzbekistan,UZB,Europe & Central Asia,ECA,0.23698,85
+2000,YR2000,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.12529,104
+2000,YR2000,Vietnam,VNM,East Asia & Pacific,EAP,0.71028,56
+2000,YR2000,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.0041983,138
+2000,YR2000,Zambia,ZMB,Sub-Saharan Africa,SSA,0.1992,91
+2000,YR2000,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.43621,72
+2001,YR2001,Afghanistan,AFG,South Asia,SA,0.2721,86
+2001,YR2001,Albania,ALB,Europe & Central Asia,ECA,0.4648,70
+2001,YR2001,Algeria,DZA,Middle East & North Africa,MENA,0.016979,131
+2001,YR2001,Andorra,AND,Europe & Central Asia,ECA,0.94285,47
+2001,YR2001,Angola,AGO,Sub-Saharan Africa,SSA,2.74E-36,146
+2001,YR2001,Argentina,ARG,Latin America & Caribbean,LAC,0.84634,52
+2001,YR2001,Armenia,ARM,Europe & Central Asia,ECA,0.79189,55
+2001,YR2001,Australia,AUS,East Asia & Pacific,EAP,1.0335,46
+2001,YR2001,Austria,AUT,Europe & Central Asia,ECA,3.5029,13
+2001,YR2001,Azerbaijan,AZE,Europe & Central Asia,ECA,0.078571,118
+2001,YR2001,Bahrain,BHR,Middle East & North Africa,MENA,0.14786,98
+2001,YR2001,Bangladesh,BGD,South Asia,SA,0.30344,82
+2001,YR2001,Belarus,BLR,Europe & Central Asia,ECA,1.2012,40
+2001,YR2001,Belgium,BEL,Europe & Central Asia,ECA,4.6019,9
+2001,YR2001,Belize,BLZ,Latin America & Caribbean,LAC,0.10082,111
+2001,YR2001,Benin,BEN,Sub-Saharan Africa,SSA,0.084358,116
+2001,YR2001,Bhutan,BTN,South Asia,SA,0.091619,114
+2001,YR2001,Bolivia,BOL,Latin America & Caribbean,LAC,0.15793,96
+2001,YR2001,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.58817,62
+2001,YR2001,Brazil,BRA,Latin America & Caribbean,LAC,1.4988,32
+2001,YR2001,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.03459,125
+2001,YR2001,Bulgaria,BGR,Europe & Central Asia,ECA,1.4859,33
+2001,YR2001,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.36634,76
+2001,YR2001,Burundi,BDI,Sub-Saharan Africa,SSA,0.022126,130
+2001,YR2001,Cambodia,KHM,East Asia & Pacific,EAP,0.12356,105
+2001,YR2001,Cameroon,CMR,Sub-Saharan Africa,SSA,0.02577,129
+2001,YR2001,Canada,CAN,North America,NA,1.7855,26
+2001,YR2001,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.1656,95
+2001,YR2001,Chad,TCD,Sub-Saharan Africa,SSA,0.0076266,137
+2001,YR2001,Chile,CHL,Latin America & Caribbean,LAC,0.54715,65
+2001,YR2001,China,CHN,East Asia & Pacific,EAP,4.8113,6
+2001,YR2001,Colombia,COL,Latin America & Caribbean,LAC,0.57405,63
+2001,YR2001,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.010151,136
+2001,YR2001,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.00085396,143
+2001,YR2001,Costa Rica,CRI,Latin America & Caribbean,LAC,0.43033,72
+2001,YR2001,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.12754,104
+2001,YR2001,Croatia,HRV,Europe & Central Asia,ECA,1.0961,43
+2001,YR2001,Cyprus,CYP,Europe & Central Asia,ECA,0.82944,54
+2001,YR2001,Czech Republic,CZE,Europe & Central Asia,ECA,3.4627,14
+2001,YR2001,Denmark,DNK,Europe & Central Asia,ECA,2.407,17
+2001,YR2001,Ecuador,ECU,Latin America & Caribbean,LAC,0.17097,93
+2001,YR2001,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.65671,60
+2001,YR2001,El Salvador,SLV,Latin America & Caribbean,LAC,0.48137,69
+2001,YR2001,Eritrea,ERI,Sub-Saharan Africa,SSA,0.13633,103
+2001,YR2001,Estonia,EST,Europe & Central Asia,ECA,1.1262,42
+2001,YR2001,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.066529,120
+2001,YR2001,Finland,FIN,Europe & Central Asia,ECA,1.4518,34
+2001,YR2001,France,FRA,Europe & Central Asia,ECA,5.3179,4
+2001,YR2001,Gabon,GAB,Sub-Saharan Africa,SSA,0.0044862,140
+2001,YR2001,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.17693,92
+2001,YR2001,Georgia,GEO,Europe & Central Asia,ECA,0.66411,59
+2001,YR2001,Germany,DEU,Europe & Central Asia,ECA,6.9573,1
+2001,YR2001,Ghana,GHA,Sub-Saharan Africa,SSA,0.098295,112
+2001,YR2001,Greece,GRC,Europe & Central Asia,ECA,1.2023,39
+2001,YR2001,Greenland,GRL,Europe & Central Asia,ECA,0.034915,124
+2001,YR2001,Guatemala,GTM,Latin America & Caribbean,LAC,0.53617,66
+2001,YR2001,Guinea,GIN,Sub-Saharan Africa,SSA,0.01682,133
+2001,YR2001,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,4.55E-18,145
+2001,YR2001,Guyana,GUY,Latin America & Caribbean,LAC,0.066081,121
+2001,YR2001,Honduras,HND,Latin America & Caribbean,LAC,0.16797,94
+2001,YR2001,Hungary,HUN,Europe & Central Asia,ECA,1.8949,24
+2001,YR2001,Iceland,ISL,Europe & Central Asia,ECA,0.27027,87
+2001,YR2001,India,IND,South Asia,SA,3.8693,12
+2001,YR2001,Indonesia,IDN,East Asia & Pacific,EAP,1.5931,28
+2001,YR2001,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.27436,85
+2001,YR2001,Iraq,IRQ,Middle East & North Africa,MENA,4.37E-56,147
+2001,YR2001,Ireland,IRL,Europe & Central Asia,ECA,1.0697,44
+2001,YR2001,Israel,ISR,Middle East & North Africa,MENA,1.9472,22
+2001,YR2001,Italy,ITA,Europe & Central Asia,ECA,5.2377,5
+2001,YR2001,Japan,JPN,East Asia & Pacific,EAP,5.7466,3
+2001,YR2001,Jordan,JOR,Middle East & North Africa,MENA,0.68647,58
+2001,YR2001,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.28632,84
+2001,YR2001,Kenya,KEN,Sub-Saharan Africa,SSA,0.36003,77
+2001,YR2001,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.5517,29
+2001,YR2001,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.8144,16
+2001,YR2001,Kuwait,KWT,Middle East & North Africa,MENA,0.013386,134
+2001,YR2001,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.37064,75
+2001,YR2001,Lao PDR,LAO,East Asia & Pacific,EAP,0.085808,115
+2001,YR2001,Latvia,LVA,Europe & Central Asia,ECA,0.84411,53
+2001,YR2001,Lebanon,LBN,Middle East & North Africa,MENA,1.0352,45
+2001,YR2001,Liberia,LBR,Sub-Saharan Africa,SSA,0.00087495,142
+2001,YR2001,Libya,LBY,Middle East & North Africa,MENA,0.0001492,144
+2001,YR2001,Lithuania,LTU,Europe & Central Asia,ECA,0.89506,49
+2001,YR2001,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.52672,67
+2001,YR2001,Madagascar,MDG,Sub-Saharan Africa,SSA,0.24545,89
+2001,YR2001,Malawi,MWI,Sub-Saharan Africa,SSA,0.071039,119
+2001,YR2001,Malaysia,MYS,East Asia & Pacific,EAP,1.3429,36
+2001,YR2001,Mali,MLI,Sub-Saharan Africa,SSA,0.082449,117
+2001,YR2001,Malta,MLT,Middle East & North Africa,MENA,0.34932,78
+2001,YR2001,Mauritania,MRT,Sub-Saharan Africa,SSA,0.016907,132
+2001,YR2001,Mexico,MEX,Latin America & Caribbean,LAC,1.8659,25
+2001,YR2001,Mongolia,MNG,East Asia & Pacific,EAP,0.10673,110
+2001,YR2001,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+2001,YR2001,Morocco,MAR,Middle East & North Africa,MENA,0.50336,68
+2001,YR2001,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.061693,122
+2001,YR2001,Myanmar,MMR,East Asia & Pacific,EAP,0.11043,108
+2001,YR2001,Nepal,NPL,South Asia,SA,0.41442,74
+2001,YR2001,Netherlands,NLD,Europe & Central Asia,ECA,4.0937,10
+2001,YR2001,New Zealand,NZL,East Asia & Pacific,EAP,0.89163,50
+2001,YR2001,Nicaragua,NIC,Latin America & Caribbean,LAC,0.14509,100
+2001,YR2001,Niger,NER,Sub-Saharan Africa,SSA,0.11426,107
+2001,YR2001,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0013756,141
+2001,YR2001,Norway,NOR,Europe & Central Asia,ECA,0.77247,56
+2001,YR2001,Oman,OMN,Middle East & North Africa,MENA,0.10683,109
+2001,YR2001,Pakistan,PAK,South Asia,SA,0.59506,61
+2001,YR2001,Panama,PAN,Latin America & Caribbean,LAC,1.1462,41
+2001,YR2001,Paraguay,PRY,Latin America & Caribbean,LAC,0.1213,106
+2001,YR2001,Peru,PER,Latin America & Caribbean,LAC,0.46104,71
+2001,YR2001,Philippines,PHL,East Asia & Pacific,EAP,0.902,48
+2001,YR2001,Poland,POL,Europe & Central Asia,ECA,2.0381,20
+2001,YR2001,Portugal,PRT,Europe & Central Asia,ECA,1.6982,27
+2001,YR2001,Qatar,QAT,Middle East & North Africa,MENA,0.0053942,139
+2001,YR2001,Romania,ROU,Europe & Central Asia,ECA,1.3471,35
+2001,YR2001,Russian Federation,RUS,Europe & Central Asia,ECA,1.3428,37
+2001,YR2001,Rwanda,RWA,Sub-Saharan Africa,SSA,0.028539,128
+2001,YR2001,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.14751,99
+2001,YR2001,Senegal,SEN,Sub-Saharan Africa,SSA,0.30538,81
+2001,YR2001,Serbia,SRB,Europe & Central Asia,ECA,..,..
+2001,YR2001,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.41622,73
+2001,YR2001,Singapore,SGP,East Asia & Pacific,EAP,1.953,21
+2001,YR2001,Slovak Republic,SVK,Europe & Central Asia,ECA,1.5204,31
+2001,YR2001,Slovenia,SVN,Europe & Central Asia,ECA,2.3107,18
+2001,YR2001,Somalia,SOM,Sub-Saharan Africa,SSA,0.034279,126
+2001,YR2001,South Africa,ZAF,Sub-Saharan Africa,SSA,1.5288,30
+2001,YR2001,Spain,ESP,Europe & Central Asia,ECA,3.8873,11
+2001,YR2001,Sudan,SDN,Sub-Saharan Africa,SSA,0.0061777,138
+2001,YR2001,Suriname,SUR,Latin America & Caribbean,LAC,0.050875,123
+2001,YR2001,Sweden,SWE,Europe & Central Asia,ECA,2.9833,15
+2001,YR2001,Switzerland,CHE,Europe & Central Asia,ECA,4.7659,7
+2001,YR2001,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.29161,83
+2001,YR2001,Tajikistan,TJK,Europe & Central Asia,ECA,0.094617,113
+2001,YR2001,Tanzania,TZA,Sub-Saharan Africa,SSA,0.22707,90
+2001,YR2001,Thailand,THA,East Asia & Pacific,EAP,2.0664,19
+2001,YR2001,Togo,TGO,Sub-Saharan Africa,SSA,0.17985,91
+2001,YR2001,Tunisia,TUN,Middle East & North Africa,MENA,0.73097,57
+2001,YR2001,Turkey,TUR,Europe & Central Asia,ECA,1.9446,23
+2001,YR2001,Turkmenistan,TKM,Europe & Central Asia,ECA,0.028794,127
+2001,YR2001,Uganda,UGA,Sub-Saharan Africa,SSA,0.14251,101
+2001,YR2001,Ukraine,UKR,Europe & Central Asia,ECA,1.263,38
+2001,YR2001,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.30817,80
+2001,YR2001,United Kingdom,GBR,Europe & Central Asia,ECA,4.7249,8
+2001,YR2001,United States,USA,North America,NA,6.055,2
+2001,YR2001,Uruguay,URY,Latin America & Caribbean,LAC,0.55814,64
+2001,YR2001,Uzbekistan,UZB,Europe & Central Asia,ECA,0.26029,88
+2001,YR2001,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.15188,97
+2001,YR2001,Vietnam,VNM,East Asia & Pacific,EAP,0.86349,51
+2001,YR2001,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.010682,135
+2001,YR2001,Zambia,ZMB,Sub-Saharan Africa,SSA,0.13699,102
+2001,YR2001,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.32257,79
+2002,YR2002,Afghanistan,AFG,South Asia,SA,0.19268,96
+2002,YR2002,Albania,ALB,Europe & Central Asia,ECA,0.47344,72
+2002,YR2002,Algeria,DZA,Middle East & North Africa,MENA,0.026201,133
+2002,YR2002,Andorra,AND,Europe & Central Asia,ECA,0.80844,55
+2002,YR2002,Angola,AGO,Sub-Saharan Africa,SSA,8.30E-20,146
+2002,YR2002,Argentina,ARG,Latin America & Caribbean,LAC,0.75577,56
+2002,YR2002,Armenia,ARM,Europe & Central Asia,ECA,0.46268,74
+2002,YR2002,Australia,AUS,East Asia & Pacific,EAP,1.0958,42
+2002,YR2002,Austria,AUT,Europe & Central Asia,ECA,3.4871,13
+2002,YR2002,Azerbaijan,AZE,Europe & Central Asia,ECA,0.10957,112
+2002,YR2002,Bahrain,BHR,Middle East & North Africa,MENA,0.20697,94
+2002,YR2002,Bangladesh,BGD,South Asia,SA,0.28026,86
+2002,YR2002,Belarus,BLR,Europe & Central Asia,ECA,1.3223,38
+2002,YR2002,Belgium,BEL,Europe & Central Asia,ECA,4.47,8
+2002,YR2002,Belize,BLZ,Latin America & Caribbean,LAC,0.20264,95
+2002,YR2002,Benin,BEN,Sub-Saharan Africa,SSA,0.089166,114
+2002,YR2002,Bhutan,BTN,South Asia,SA,0.058826,122
+2002,YR2002,Bolivia,BOL,Latin America & Caribbean,LAC,0.17237,101
+2002,YR2002,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.65981,58
+2002,YR2002,Brazil,BRA,Latin America & Caribbean,LAC,1.3676,34
+2002,YR2002,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.021882,134
+2002,YR2002,Bulgaria,BGR,Europe & Central Asia,ECA,1.4671,31
+2002,YR2002,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.46714,73
+2002,YR2002,Burundi,BDI,Sub-Saharan Africa,SSA,0.05324,125
+2002,YR2002,Cambodia,KHM,East Asia & Pacific,EAP,0.17911,98
+2002,YR2002,Cameroon,CMR,Sub-Saharan Africa,SSA,0.050007,126
+2002,YR2002,Canada,CAN,North America,NA,2.0084,22
+2002,YR2002,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.13201,109
+2002,YR2002,Chad,TCD,Sub-Saharan Africa,SSA,0.043284,128
+2002,YR2002,Chile,CHL,Latin America & Caribbean,LAC,0.51372,66
+2002,YR2002,China,CHN,East Asia & Pacific,EAP,4.9697,6
+2002,YR2002,Colombia,COL,Latin America & Caribbean,LAC,0.61597,60
+2002,YR2002,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.013385,139
+2002,YR2002,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0014956,144
+2002,YR2002,Costa Rica,CRI,Latin America & Caribbean,LAC,0.40222,78
+2002,YR2002,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.13766,107
+2002,YR2002,Croatia,HRV,Europe & Central Asia,ECA,1.1307,41
+2002,YR2002,Cyprus,CYP,Europe & Central Asia,ECA,0.84168,51
+2002,YR2002,Czech Republic,CZE,Europe & Central Asia,ECA,3.3901,14
+2002,YR2002,Denmark,DNK,Europe & Central Asia,ECA,2.3976,17
+2002,YR2002,Ecuador,ECU,Latin America & Caribbean,LAC,0.16391,102
+2002,YR2002,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.70909,57
+2002,YR2002,El Salvador,SLV,Latin America & Caribbean,LAC,0.56455,64
+2002,YR2002,Eritrea,ERI,Sub-Saharan Africa,SSA,0.17252,100
+2002,YR2002,Estonia,EST,Europe & Central Asia,ECA,1.0712,44
+2002,YR2002,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.082802,116
+2002,YR2002,Finland,FIN,Europe & Central Asia,ECA,1.6299,27
+2002,YR2002,France,FRA,Europe & Central Asia,ECA,5.3565,5
+2002,YR2002,Gabon,GAB,Sub-Saharan Africa,SSA,0.0075321,142
+2002,YR2002,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.17414,99
+2002,YR2002,Georgia,GEO,Europe & Central Asia,ECA,0.48388,71
+2002,YR2002,Germany,DEU,Europe & Central Asia,ECA,6.8231,1
+2002,YR2002,Ghana,GHA,Sub-Saharan Africa,SSA,0.068736,118
+2002,YR2002,Greece,GRC,Europe & Central Asia,ECA,1.3238,37
+2002,YR2002,Greenland,GRL,Europe & Central Asia,ECA,0.030657,129
+2002,YR2002,Guatemala,GTM,Latin America & Caribbean,LAC,0.57134,63
+2002,YR2002,Guinea,GIN,Sub-Saharan Africa,SSA,0.011255,141
+2002,YR2002,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.0038167,143
+2002,YR2002,Guyana,GUY,Latin America & Caribbean,LAC,0.05391,124
+2002,YR2002,Honduras,HND,Latin America & Caribbean,LAC,0.23036,90
+2002,YR2002,Hungary,HUN,Europe & Central Asia,ECA,1.9543,23
+2002,YR2002,Iceland,ISL,Europe & Central Asia,ECA,0.30594,83
+2002,YR2002,India,IND,South Asia,SA,3.916,12
+2002,YR2002,Indonesia,IDN,East Asia & Pacific,EAP,1.5922,29
+2002,YR2002,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.35456,81
+2002,YR2002,Iraq,IRQ,Middle East & North Africa,MENA,2.22E-23,147
+2002,YR2002,Ireland,IRL,Europe & Central Asia,ECA,0.83622,52
+2002,YR2002,Israel,ISR,Middle East & North Africa,MENA,2.0721,21
+2002,YR2002,Italy,ITA,Europe & Central Asia,ECA,5.4928,3
+2002,YR2002,Japan,JPN,East Asia & Pacific,EAP,5.4753,4
+2002,YR2002,Jordan,JOR,Middle East & North Africa,MENA,0.54744,65
+2002,YR2002,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.22496,92
+2002,YR2002,Kenya,KEN,Sub-Saharan Africa,SSA,0.45104,75
+2002,YR2002,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.437,32
+2002,YR2002,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.7508,16
+2002,YR2002,Kuwait,KWT,Middle East & North Africa,MENA,0.015395,137
+2002,YR2002,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.42431,77
+2002,YR2002,Lao PDR,LAO,East Asia & Pacific,EAP,0.08972,113
+2002,YR2002,Latvia,LVA,Europe & Central Asia,ECA,0.84932,50
+2002,YR2002,Lebanon,LBN,Middle East & North Africa,MENA,0.98277,45
+2002,YR2002,Liberia,LBR,Sub-Saharan Africa,SSA,0.026631,132
+2002,YR2002,Libya,LBY,Middle East & North Africa,MENA,0.00081718,145
+2002,YR2002,Lithuania,LTU,Europe & Central Asia,ECA,0.89295,49
+2002,YR2002,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.51109,68
+2002,YR2002,Madagascar,MDG,Sub-Saharan Africa,SSA,0.30197,84
+2002,YR2002,Malawi,MWI,Sub-Saharan Africa,SSA,0.060631,121
+2002,YR2002,Malaysia,MYS,East Asia & Pacific,EAP,1.3372,36
+2002,YR2002,Mali,MLI,Sub-Saharan Africa,SSA,0.084772,115
+2002,YR2002,Malta,MLT,Middle East & North Africa,MENA,0.50905,69
+2002,YR2002,Mauritania,MRT,Sub-Saharan Africa,SSA,0.026875,131
+2002,YR2002,Mexico,MEX,Latin America & Caribbean,LAC,1.7315,26
+2002,YR2002,Mongolia,MNG,East Asia & Pacific,EAP,0.13778,106
+2002,YR2002,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+2002,YR2002,Morocco,MAR,Middle East & North Africa,MENA,0.57593,62
+2002,YR2002,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.066749,120
+2002,YR2002,Myanmar,MMR,East Asia & Pacific,EAP,0.13298,108
+2002,YR2002,Nepal,NPL,South Asia,SA,0.48849,70
+2002,YR2002,Netherlands,NLD,Europe & Central Asia,ECA,4.0177,10
+2002,YR2002,New Zealand,NZL,East Asia & Pacific,EAP,0.90314,47
+2002,YR2002,Nicaragua,NIC,Latin America & Caribbean,LAC,0.23324,89
+2002,YR2002,Niger,NER,Sub-Saharan Africa,SSA,0.20927,93
+2002,YR2002,Nigeria,NGA,Sub-Saharan Africa,SSA,0.011465,140
+2002,YR2002,Norway,NOR,Europe & Central Asia,ECA,0.811,54
+2002,YR2002,Oman,OMN,Middle East & North Africa,MENA,0.15879,103
+2002,YR2002,Pakistan,PAK,South Asia,SA,0.62398,59
+2002,YR2002,Panama,PAN,Latin America & Caribbean,LAC,1.0934,43
+2002,YR2002,Paraguay,PRY,Latin America & Caribbean,LAC,0.12744,110
+2002,YR2002,Peru,PER,Latin America & Caribbean,LAC,0.42964,76
+2002,YR2002,Philippines,PHL,East Asia & Pacific,EAP,0.90166,48
+2002,YR2002,Poland,POL,Europe & Central Asia,ECA,2.1326,20
+2002,YR2002,Portugal,PRT,Europe & Central Asia,ECA,1.6211,28
+2002,YR2002,Qatar,QAT,Middle East & North Africa,MENA,0.021567,135
+2002,YR2002,Romania,ROU,Europe & Central Asia,ECA,1.2762,39
+2002,YR2002,Russian Federation,RUS,Europe & Central Asia,ECA,1.3627,35
+2002,YR2002,Rwanda,RWA,Sub-Saharan Africa,SSA,0.045738,127
+2002,YR2002,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.058496,123
+2002,YR2002,Senegal,SEN,Sub-Saharan Africa,SSA,0.28286,85
+2002,YR2002,Serbia,SRB,Europe & Central Asia,ECA,..,..
+2002,YR2002,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.57664,61
+2002,YR2002,Singapore,SGP,East Asia & Pacific,EAP,1.7377,25
+2002,YR2002,Slovak Republic,SVK,Europe & Central Asia,ECA,1.5085,30
+2002,YR2002,Slovenia,SVN,Europe & Central Asia,ECA,2.321,18
+2002,YR2002,Somalia,SOM,Sub-Saharan Africa,SSA,0.0763,117
+2002,YR2002,South Africa,ZAF,Sub-Saharan Africa,SSA,1.4091,33
+2002,YR2002,Spain,ESP,Europe & Central Asia,ECA,3.925,11
+2002,YR2002,Sudan,SDN,Sub-Saharan Africa,SSA,0.021384,136
+2002,YR2002,Suriname,SUR,Latin America & Caribbean,LAC,0.067029,119
+2002,YR2002,Sweden,SWE,Europe & Central Asia,ECA,3.0268,15
+2002,YR2002,Switzerland,CHE,Europe & Central Asia,ECA,4.078,9
+2002,YR2002,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.31839,82
+2002,YR2002,Tajikistan,TJK,Europe & Central Asia,ECA,0.11267,111
+2002,YR2002,Tanzania,TZA,Sub-Saharan Africa,SSA,0.22976,91
+2002,YR2002,Thailand,THA,East Asia & Pacific,EAP,2.1931,19
+2002,YR2002,Togo,TGO,Sub-Saharan Africa,SSA,0.2405,88
+2002,YR2002,Tunisia,TUN,Middle East & North Africa,MENA,0.81731,53
+2002,YR2002,Turkey,TUR,Europe & Central Asia,ECA,1.8957,24
+2002,YR2002,Turkmenistan,TKM,Europe & Central Asia,ECA,0.027402,130
+2002,YR2002,Uganda,UGA,Sub-Saharan Africa,SSA,0.13993,105
+2002,YR2002,Ukraine,UKR,Europe & Central Asia,ECA,1.2691,40
+2002,YR2002,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.36551,80
+2002,YR2002,United Kingdom,GBR,Europe & Central Asia,ECA,4.4771,7
+2002,YR2002,United States,USA,North America,NA,6.1507,2
+2002,YR2002,Uruguay,URY,Latin America & Caribbean,LAC,0.5118,67
+2002,YR2002,Uzbekistan,UZB,Europe & Central Asia,ECA,0.26263,87
+2002,YR2002,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.15773,104
+2002,YR2002,Vietnam,VNM,East Asia & Pacific,EAP,0.91323,46
+2002,YR2002,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.014214,138
+2002,YR2002,Zambia,ZMB,Sub-Saharan Africa,SSA,0.18257,97
+2002,YR2002,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.38231,79
+2003,YR2003,Afghanistan,AFG,South Asia,SA,0.23499,89
+2003,YR2003,Albania,ALB,Europe & Central Asia,ECA,0.58089,67
+2003,YR2003,Algeria,DZA,Middle East & North Africa,MENA,0.010184,135
+2003,YR2003,Andorra,AND,Europe & Central Asia,ECA,0.69105,60
+2003,YR2003,Angola,AGO,Sub-Saharan Africa,SSA,6.34E-54,147
+2003,YR2003,Argentina,ARG,Latin America & Caribbean,LAC,0.78036,55
+2003,YR2003,Armenia,ARM,Europe & Central Asia,ECA,0.42479,76
+2003,YR2003,Australia,AUS,East Asia & Pacific,EAP,1.0195,44
+2003,YR2003,Austria,AUT,Europe & Central Asia,ECA,3.4024,13
+2003,YR2003,Azerbaijan,AZE,Europe & Central Asia,ECA,0.095481,113
+2003,YR2003,Bahrain,BHR,Middle East & North Africa,MENA,0.20736,94
+2003,YR2003,Bangladesh,BGD,South Asia,SA,0.28609,83
+2003,YR2003,Belarus,BLR,Europe & Central Asia,ECA,1.2284,39
+2003,YR2003,Belgium,BEL,Europe & Central Asia,ECA,4.4977,8
+2003,YR2003,Belize,BLZ,Latin America & Caribbean,LAC,0.15186,103
+2003,YR2003,Benin,BEN,Sub-Saharan Africa,SSA,0.078599,117
+2003,YR2003,Bhutan,BTN,South Asia,SA,0.10334,111
+2003,YR2003,Bolivia,BOL,Latin America & Caribbean,LAC,0.14398,105
+2003,YR2003,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.69151,59
+2003,YR2003,Brazil,BRA,Latin America & Caribbean,LAC,1.5853,30
+2003,YR2003,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.019654,131
+2003,YR2003,Bulgaria,BGR,Europe & Central Asia,ECA,1.5327,31
+2003,YR2003,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.087583,115
+2003,YR2003,Burundi,BDI,Sub-Saharan Africa,SSA,0.0067326,139
+2003,YR2003,Cambodia,KHM,East Asia & Pacific,EAP,0.16904,97
+2003,YR2003,Cameroon,CMR,Sub-Saharan Africa,SSA,0.047872,122
+2003,YR2003,Canada,CAN,North America,NA,1.9006,24
+2003,YR2003,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.075877,119
+2003,YR2003,Chad,TCD,Sub-Saharan Africa,SSA,0.0058311,140
+2003,YR2003,Chile,CHL,Latin America & Caribbean,LAC,0.60327,62
+2003,YR2003,China,CHN,East Asia & Pacific,EAP,5.2449,5
+2003,YR2003,Colombia,COL,Latin America & Caribbean,LAC,0.60265,63
+2003,YR2003,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.021693,128
+2003,YR2003,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0013326,144
+2003,YR2003,Costa Rica,CRI,Latin America & Caribbean,LAC,0.32072,81
+2003,YR2003,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.13047,108
+2003,YR2003,Croatia,HRV,Europe & Central Asia,ECA,1.217,40
+2003,YR2003,Cyprus,CYP,Europe & Central Asia,ECA,0.75012,57
+2003,YR2003,Czech Republic,CZE,Europe & Central Asia,ECA,3.2758,14
+2003,YR2003,Denmark,DNK,Europe & Central Asia,ECA,2.4728,17
+2003,YR2003,Ecuador,ECU,Latin America & Caribbean,LAC,0.15722,100
+2003,YR2003,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.74057,58
+2003,YR2003,El Salvador,SLV,Latin America & Caribbean,LAC,0.57827,68
+2003,YR2003,Eritrea,ERI,Sub-Saharan Africa,SSA,0.24231,88
+2003,YR2003,Estonia,EST,Europe & Central Asia,ECA,1.1574,41
+2003,YR2003,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.063508,121
+2003,YR2003,Finland,FIN,Europe & Central Asia,ECA,1.6274,28
+2003,YR2003,France,FRA,Europe & Central Asia,ECA,5.1786,6
+2003,YR2003,Gabon,GAB,Sub-Saharan Africa,SSA,0.0018864,143
+2003,YR2003,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.26164,85
+2003,YR2003,Georgia,GEO,Europe & Central Asia,ECA,0.51788,70
+2003,YR2003,Germany,DEU,Europe & Central Asia,ECA,7.0556,1
+2003,YR2003,Ghana,GHA,Sub-Saharan Africa,SSA,0.16596,98
+2003,YR2003,Greece,GRC,Europe & Central Asia,ECA,1.366,35
+2003,YR2003,Greenland,GRL,Europe & Central Asia,ECA,0.023391,127
+2003,YR2003,Guatemala,GTM,Latin America & Caribbean,LAC,0.58165,65
+2003,YR2003,Guinea,GIN,Sub-Saharan Africa,SSA,0.00504,141
+2003,YR2003,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.014908,133
+2003,YR2003,Guyana,GUY,Latin America & Caribbean,LAC,0.088676,114
+2003,YR2003,Honduras,HND,Latin America & Caribbean,LAC,0.24528,87
+2003,YR2003,Hungary,HUN,Europe & Central Asia,ECA,1.9501,22
+2003,YR2003,Iceland,ISL,Europe & Central Asia,ECA,0.25491,86
+2003,YR2003,India,IND,South Asia,SA,3.7727,11
+2003,YR2003,Indonesia,IDN,East Asia & Pacific,EAP,1.5952,29
+2003,YR2003,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.3149,82
+2003,YR2003,Iraq,IRQ,Middle East & North Africa,MENA,1.24E-07,146
+2003,YR2003,Ireland,IRL,Europe & Central Asia,ECA,0.84407,50
+2003,YR2003,Israel,ISR,Middle East & North Africa,MENA,2.2658,18
+2003,YR2003,Italy,ITA,Europe & Central Asia,ECA,5.5517,3
+2003,YR2003,Japan,JPN,East Asia & Pacific,EAP,5.4467,4
+2003,YR2003,Jordan,JOR,Middle East & North Africa,MENA,0.58119,66
+2003,YR2003,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.23467,90
+2003,YR2003,Kenya,KEN,Sub-Saharan Africa,SSA,0.5467,69
+2003,YR2003,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.0623,43
+2003,YR2003,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.7473,16
+2003,YR2003,Kuwait,KWT,Middle East & North Africa,MENA,0.019986,129
+2003,YR2003,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.48479,71
+2003,YR2003,Lao PDR,LAO,East Asia & Pacific,EAP,0.12898,109
+2003,YR2003,Latvia,LVA,Europe & Central Asia,ECA,0.9496,46
+2003,YR2003,Lebanon,LBN,Middle East & North Africa,MENA,0.83418,52
+2003,YR2003,Liberia,LBR,Sub-Saharan Africa,SSA,0.0021081,142
+2003,YR2003,Libya,LBY,Middle East & North Africa,MENA,0.00048464,145
+2003,YR2003,Lithuania,LTU,Europe & Central Asia,ECA,0.87511,48
+2003,YR2003,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.43954,73
+2003,YR2003,Madagascar,MDG,Sub-Saharan Africa,SSA,0.2231,91
+2003,YR2003,Malawi,MWI,Sub-Saharan Africa,SSA,0.045688,123
+2003,YR2003,Malaysia,MYS,East Asia & Pacific,EAP,1.3279,37
+2003,YR2003,Mali,MLI,Sub-Saharan Africa,SSA,0.031693,126
+2003,YR2003,Malta,MLT,Middle East & North Africa,MENA,0.3623,79
+2003,YR2003,Mauritania,MRT,Sub-Saharan Africa,SSA,0.014881,134
+2003,YR2003,Mexico,MEX,Latin America & Caribbean,LAC,1.8121,25
+2003,YR2003,Mongolia,MNG,East Asia & Pacific,EAP,0.15445,102
+2003,YR2003,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+2003,YR2003,Morocco,MAR,Middle East & North Africa,MENA,0.63642,61
+2003,YR2003,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.095707,112
+2003,YR2003,Myanmar,MMR,East Asia & Pacific,EAP,0.1372,107
+2003,YR2003,Nepal,NPL,South Asia,SA,0.79179,54
+2003,YR2003,Netherlands,NLD,Europe & Central Asia,ECA,3.8728,10
+2003,YR2003,New Zealand,NZL,East Asia & Pacific,EAP,0.93619,47
+2003,YR2003,Nicaragua,NIC,Latin America & Caribbean,LAC,0.15536,101
+2003,YR2003,Niger,NER,Sub-Saharan Africa,SSA,0.19653,95
+2003,YR2003,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0068937,137
+2003,YR2003,Norway,NOR,Europe & Central Asia,ECA,0.76938,56
+2003,YR2003,Oman,OMN,Middle East & North Africa,MENA,0.041554,124
+2003,YR2003,Pakistan,PAK,South Asia,SA,0.85184,49
+2003,YR2003,Panama,PAN,Latin America & Caribbean,LAC,1.0946,42
+2003,YR2003,Paraguay,PRY,Latin America & Caribbean,LAC,0.11664,110
+2003,YR2003,Peru,PER,Latin America & Caribbean,LAC,0.43536,74
+2003,YR2003,Philippines,PHL,East Asia & Pacific,EAP,0.80757,53
+2003,YR2003,Poland,POL,Europe & Central Asia,ECA,2.1932,20
+2003,YR2003,Portugal,PRT,Europe & Central Asia,ECA,1.7074,27
+2003,YR2003,Qatar,QAT,Middle East & North Africa,MENA,0.019677,130
+2003,YR2003,Romania,ROU,Europe & Central Asia,ECA,1.3787,34
+2003,YR2003,Russian Federation,RUS,Europe & Central Asia,ECA,1.3501,36
+2003,YR2003,Rwanda,RWA,Sub-Saharan Africa,SSA,0.036619,125
+2003,YR2003,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.15048,104
+2003,YR2003,Senegal,SEN,Sub-Saharan Africa,SSA,0.36619,78
+2003,YR2003,Serbia,SRB,Europe & Central Asia,ECA,..,..
+2003,YR2003,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.59379,64
+2003,YR2003,Singapore,SGP,East Asia & Pacific,EAP,1.8043,26
+2003,YR2003,Slovak Republic,SVK,Europe & Central Asia,ECA,1.4876,32
+2003,YR2003,Slovenia,SVN,Europe & Central Asia,ECA,2.2494,19
+2003,YR2003,Somalia,SOM,Sub-Saharan Africa,SSA,0.064795,120
+2003,YR2003,South Africa,ZAF,Sub-Saharan Africa,SSA,1.4383,33
+2003,YR2003,Spain,ESP,Europe & Central Asia,ECA,3.7625,12
+2003,YR2003,Sudan,SDN,Sub-Saharan Africa,SSA,0.0095609,136
+2003,YR2003,Suriname,SUR,Latin America & Caribbean,LAC,0.077997,118
+2003,YR2003,Sweden,SWE,Europe & Central Asia,ECA,2.8041,15
+2003,YR2003,Switzerland,CHE,Europe & Central Asia,ECA,4.2888,9
+2003,YR2003,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.43459,75
+2003,YR2003,Tajikistan,TJK,Europe & Central Asia,ECA,0.081996,116
+2003,YR2003,Tanzania,TZA,Sub-Saharan Africa,SSA,0.20782,93
+2003,YR2003,Thailand,THA,East Asia & Pacific,EAP,2.094,21
+2003,YR2003,Togo,TGO,Sub-Saharan Africa,SSA,0.21595,92
+2003,YR2003,Tunisia,TUN,Middle East & North Africa,MENA,0.83916,51
+2003,YR2003,Turkey,TUR,Europe & Central Asia,ECA,1.9274,23
+2003,YR2003,Turkmenistan,TKM,Europe & Central Asia,ECA,0.017628,132
+2003,YR2003,Uganda,UGA,Sub-Saharan Africa,SSA,0.17902,96
+2003,YR2003,Ukraine,UKR,Europe & Central Asia,ECA,1.2303,38
+2003,YR2003,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.36146,80
+2003,YR2003,United Kingdom,GBR,Europe & Central Asia,ECA,4.6435,7
+2003,YR2003,United States,USA,North America,NA,5.9814,2
+2003,YR2003,Uruguay,URY,Latin America & Caribbean,LAC,0.44167,72
+2003,YR2003,Uzbekistan,UZB,Europe & Central Asia,ECA,0.27906,84
+2003,YR2003,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.13968,106
+2003,YR2003,Vietnam,VNM,East Asia & Pacific,EAP,0.99869,45
+2003,YR2003,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.006892,138
+2003,YR2003,Zambia,ZMB,Sub-Saharan Africa,SSA,0.16119,99
+2003,YR2003,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.38053,77
+2004,YR2004,Afghanistan,AFG,South Asia,SA,0.19361,90
+2004,YR2004,Albania,ALB,Europe & Central Asia,ECA,0.49457,66
+2004,YR2004,Algeria,DZA,Middle East & North Africa,MENA,0.0050487,137
+2004,YR2004,Andorra,AND,Europe & Central Asia,ECA,0.72832,59
+2004,YR2004,Angola,AGO,Sub-Saharan Africa,SSA,9.96E-69,147
+2004,YR2004,Argentina,ARG,Latin America & Caribbean,LAC,0.84766,54
+2004,YR2004,Armenia,ARM,Europe & Central Asia,ECA,0.37568,75
+2004,YR2004,Australia,AUS,East Asia & Pacific,EAP,0.84245,55
+2004,YR2004,Austria,AUT,Europe & Central Asia,ECA,3.5376,13
+2004,YR2004,Azerbaijan,AZE,Europe & Central Asia,ECA,0.083592,112
+2004,YR2004,Bahrain,BHR,Middle East & North Africa,MENA,0.17026,93
+2004,YR2004,Bangladesh,BGD,South Asia,SA,0.28575,84
+2004,YR2004,Belarus,BLR,Europe & Central Asia,ECA,1.1,41
+2004,YR2004,Belgium,BEL,Europe & Central Asia,ECA,4.4551,8
+2004,YR2004,Belize,BLZ,Latin America & Caribbean,LAC,0.15549,95
+2004,YR2004,Benin,BEN,Sub-Saharan Africa,SSA,0.038206,123
+2004,YR2004,Bhutan,BTN,South Asia,SA,0.043332,119
+2004,YR2004,Bolivia,BOL,Latin America & Caribbean,LAC,0.13588,100
+2004,YR2004,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.81206,56
+2004,YR2004,Brazil,BRA,Latin America & Caribbean,LAC,1.5297,31
+2004,YR2004,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.056677,116
+2004,YR2004,Bulgaria,BGR,Europe & Central Asia,ECA,1.5515,30
+2004,YR2004,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.13148,101
+2004,YR2004,Burundi,BDI,Sub-Saharan Africa,SSA,0.014626,131
+2004,YR2004,Cambodia,KHM,East Asia & Pacific,EAP,0.13867,97
+2004,YR2004,Cameroon,CMR,Sub-Saharan Africa,SSA,0.017857,129
+2004,YR2004,Canada,CAN,North America,NA,1.8057,25
+2004,YR2004,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.027396,125
+2004,YR2004,Chad,TCD,Sub-Saharan Africa,SSA,2.09E-52,146
+2004,YR2004,Chile,CHL,Latin America & Caribbean,LAC,0.47508,70
+2004,YR2004,China,CHN,East Asia & Pacific,EAP,5.5162,4
+2004,YR2004,Colombia,COL,Latin America & Caribbean,LAC,0.56208,65
+2004,YR2004,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0094217,135
+2004,YR2004,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.00040396,143
+2004,YR2004,Costa Rica,CRI,Latin America & Caribbean,LAC,0.34873,80
+2004,YR2004,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.087509,110
+2004,YR2004,Croatia,HRV,Europe & Central Asia,ECA,1.0857,42
+2004,YR2004,Cyprus,CYP,Europe & Central Asia,ECA,1.0059,46
+2004,YR2004,Czech Republic,CZE,Europe & Central Asia,ECA,3.3284,14
+2004,YR2004,Denmark,DNK,Europe & Central Asia,ECA,2.61,17
+2004,YR2004,Ecuador,ECU,Latin America & Caribbean,LAC,0.12237,103
+2004,YR2004,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.68654,60
+2004,YR2004,El Salvador,SLV,Latin America & Caribbean,LAC,0.57681,63
+2004,YR2004,Eritrea,ERI,Sub-Saharan Africa,SSA,0.18764,92
+2004,YR2004,Estonia,EST,Europe & Central Asia,ECA,1.2548,37
+2004,YR2004,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.10032,108
+2004,YR2004,Finland,FIN,Europe & Central Asia,ECA,1.6427,28
+2004,YR2004,France,FRA,Europe & Central Asia,ECA,5.3549,6
+2004,YR2004,Gabon,GAB,Sub-Saharan Africa,SSA,0.0007536,140
+2004,YR2004,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.16614,94
+2004,YR2004,Georgia,GEO,Europe & Central Asia,ECA,0.34121,81
+2004,YR2004,Germany,DEU,Europe & Central Asia,ECA,6.8969,1
+2004,YR2004,Ghana,GHA,Sub-Saharan Africa,SSA,0.07372,114
+2004,YR2004,Greece,GRC,Europe & Central Asia,ECA,1.3371,36
+2004,YR2004,Greenland,GRL,Europe & Central Asia,ECA,0.014129,133
+2004,YR2004,Guatemala,GTM,Latin America & Caribbean,LAC,0.60036,62
+2004,YR2004,Guinea,GIN,Sub-Saharan Africa,SSA,0.014293,132
+2004,YR2004,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.0046304,138
+2004,YR2004,Guyana,GUY,Latin America & Caribbean,LAC,0.04055,122
+2004,YR2004,Honduras,HND,Latin America & Caribbean,LAC,0.22204,87
+2004,YR2004,Hungary,HUN,Europe & Central Asia,ECA,1.8433,24
+2004,YR2004,Iceland,ISL,Europe & Central Asia,ECA,0.33957,82
+2004,YR2004,India,IND,South Asia,SA,4.0137,10
+2004,YR2004,Indonesia,IDN,East Asia & Pacific,EAP,1.6356,29
+2004,YR2004,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.32679,83
+2004,YR2004,Iraq,IRQ,Middle East & North Africa,MENA,7.70E-10,145
+2004,YR2004,Ireland,IRL,Europe & Central Asia,ECA,0.97303,48
+2004,YR2004,Israel,ISR,Middle East & North Africa,MENA,2.0377,21
+2004,YR2004,Italy,ITA,Europe & Central Asia,ECA,5.6101,3
+2004,YR2004,Japan,JPN,East Asia & Pacific,EAP,5.5149,5
+2004,YR2004,Jordan,JOR,Middle East & North Africa,MENA,0.73433,58
+2004,YR2004,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.22092,88
+2004,YR2004,Kenya,KEN,Sub-Saharan Africa,SSA,0.44222,73
+2004,YR2004,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.1336,39
+2004,YR2004,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.6862,16
+2004,YR2004,Kuwait,KWT,Middle East & North Africa,MENA,0.017123,130
+2004,YR2004,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.37068,76
+2004,YR2004,Lao PDR,LAO,East Asia & Pacific,EAP,0.13827,98
+2004,YR2004,Latvia,LVA,Europe & Central Asia,ECA,1.0166,45
+2004,YR2004,Lebanon,LBN,Middle East & North Africa,MENA,0.95434,51
+2004,YR2004,Liberia,LBR,Sub-Saharan Africa,SSA,0.00048931,142
+2004,YR2004,Libya,LBY,Middle East & North Africa,MENA,9.60E-05,144
+2004,YR2004,Lithuania,LTU,Europe & Central Asia,ECA,0.96684,49
+2004,YR2004,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.4455,72
+2004,YR2004,Madagascar,MDG,Sub-Saharan Africa,SSA,0.23172,86
+2004,YR2004,Malawi,MWI,Sub-Saharan Africa,SSA,0.083129,113
+2004,YR2004,Malaysia,MYS,East Asia & Pacific,EAP,1.5012,32
+2004,YR2004,Mali,MLI,Sub-Saharan Africa,SSA,0.043072,120
+2004,YR2004,Malta,MLT,Middle East & North Africa,MENA,0.36557,77
+2004,YR2004,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0054435,136
+2004,YR2004,Mexico,MEX,Latin America & Caribbean,LAC,1.7988,26
+2004,YR2004,Mongolia,MNG,East Asia & Pacific,EAP,0.13602,99
+2004,YR2004,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+2004,YR2004,Morocco,MAR,Middle East & North Africa,MENA,0.56818,64
+2004,YR2004,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.050128,117
+2004,YR2004,Myanmar,MMR,East Asia & Pacific,EAP,0.099298,109
+2004,YR2004,Nepal,NPL,South Asia,SA,0.46974,71
+2004,YR2004,Netherlands,NLD,Europe & Central Asia,ECA,3.9046,11
+2004,YR2004,New Zealand,NZL,East Asia & Pacific,EAP,1.0293,44
+2004,YR2004,Nicaragua,NIC,Latin America & Caribbean,LAC,0.12817,102
+2004,YR2004,Niger,NER,Sub-Saharan Africa,SSA,0.061494,115
+2004,YR2004,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0005056,141
+2004,YR2004,Norway,NOR,Europe & Central Asia,ECA,0.7963,57
+2004,YR2004,Oman,OMN,Middle East & North Africa,MENA,0.10957,105
+2004,YR2004,Pakistan,PAK,South Asia,SA,0.96121,50
+2004,YR2004,Panama,PAN,Latin America & Caribbean,LAC,1.0384,43
+2004,YR2004,Paraguay,PRY,Latin America & Caribbean,LAC,0.10269,107
+2004,YR2004,Peru,PER,Latin America & Caribbean,LAC,0.36198,78
+2004,YR2004,Philippines,PHL,East Asia & Pacific,EAP,0.86137,53
+2004,YR2004,Poland,POL,Europe & Central Asia,ECA,2.2328,19
+2004,YR2004,Portugal,PRT,Europe & Central Asia,ECA,1.8734,23
+2004,YR2004,Qatar,QAT,Middle East & North Africa,MENA,0.022104,126
+2004,YR2004,Romania,ROU,Europe & Central Asia,ECA,1.4494,35
+2004,YR2004,Russian Federation,RUS,Europe & Central Asia,ECA,1.1208,40
+2004,YR2004,Rwanda,RWA,Sub-Saharan Africa,SSA,0.010814,134
+2004,YR2004,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.045511,118
+2004,YR2004,Senegal,SEN,Sub-Saharan Africa,SSA,0.40262,74
+2004,YR2004,Serbia,SRB,Europe & Central Asia,ECA,..,..
+2004,YR2004,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.61598,61
+2004,YR2004,Singapore,SGP,East Asia & Pacific,EAP,1.774,27
+2004,YR2004,Slovak Republic,SVK,Europe & Central Asia,ECA,1.4753,33
+2004,YR2004,Slovenia,SVN,Europe & Central Asia,ECA,2.3182,18
+2004,YR2004,Somalia,SOM,Sub-Saharan Africa,SSA,0.020402,128
+2004,YR2004,South Africa,ZAF,Sub-Saharan Africa,SSA,1.4725,34
+2004,YR2004,Spain,ESP,Europe & Central Asia,ECA,3.8884,12
+2004,YR2004,Sudan,SDN,Sub-Saharan Africa,SSA,0.0045024,139
+2004,YR2004,Suriname,SUR,Latin America & Caribbean,LAC,0.042118,121
+2004,YR2004,Sweden,SWE,Europe & Central Asia,ECA,2.8637,15
+2004,YR2004,Switzerland,CHE,Europe & Central Asia,ECA,4.0237,9
+2004,YR2004,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.4794,68
+2004,YR2004,Tajikistan,TJK,Europe & Central Asia,ECA,0.085289,111
+2004,YR2004,Tanzania,TZA,Sub-Saharan Africa,SSA,0.26561,85
+2004,YR2004,Thailand,THA,East Asia & Pacific,EAP,2.1367,20
+2004,YR2004,Togo,TGO,Sub-Saharan Africa,SSA,0.18964,91
+2004,YR2004,Tunisia,TUN,Middle East & North Africa,MENA,0.86283,52
+2004,YR2004,Turkey,TUR,Europe & Central Asia,ECA,1.9018,22
+2004,YR2004,Turkmenistan,TKM,Europe & Central Asia,ECA,0.021986,127
+2004,YR2004,Uganda,UGA,Sub-Saharan Africa,SSA,0.15351,96
+2004,YR2004,Ukraine,UKR,Europe & Central Asia,ECA,1.2229,38
+2004,YR2004,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.48235,67
+2004,YR2004,United Kingdom,GBR,Europe & Central Asia,ECA,4.5976,7
+2004,YR2004,United States,USA,North America,NA,6.2631,2
+2004,YR2004,Uruguay,URY,Latin America & Caribbean,LAC,0.47861,69
+2004,YR2004,Uzbekistan,UZB,Europe & Central Asia,ECA,0.21196,89
+2004,YR2004,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.12099,104
+2004,YR2004,Vietnam,VNM,East Asia & Pacific,EAP,0.99677,47
+2004,YR2004,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.03176,124
+2004,YR2004,Zambia,ZMB,Sub-Saharan Africa,SSA,0.10726,106
+2004,YR2004,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.35802,79
+2005,YR2005,Afghanistan,AFG,South Asia,SA,0.31171,84
+2005,YR2005,Albania,ALB,Europe & Central Asia,ECA,0.49526,74
+2005,YR2005,Algeria,DZA,Middle East & North Africa,MENA,0.0022415,139
+2005,YR2005,Andorra,AND,Europe & Central Asia,ECA,0.68253,60
+2005,YR2005,Angola,AGO,Sub-Saharan Africa,SSA,4.33E-86,148
+2005,YR2005,Argentina,ARG,Latin America & Caribbean,LAC,0.84877,54
+2005,YR2005,Armenia,ARM,Europe & Central Asia,ECA,0.36613,77
+2005,YR2005,Australia,AUS,East Asia & Pacific,EAP,0.72776,57
+2005,YR2005,Austria,AUT,Europe & Central Asia,ECA,3.5905,13
+2005,YR2005,Azerbaijan,AZE,Europe & Central Asia,ECA,0.068886,118
+2005,YR2005,Bahrain,BHR,Middle East & North Africa,MENA,0.21449,90
+2005,YR2005,Bangladesh,BGD,South Asia,SA,0.29752,85
+2005,YR2005,Belarus,BLR,Europe & Central Asia,ECA,0.98339,50
+2005,YR2005,Belgium,BEL,Europe & Central Asia,ECA,4.4035,7
+2005,YR2005,Belize,BLZ,Latin America & Caribbean,LAC,0.11064,105
+2005,YR2005,Benin,BEN,Sub-Saharan Africa,SSA,0.045315,121
+2005,YR2005,Bhutan,BTN,South Asia,SA,0.10091,110
+2005,YR2005,Bolivia,BOL,Latin America & Caribbean,LAC,0.12508,99
+2005,YR2005,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.69793,58
+2005,YR2005,Brazil,BRA,Latin America & Caribbean,LAC,1.5564,28
+2005,YR2005,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.0021249,140
+2005,YR2005,Bulgaria,BGR,Europe & Central Asia,ECA,1.4948,31
+2005,YR2005,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.094416,113
+2005,YR2005,Burundi,BDI,Sub-Saharan Africa,SSA,0.017863,130
+2005,YR2005,Cambodia,KHM,East Asia & Pacific,EAP,0.15024,96
+2005,YR2005,Cameroon,CMR,Sub-Saharan Africa,SSA,0.030214,127
+2005,YR2005,Canada,CAN,North America,NA,1.5514,29
+2005,YR2005,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.035488,125
+2005,YR2005,Chad,TCD,Sub-Saharan Africa,SSA,6.77E-59,147
+2005,YR2005,Chile,CHL,Latin America & Caribbean,LAC,0.49711,73
+2005,YR2005,China,CHN,East Asia & Pacific,EAP,5.9134,3
+2005,YR2005,Colombia,COL,Latin America & Caribbean,LAC,0.53629,72
+2005,YR2005,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.010758,133
+2005,YR2005,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0014394,142
+2005,YR2005,Costa Rica,CRI,Latin America & Caribbean,LAC,0.36258,78
+2005,YR2005,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.074029,116
+2005,YR2005,Croatia,HRV,Europe & Central Asia,ECA,1.1686,42
+2005,YR2005,Cyprus,CYP,Europe & Central Asia,ECA,1.036,46
+2005,YR2005,Czech Republic,CZE,Europe & Central Asia,ECA,3.3309,14
+2005,YR2005,Denmark,DNK,Europe & Central Asia,ECA,2.5485,17
+2005,YR2005,Ecuador,ECU,Latin America & Caribbean,LAC,0.12323,100
+2005,YR2005,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.83763,56
+2005,YR2005,El Salvador,SLV,Latin America & Caribbean,LAC,0.57419,70
+2005,YR2005,Eritrea,ERI,Sub-Saharan Africa,SSA,0.10298,107
+2005,YR2005,Estonia,EST,Europe & Central Asia,ECA,1.3897,34
+2005,YR2005,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.10787,106
+2005,YR2005,Finland,FIN,Europe & Central Asia,ECA,1.6171,27
+2005,YR2005,France,FRA,Europe & Central Asia,ECA,5.0247,6
+2005,YR2005,Gabon,GAB,Sub-Saharan Africa,SSA,0.00029476,143
+2005,YR2005,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.15782,95
+2005,YR2005,Georgia,GEO,Europe & Central Asia,ECA,0.32235,82
+2005,YR2005,Germany,DEU,Europe & Central Asia,ECA,6.7169,1
+2005,YR2005,Ghana,GHA,Sub-Saharan Africa,SSA,0.088577,114
+2005,YR2005,Greece,GRC,Europe & Central Asia,ECA,1.3389,36
+2005,YR2005,Greenland,GRL,Europe & Central Asia,ECA,0.016311,131
+2005,YR2005,Guatemala,GTM,Latin America & Caribbean,LAC,0.63735,66
+2005,YR2005,Guinea,GIN,Sub-Saharan Africa,SSA,0.0088137,135
+2005,YR2005,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.0015105,141
+2005,YR2005,Guyana,GUY,Latin America & Caribbean,LAC,0.054602,120
+2005,YR2005,Honduras,HND,Latin America & Caribbean,LAC,0.20276,94
+2005,YR2005,Hungary,HUN,Europe & Central Asia,ECA,1.7095,25
+2005,YR2005,Iceland,ISL,Europe & Central Asia,ECA,0.25463,89
+2005,YR2005,India,IND,South Asia,SA,4.0312,10
+2005,YR2005,Indonesia,IDN,East Asia & Pacific,EAP,1.4912,32
+2005,YR2005,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.32856,81
+2005,YR2005,Iraq,IRQ,Middle East & North Africa,MENA,3.16E-28,146
+2005,YR2005,Ireland,IRL,Europe & Central Asia,ECA,0.95396,51
+2005,YR2005,Israel,ISR,Middle East & North Africa,MENA,2.1066,21
+2005,YR2005,Italy,ITA,Europe & Central Asia,ECA,5.7195,4
+2005,YR2005,Japan,JPN,East Asia & Pacific,EAP,5.3821,5
+2005,YR2005,Jordan,JOR,Middle East & North Africa,MENA,0.68636,59
+2005,YR2005,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.21067,91
+2005,YR2005,Kenya,KEN,Sub-Saharan Africa,SSA,0.57756,69
+2005,YR2005,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.2238,38
+2005,YR2005,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.6225,16
+2005,YR2005,Kuwait,KWT,Middle East & North Africa,MENA,0.010718,134
+2005,YR2005,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.35686,80
+2005,YR2005,Lao PDR,LAO,East Asia & Pacific,EAP,0.11833,101
+2005,YR2005,Latvia,LVA,Europe & Central Asia,ECA,1.1268,43
+2005,YR2005,Lebanon,LBN,Middle East & North Africa,MENA,1.1796,41
+2005,YR2005,Liberia,LBR,Sub-Saharan Africa,SSA,0.0049589,137
+2005,YR2005,Libya,LBY,Middle East & North Africa,MENA,1.78E-13,145
+2005,YR2005,Lithuania,LTU,Europe & Central Asia,ECA,1.1888,40
+2005,YR2005,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.60259,67
+2005,YR2005,Madagascar,MDG,Sub-Saharan Africa,SSA,0.31903,83
+2005,YR2005,Malawi,MWI,Sub-Saharan Africa,SSA,0.086008,115
+2005,YR2005,Malaysia,MYS,East Asia & Pacific,EAP,1.4485,33
+2005,YR2005,Mali,MLI,Sub-Saharan Africa,SSA,0.042201,123
+2005,YR2005,Malta,MLT,Middle East & North Africa,MENA,0.40225,76
+2005,YR2005,Mauritania,MRT,Sub-Saharan Africa,SSA,0.00594,136
+2005,YR2005,Mexico,MEX,Latin America & Caribbean,LAC,1.7643,24
+2005,YR2005,Mongolia,MNG,East Asia & Pacific,EAP,0.12646,98
+2005,YR2005,Montenegro,MNE,Europe & Central Asia,ECA,..,..
+2005,YR2005,Morocco,MAR,Middle East & North Africa,MENA,0.63891,65
+2005,YR2005,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.044852,122
+2005,YR2005,Myanmar,MMR,East Asia & Pacific,EAP,0.099835,111
+2005,YR2005,Nepal,NPL,South Asia,SA,0.55871,71
+2005,YR2005,Netherlands,NLD,Europe & Central Asia,ECA,3.788,12
+2005,YR2005,New Zealand,NZL,East Asia & Pacific,EAP,1.0619,45
+2005,YR2005,Nicaragua,NIC,Latin America & Caribbean,LAC,0.11579,102
+2005,YR2005,Niger,NER,Sub-Saharan Africa,SSA,0.11356,104
+2005,YR2005,Nigeria,NGA,Sub-Saharan Africa,SSA,0.00018587,144
+2005,YR2005,Norway,NOR,Europe & Central Asia,ECA,0.66277,62
+2005,YR2005,Oman,OMN,Middle East & North Africa,MENA,0.097551,112
+2005,YR2005,Pakistan,PAK,South Asia,SA,1.0083,48
+2005,YR2005,Panama,PAN,Latin America & Caribbean,LAC,1.0057,49
+2005,YR2005,Paraguay,PRY,Latin America & Caribbean,LAC,0.14363,97
+2005,YR2005,Peru,PER,Latin America & Caribbean,LAC,0.35851,79
+2005,YR2005,Philippines,PHL,East Asia & Pacific,EAP,0.84464,55
+2005,YR2005,Poland,POL,Europe & Central Asia,ECA,2.3564,18
+2005,YR2005,Portugal,PRT,Europe & Central Asia,ECA,1.8486,23
+2005,YR2005,Qatar,QAT,Middle East & North Africa,MENA,0.018211,129
+2005,YR2005,Romania,ROU,Europe & Central Asia,ECA,1.3703,35
+2005,YR2005,Russian Federation,RUS,Europe & Central Asia,ECA,0.85617,53
+2005,YR2005,Rwanda,RWA,Sub-Saharan Africa,SSA,0.10289,108
+2005,YR2005,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.11485,103
+2005,YR2005,Senegal,SEN,Sub-Saharan Africa,SSA,0.40313,75
+2005,YR2005,Serbia,SRB,Europe & Central Asia,ECA,1.0182,47
+2005,YR2005,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.5968,68
+2005,YR2005,Singapore,SGP,East Asia & Pacific,EAP,1.5428,30
+2005,YR2005,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6787,26
+2005,YR2005,Slovenia,SVN,Europe & Central Asia,ECA,2.2707,19
+2005,YR2005,Somalia,SOM,Sub-Saharan Africa,SSA,0.033052,126
+2005,YR2005,South Africa,ZAF,Sub-Saharan Africa,SSA,1.2251,37
+2005,YR2005,Spain,ESP,Europe & Central Asia,ECA,4.01,11
+2005,YR2005,Sudan,SDN,Sub-Saharan Africa,SSA,0.0047124,138
+2005,YR2005,Suriname,SUR,Latin America & Caribbean,LAC,0.041428,124
+2005,YR2005,Sweden,SWE,Europe & Central Asia,ECA,2.7512,15
+2005,YR2005,Switzerland,CHE,Europe & Central Asia,ECA,4.0759,9
+2005,YR2005,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.64125,63
+2005,YR2005,Tajikistan,TJK,Europe & Central Asia,ECA,0.071985,117
+2005,YR2005,Tanzania,TZA,Sub-Saharan Africa,SSA,0.28882,87
+2005,YR2005,Thailand,THA,East Asia & Pacific,EAP,2.0519,22
+2005,YR2005,Togo,TGO,Sub-Saharan Africa,SSA,0.27582,88
+2005,YR2005,Tunisia,TUN,Middle East & North Africa,MENA,0.88685,52
+2005,YR2005,Turkey,TUR,Europe & Central Asia,ECA,2.1389,20
+2005,YR2005,Turkmenistan,TKM,Europe & Central Asia,ECA,0.013985,132
+2005,YR2005,Uganda,UGA,Sub-Saharan Africa,SSA,0.20702,93
+2005,YR2005,Ukraine,UKR,Europe & Central Asia,ECA,1.2161,39
+2005,YR2005,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.67758,61
+2005,YR2005,United Kingdom,GBR,Europe & Central Asia,ECA,4.3005,8
+2005,YR2005,United States,USA,North America,NA,6.0494,2
+2005,YR2005,Uruguay,URY,Latin America & Caribbean,LAC,0.63931,64
+2005,YR2005,Uzbekistan,UZB,Europe & Central Asia,ECA,0.21012,92
+2005,YR2005,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.10213,109
+2005,YR2005,Vietnam,VNM,East Asia & Pacific,EAP,1.0966,44
+2005,YR2005,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.029784,128
+2005,YR2005,Zambia,ZMB,Sub-Saharan Africa,SSA,0.058959,119
+2005,YR2005,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.2911,86
+2006,YR2006,Afghanistan,AFG,South Asia,SA,0.19375,92
+2006,YR2006,Albania,ALB,Europe & Central Asia,ECA,0.46101,72
+2006,YR2006,Algeria,DZA,Middle East & North Africa,MENA,0.0040382,140
+2006,YR2006,Andorra,AND,Europe & Central Asia,ECA,0.78821,55
+2006,YR2006,Angola,AGO,Sub-Saharan Africa,SSA,8.44E-51,149
+2006,YR2006,Argentina,ARG,Latin America & Caribbean,LAC,0.84941,53
+2006,YR2006,Armenia,ARM,Europe & Central Asia,ECA,0.31305,81
+2006,YR2006,Australia,AUS,East Asia & Pacific,EAP,0.69969,62
+2006,YR2006,Austria,AUT,Europe & Central Asia,ECA,3.4143,13
+2006,YR2006,Azerbaijan,AZE,Europe & Central Asia,ECA,0.065569,121
+2006,YR2006,Bahrain,BHR,Middle East & North Africa,MENA,0.15106,101
+2006,YR2006,Bangladesh,BGD,South Asia,SA,0.32814,80
+2006,YR2006,Belarus,BLR,Europe & Central Asia,ECA,0.90507,52
+2006,YR2006,Belgium,BEL,Europe & Central Asia,ECA,4.332,7
+2006,YR2006,Belize,BLZ,Latin America & Caribbean,LAC,0.12122,103
+2006,YR2006,Benin,BEN,Sub-Saharan Africa,SSA,0.051539,126
+2006,YR2006,Bhutan,BTN,South Asia,SA,0.085871,112
+2006,YR2006,Bolivia,BOL,Latin America & Caribbean,LAC,0.10843,108
+2006,YR2006,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.73584,59
+2006,YR2006,Brazil,BRA,Latin America & Caribbean,LAC,1.5808,30
+2006,YR2006,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.019367,132
+2006,YR2006,Bulgaria,BGR,Europe & Central Asia,ECA,1.4448,36
+2006,YR2006,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.10035,111
+2006,YR2006,Burundi,BDI,Sub-Saharan Africa,SSA,0.079164,115
+2006,YR2006,Cambodia,KHM,East Asia & Pacific,EAP,0.19011,93
+2006,YR2006,Cameroon,CMR,Sub-Saharan Africa,SSA,0.027219,131
+2006,YR2006,Canada,CAN,North America,NA,1.5044,32
+2006,YR2006,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.027282,130
+2006,YR2006,Chad,TCD,Sub-Saharan Africa,SSA,5.12E-42,148
+2006,YR2006,Chile,CHL,Latin America & Caribbean,LAC,0.42532,73
+2006,YR2006,China,CHN,East Asia & Pacific,EAP,6.1033,2
+2006,YR2006,Colombia,COL,Latin America & Caribbean,LAC,0.59619,67
+2006,YR2006,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0074872,136
+2006,YR2006,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.00024521,145
+2006,YR2006,Costa Rica,CRI,Latin America & Caribbean,LAC,0.36032,76
+2006,YR2006,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.08207,114
+2006,YR2006,Croatia,HRV,Europe & Central Asia,ECA,1.1828,43
+2006,YR2006,Cyprus,CYP,Europe & Central Asia,ECA,0.74492,58
+2006,YR2006,Czech Republic,CZE,Europe & Central Asia,ECA,3.3225,14
+2006,YR2006,Denmark,DNK,Europe & Central Asia,ECA,2.4353,17
+2006,YR2006,Ecuador,ECU,Latin America & Caribbean,LAC,0.15518,99
+2006,YR2006,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.71132,60
+2006,YR2006,El Salvador,SLV,Latin America & Caribbean,LAC,0.58207,69
+2006,YR2006,Eritrea,ERI,Sub-Saharan Africa,SSA,0.17043,97
+2006,YR2006,Estonia,EST,Europe & Central Asia,ECA,1.4404,37
+2006,YR2006,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.10869,107
+2006,YR2006,Finland,FIN,Europe & Central Asia,ECA,1.5449,31
+2006,YR2006,France,FRA,Europe & Central Asia,ECA,5.0801,6
+2006,YR2006,Gabon,GAB,Sub-Saharan Africa,SSA,0.0013043,143
+2006,YR2006,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.224,88
+2006,YR2006,Georgia,GEO,Europe & Central Asia,ECA,0.34296,78
+2006,YR2006,Germany,DEU,Europe & Central Asia,ECA,6.7228,1
+2006,YR2006,Ghana,GHA,Sub-Saharan Africa,SSA,0.076646,116
+2006,YR2006,Greece,GRC,Europe & Central Asia,ECA,1.2573,39
+2006,YR2006,Greenland,GRL,Europe & Central Asia,ECA,0.028042,129
+2006,YR2006,Guatemala,GTM,Latin America & Caribbean,LAC,0.67207,63
+2006,YR2006,Guinea,GIN,Sub-Saharan Africa,SSA,0.015719,134
+2006,YR2006,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.0020057,141
+2006,YR2006,Guyana,GUY,Latin America & Caribbean,LAC,0.055627,124
+2006,YR2006,Honduras,HND,Latin America & Caribbean,LAC,0.25623,87
+2006,YR2006,Hungary,HUN,Europe & Central Asia,ECA,1.6798,26
+2006,YR2006,Iceland,ISL,Europe & Central Asia,ECA,0.27126,86
+2006,YR2006,India,IND,South Asia,SA,3.7963,11
+2006,YR2006,Indonesia,IDN,East Asia & Pacific,EAP,1.6557,27
+2006,YR2006,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.28028,85
+2006,YR2006,Iraq,IRQ,Middle East & North Africa,MENA,5.98E-42,147
+2006,YR2006,Ireland,IRL,Europe & Central Asia,ECA,0.83308,54
+2006,YR2006,Israel,ISR,Middle East & North Africa,MENA,2.1253,22
+2006,YR2006,Italy,ITA,Europe & Central Asia,ECA,5.5888,4
+2006,YR2006,Japan,JPN,East Asia & Pacific,EAP,5.4647,5
+2006,YR2006,Jordan,JOR,Middle East & North Africa,MENA,0.66855,64
+2006,YR2006,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.18204,94
+2006,YR2006,Kenya,KEN,Sub-Saharan Africa,SSA,0.70006,61
+2006,YR2006,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.4901,34
+2006,YR2006,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.6156,16
+2006,YR2006,Kuwait,KWT,Middle East & North Africa,MENA,0.016305,133
+2006,YR2006,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.47949,71
+2006,YR2006,Lao PDR,LAO,East Asia & Pacific,EAP,0.12043,104
+2006,YR2006,Latvia,LVA,Europe & Central Asia,ECA,1.2389,40
+2006,YR2006,Lebanon,LBN,Middle East & North Africa,MENA,1.1792,44
+2006,YR2006,Liberia,LBR,Sub-Saharan Africa,SSA,0.00040724,144
+2006,YR2006,Libya,LBY,Middle East & North Africa,MENA,8.10E-19,146
+2006,YR2006,Lithuania,LTU,Europe & Central Asia,ECA,1.3945,38
+2006,YR2006,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.52173,70
+2006,YR2006,Madagascar,MDG,Sub-Saharan Africa,SSA,0.29028,83
+2006,YR2006,Malawi,MWI,Sub-Saharan Africa,SSA,0.084008,113
+2006,YR2006,Malaysia,MYS,East Asia & Pacific,EAP,1.5008,33
+2006,YR2006,Mali,MLI,Sub-Saharan Africa,SSA,0.052586,125
+2006,YR2006,Malta,MLT,Middle East & North Africa,MENA,0.38493,75
+2006,YR2006,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0071378,137
+2006,YR2006,Mexico,MEX,Latin America & Caribbean,LAC,1.7455,25
+2006,YR2006,Mongolia,MNG,East Asia & Pacific,EAP,0.11419,105
+2006,YR2006,Montenegro,MNE,Europe & Central Asia,ECA,0.3,82
+2006,YR2006,Morocco,MAR,Middle East & North Africa,MENA,0.75024,57
+2006,YR2006,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.064249,122
+2006,YR2006,Myanmar,MMR,East Asia & Pacific,EAP,0.1083,109
+2006,YR2006,Nepal,NPL,South Asia,SA,0.61127,66
+2006,YR2006,Netherlands,NLD,Europe & Central Asia,ECA,3.9454,9
+2006,YR2006,New Zealand,NZL,East Asia & Pacific,EAP,1.0594,48
+2006,YR2006,Nicaragua,NIC,Latin America & Caribbean,LAC,0.16938,98
+2006,YR2006,Niger,NER,Sub-Saharan Africa,SSA,0.17736,95
+2006,YR2006,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0015823,142
+2006,YR2006,Norway,NOR,Europe & Central Asia,ECA,0.62118,65
+2006,YR2006,Oman,OMN,Middle East & North Africa,MENA,0.10063,110
+2006,YR2006,Pakistan,PAK,South Asia,SA,1.1275,47
+2006,YR2006,Panama,PAN,Latin America & Caribbean,LAC,1.6131,28
+2006,YR2006,Paraguay,PRY,Latin America & Caribbean,LAC,0.14637,102
+2006,YR2006,Peru,PER,Latin America & Caribbean,LAC,0.33659,79
+2006,YR2006,Philippines,PHL,East Asia & Pacific,EAP,0.96677,49
+2006,YR2006,Poland,POL,Europe & Central Asia,ECA,2.345,19
+2006,YR2006,Portugal,PRT,Europe & Central Asia,ECA,2.0282,23
+2006,YR2006,Qatar,QAT,Middle East & North Africa,MENA,0.0069359,138
+2006,YR2006,Romania,ROU,Europe & Central Asia,ECA,1.4566,35
+2006,YR2006,Russian Federation,RUS,Europe & Central Asia,ECA,0.92522,51
+2006,YR2006,Rwanda,RWA,Sub-Saharan Africa,SSA,0.075363,118
+2006,YR2006,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.11114,106
+2006,YR2006,Senegal,SEN,Sub-Saharan Africa,SSA,0.39536,74
+2006,YR2006,Serbia,SRB,Europe & Central Asia,ECA,1.1707,46
+2006,YR2006,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.35308,77
+2006,YR2006,Singapore,SGP,East Asia & Pacific,EAP,1.754,24
+2006,YR2006,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6111,29
+2006,YR2006,Slovenia,SVN,Europe & Central Asia,ECA,2.3882,18
+2006,YR2006,Somalia,SOM,Sub-Saharan Africa,SSA,0.044669,127
+2006,YR2006,South Africa,ZAF,Sub-Saharan Africa,SSA,1.1783,45
+2006,YR2006,Spain,ESP,Europe & Central Asia,ECA,3.773,12
+2006,YR2006,Sudan,SDN,Sub-Saharan Africa,SSA,0.0050647,139
+2006,YR2006,Suriname,SUR,Latin America & Caribbean,LAC,0.066154,120
+2006,YR2006,Sweden,SWE,Europe & Central Asia,ECA,2.7176,15
+2006,YR2006,Switzerland,CHE,Europe & Central Asia,ECA,3.8962,10
+2006,YR2006,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.76593,56
+2006,YR2006,Tajikistan,TJK,Europe & Central Asia,ECA,0.075486,117
+2006,YR2006,Tanzania,TZA,Sub-Saharan Africa,SSA,0.2814,84
+2006,YR2006,Thailand,THA,East Asia & Pacific,EAP,2.2527,21
+2006,YR2006,Togo,TGO,Sub-Saharan Africa,SSA,0.20127,91
+2006,YR2006,Tunisia,TUN,Middle East & North Africa,MENA,0.94732,50
+2006,YR2006,Turkey,TUR,Europe & Central Asia,ECA,2.3175,20
+2006,YR2006,Turkmenistan,TKM,Europe & Central Asia,ECA,0.011763,135
+2006,YR2006,Uganda,UGA,Sub-Saharan Africa,SSA,0.17425,96
+2006,YR2006,Ukraine,UKR,Europe & Central Asia,ECA,1.2135,41
+2006,YR2006,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.21291,89
+2006,YR2006,United Kingdom,GBR,Europe & Central Asia,ECA,4.1918,8
+2006,YR2006,United States,USA,North America,NA,5.8563,3
+2006,YR2006,Uruguay,URY,Latin America & Caribbean,LAC,0.58981,68
+2006,YR2006,Uzbekistan,UZB,Europe & Central Asia,ECA,0.15481,100
+2006,YR2006,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.068035,119
+2006,YR2006,Vietnam,VNM,East Asia & Pacific,EAP,1.2091,42
+2006,YR2006,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.03762,128
+2006,YR2006,Zambia,ZMB,Sub-Saharan Africa,SSA,0.061382,123
+2006,YR2006,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.20396,90
+2007,YR2007,Afghanistan,AFG,South Asia,SA,0.14549,99
+2007,YR2007,Albania,ALB,Europe & Central Asia,ECA,0.48162,74
+2007,YR2007,Algeria,DZA,Middle East & North Africa,MENA,5.00E-07,144
+2007,YR2007,Andorra,AND,Europe & Central Asia,ECA,0.9071,53
+2007,YR2007,Angola,AGO,Sub-Saharan Africa,SSA,3.95E-84,147
+2007,YR2007,Argentina,ARG,Latin America & Caribbean,LAC,0.85164,56
+2007,YR2007,Armenia,ARM,Europe & Central Asia,ECA,0.6387,66
+2007,YR2007,Australia,AUS,East Asia & Pacific,EAP,0.71359,61
+2007,YR2007,Austria,AUT,Europe & Central Asia,ECA,3.3573,13
+2007,YR2007,Azerbaijan,AZE,Europe & Central Asia,ECA,0.040849,127
+2007,YR2007,Bahrain,BHR,Middle East & North Africa,MENA,0.21017,90
+2007,YR2007,Bangladesh,BGD,South Asia,SA,0.37114,77
+2007,YR2007,Belarus,BLR,Europe & Central Asia,ECA,0.95433,52
+2007,YR2007,Belgium,BEL,Europe & Central Asia,ECA,4.109,7
+2007,YR2007,Belize,BLZ,Latin America & Caribbean,LAC,0.10946,106
+2007,YR2007,Benin,BEN,Sub-Saharan Africa,SSA,0.050511,124
+2007,YR2007,Bhutan,BTN,South Asia,SA,0.067586,118
+2007,YR2007,Bolivia,BOL,Latin America & Caribbean,LAC,0.095813,111
+2007,YR2007,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.75294,60
+2007,YR2007,Brazil,BRA,Latin America & Caribbean,LAC,1.4152,36
+2007,YR2007,Brunei Darussalam,BRN,East Asia & Pacific,EAP,1.62E-10,146
+2007,YR2007,Bulgaria,BGR,Europe & Central Asia,ECA,1.5684,34
+2007,YR2007,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.13601,100
+2007,YR2007,Burundi,BDI,Sub-Saharan Africa,SSA,0.093125,112
+2007,YR2007,Cambodia,KHM,East Asia & Pacific,EAP,0.202,92
+2007,YR2007,Cameroon,CMR,Sub-Saharan Africa,SSA,0.040332,128
+2007,YR2007,Canada,CAN,North America,NA,1.3936,37
+2007,YR2007,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.020659,131
+2007,YR2007,Chad,TCD,Sub-Saharan Africa,SSA,3.76E-134,149
+2007,YR2007,Chile,CHL,Latin America & Caribbean,LAC,0.37556,76
+2007,YR2007,China,CHN,East Asia & Pacific,EAP,6.3129,2
+2007,YR2007,Colombia,COL,Latin America & Caribbean,LAC,0.67863,63
+2007,YR2007,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0040202,137
+2007,YR2007,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0020753,139
+2007,YR2007,Costa Rica,CRI,Latin America & Caribbean,LAC,0.3675,79
+2007,YR2007,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.077451,115
+2007,YR2007,Croatia,HRV,Europe & Central Asia,ECA,1.3166,40
+2007,YR2007,Cyprus,CYP,Europe & Central Asia,ECA,1.0008,48
+2007,YR2007,Czech Republic,CZE,Europe & Central Asia,ECA,3.2334,14
+2007,YR2007,Denmark,DNK,Europe & Central Asia,ECA,2.4883,16
+2007,YR2007,Ecuador,ECU,Latin America & Caribbean,LAC,0.15572,98
+2007,YR2007,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.78629,59
+2007,YR2007,El Salvador,SLV,Latin America & Caribbean,LAC,0.55034,71
+2007,YR2007,Eritrea,ERI,Sub-Saharan Africa,SSA,0.029806,129
+2007,YR2007,Estonia,EST,Europe & Central Asia,ECA,1.5946,30
+2007,YR2007,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.12712,103
+2007,YR2007,Finland,FIN,Europe & Central Asia,ECA,1.5808,32
+2007,YR2007,France,FRA,Europe & Central Asia,ECA,4.8344,6
+2007,YR2007,Gabon,GAB,Sub-Saharan Africa,SSA,0.0012672,141
+2007,YR2007,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.15979,97
+2007,YR2007,Georgia,GEO,Europe & Central Asia,ECA,0.2931,83
+2007,YR2007,Germany,DEU,Europe & Central Asia,ECA,6.6639,1
+2007,YR2007,Ghana,GHA,Sub-Saharan Africa,SSA,0.10168,110
+2007,YR2007,Greece,GRC,Europe & Central Asia,ECA,1.3262,39
+2007,YR2007,Greenland,GRL,Europe & Central Asia,ECA,0.026678,130
+2007,YR2007,Guatemala,GTM,Latin America & Caribbean,LAC,0.62857,67
+2007,YR2007,Guinea,GIN,Sub-Saharan Africa,SSA,0.007264,135
+2007,YR2007,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.00063748,142
+2007,YR2007,Guyana,GUY,Latin America & Caribbean,LAC,0.065241,119
+2007,YR2007,Honduras,HND,Latin America & Caribbean,LAC,0.27432,85
+2007,YR2007,Hungary,HUN,Europe & Central Asia,ECA,1.6695,25
+2007,YR2007,Iceland,ISL,Europe & Central Asia,ECA,0.22701,87
+2007,YR2007,India,IND,South Asia,SA,3.5818,12
+2007,YR2007,Indonesia,IDN,East Asia & Pacific,EAP,1.5796,33
+2007,YR2007,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.092119,113
+2007,YR2007,Iraq,IRQ,Middle East & North Africa,MENA,2.42E-121,148
+2007,YR2007,Ireland,IRL,Europe & Central Asia,ECA,0.89473,54
+2007,YR2007,Israel,ISR,Middle East & North Africa,MENA,1.5587,35
+2007,YR2007,Italy,ITA,Europe & Central Asia,ECA,5.5485,4
+2007,YR2007,Japan,JPN,East Asia & Pacific,EAP,5.266,5
+2007,YR2007,Jordan,JOR,Middle East & North Africa,MENA,0.66746,65
+2007,YR2007,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.1614,95
+2007,YR2007,Kenya,KEN,Sub-Saharan Africa,SSA,0.5576,69
+2007,YR2007,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.3491,38
+2007,YR2007,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.4296,17
+2007,YR2007,Kuwait,KWT,Middle East & North Africa,MENA,0.01493,132
+2007,YR2007,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.32297,81
+2007,YR2007,Lao PDR,LAO,East Asia & Pacific,EAP,0.10776,108
+2007,YR2007,Latvia,LVA,Europe & Central Asia,ECA,1.264,42
+2007,YR2007,Lebanon,LBN,Middle East & North Africa,MENA,1.193,45
+2007,YR2007,Liberia,LBR,Sub-Saharan Africa,SSA,0.00143,140
+2007,YR2007,Libya,LBY,Middle East & North Africa,MENA,1.69E-07,145
+2007,YR2007,Lithuania,LTU,Europe & Central Asia,ECA,1.6066,29
+2007,YR2007,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.50641,73
+2007,YR2007,Madagascar,MDG,Sub-Saharan Africa,SSA,0.29797,82
+2007,YR2007,Malawi,MWI,Sub-Saharan Africa,SSA,0.07106,117
+2007,YR2007,Malaysia,MYS,East Asia & Pacific,EAP,1.5932,31
+2007,YR2007,Mali,MLI,Sub-Saharan Africa,SSA,0.044973,126
+2007,YR2007,Malta,MLT,Middle East & North Africa,MENA,0.45644,75
+2007,YR2007,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0027388,138
+2007,YR2007,Mexico,MEX,Latin America & Caribbean,LAC,1.6647,26
+2007,YR2007,Mongolia,MNG,East Asia & Pacific,EAP,0.073613,116
+2007,YR2007,Montenegro,MNE,Europe & Central Asia,ECA,0.24693,86
+2007,YR2007,Morocco,MAR,Middle East & North Africa,MENA,0.87545,55
+2007,YR2007,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.05292,122
+2007,YR2007,Myanmar,MMR,East Asia & Pacific,EAP,0.12057,104
+2007,YR2007,Nepal,NPL,South Asia,SA,0.55567,70
+2007,YR2007,Netherlands,NLD,Europe & Central Asia,ECA,3.7954,9
+2007,YR2007,New Zealand,NZL,East Asia & Pacific,EAP,0.99617,49
+2007,YR2007,Nicaragua,NIC,Latin America & Caribbean,LAC,0.16133,96
+2007,YR2007,Niger,NER,Sub-Saharan Africa,SSA,0.13161,102
+2007,YR2007,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0080727,134
+2007,YR2007,Norway,NOR,Europe & Central Asia,ECA,0.6985,62
+2007,YR2007,Oman,OMN,Middle East & North Africa,MENA,0.10637,109
+2007,YR2007,Pakistan,PAK,South Asia,SA,1.092,46
+2007,YR2007,Panama,PAN,Latin America & Caribbean,LAC,2.0251,23
+2007,YR2007,Paraguay,PRY,Latin America & Caribbean,LAC,0.16295,94
+2007,YR2007,Peru,PER,Latin America & Caribbean,LAC,0.34021,80
+2007,YR2007,Philippines,PHL,East Asia & Pacific,EAP,0.98403,50
+2007,YR2007,Poland,POL,Europe & Central Asia,ECA,2.4102,19
+2007,YR2007,Portugal,PRT,Europe & Central Asia,ECA,2.2021,22
+2007,YR2007,Qatar,QAT,Middle East & North Africa,MENA,0.0066545,136
+2007,YR2007,Romania,ROU,Europe & Central Asia,ECA,1.648,27
+2007,YR2007,Russian Federation,RUS,Europe & Central Asia,ECA,0.82338,58
+2007,YR2007,Rwanda,RWA,Sub-Saharan Africa,SSA,0.11427,105
+2007,YR2007,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.18232,93
+2007,YR2007,Senegal,SEN,Sub-Saharan Africa,SSA,0.527,72
+2007,YR2007,Serbia,SRB,Europe & Central Asia,ECA,1.2469,43
+2007,YR2007,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.22678,88
+2007,YR2007,Singapore,SGP,East Asia & Pacific,EAP,1.9804,24
+2007,YR2007,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6258,28
+2007,YR2007,Slovenia,SVN,Europe & Central Asia,ECA,2.3063,20
+2007,YR2007,Somalia,SOM,Sub-Saharan Africa,SSA,0.10917,107
+2007,YR2007,South Africa,ZAF,Sub-Saharan Africa,SSA,1.0242,47
+2007,YR2007,Spain,ESP,Europe & Central Asia,ECA,3.696,11
+2007,YR2007,Sudan,SDN,Sub-Saharan Africa,SSA,0.00011937,143
+2007,YR2007,Suriname,SUR,Latin America & Caribbean,LAC,0.055636,120
+2007,YR2007,Sweden,SWE,Europe & Central Asia,ECA,2.8303,15
+2007,YR2007,Switzerland,CHE,Europe & Central Asia,ECA,3.7207,10
+2007,YR2007,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.83598,57
+2007,YR2007,Tajikistan,TJK,Europe & Central Asia,ECA,0.051551,123
+2007,YR2007,Tanzania,TZA,Sub-Saharan Africa,SSA,0.36788,78
+2007,YR2007,Thailand,THA,East Asia & Pacific,EAP,2.4153,18
+2007,YR2007,Togo,TGO,Sub-Saharan Africa,SSA,0.20391,91
+2007,YR2007,Tunisia,TUN,Middle East & North Africa,MENA,0.9645,51
+2007,YR2007,Turkey,TUR,Europe & Central Asia,ECA,2.2535,21
+2007,YR2007,Turkmenistan,TKM,Europe & Central Asia,ECA,0.010596,133
+2007,YR2007,Uganda,UGA,Sub-Saharan Africa,SSA,0.22308,89
+2007,YR2007,Ukraine,UKR,Europe & Central Asia,ECA,1.2755,41
+2007,YR2007,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.67632,64
+2007,YR2007,United Kingdom,GBR,Europe & Central Asia,ECA,4.0006,8
+2007,YR2007,United States,USA,North America,NA,5.6007,3
+2007,YR2007,Uruguay,URY,Latin America & Caribbean,LAC,0.61876,68
+2007,YR2007,Uzbekistan,UZB,Europe & Central Asia,ECA,0.13353,101
+2007,YR2007,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.046519,125
+2007,YR2007,Vietnam,VNM,East Asia & Pacific,EAP,1.2272,44
+2007,YR2007,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.054389,121
+2007,YR2007,Zambia,ZMB,Sub-Saharan Africa,SSA,0.077562,114
+2007,YR2007,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.27656,84
+2008,YR2008,Afghanistan,AFG,South Asia,SA,0.20758,91
+2008,YR2008,Albania,ALB,Europe & Central Asia,ECA,0.86836,55
+2008,YR2008,Algeria,DZA,Middle East & North Africa,MENA,0.0013195,144
+2008,YR2008,Andorra,AND,Europe & Central Asia,ECA,0.75068,59
+2008,YR2008,Angola,AGO,Sub-Saharan Africa,SSA,4.54E-70,148
+2008,YR2008,Argentina,ARG,Latin America & Caribbean,LAC,0.79967,58
+2008,YR2008,Armenia,ARM,Europe & Central Asia,ECA,0.50917,71
+2008,YR2008,Australia,AUS,East Asia & Pacific,EAP,0.59169,67
+2008,YR2008,Austria,AUT,Europe & Central Asia,ECA,3.5055,13
+2008,YR2008,Azerbaijan,AZE,Europe & Central Asia,ECA,0.015344,131
+2008,YR2008,Bahrain,BHR,Middle East & North Africa,MENA,0.24566,87
+2008,YR2008,Bangladesh,BGD,South Asia,SA,0.20928,90
+2008,YR2008,Belarus,BLR,Europe & Central Asia,ECA,0.93876,53
+2008,YR2008,Belgium,BEL,Europe & Central Asia,ECA,4.1646,7
+2008,YR2008,Belize,BLZ,Latin America & Caribbean,LAC,1.0954,46
+2008,YR2008,Benin,BEN,Sub-Saharan Africa,SSA,0.044247,118
+2008,YR2008,Bhutan,BTN,South Asia,SA,0.020006,130
+2008,YR2008,Bolivia,BOL,Latin America & Caribbean,LAC,0.099626,105
+2008,YR2008,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.81564,56
+2008,YR2008,Brazil,BRA,Latin America & Caribbean,LAC,1.2288,41
+2008,YR2008,Brunei Darussalam,BRN,East Asia & Pacific,EAP,3.97E-17,146
+2008,YR2008,Bulgaria,BGR,Europe & Central Asia,ECA,1.5418,33
+2008,YR2008,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.038957,122
+2008,YR2008,Burundi,BDI,Sub-Saharan Africa,SSA,0.062204,113
+2008,YR2008,Cambodia,KHM,East Asia & Pacific,EAP,0.1715,94
+2008,YR2008,Cameroon,CMR,Sub-Saharan Africa,SSA,0.035961,124
+2008,YR2008,Canada,CAN,North America,NA,1.2924,38
+2008,YR2008,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.031713,126
+2008,YR2008,Chad,TCD,Sub-Saharan Africa,SSA,1.46E-71,149
+2008,YR2008,Chile,CHL,Latin America & Caribbean,LAC,0.44801,74
+2008,YR2008,China,CHN,East Asia & Pacific,EAP,6.7478,2
+2008,YR2008,Colombia,COL,Latin America & Caribbean,LAC,0.6686,63
+2008,YR2008,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0078621,134
+2008,YR2008,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0041851,138
+2008,YR2008,Costa Rica,CRI,Latin America & Caribbean,LAC,0.42915,75
+2008,YR2008,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.077041,112
+2008,YR2008,Croatia,HRV,Europe & Central Asia,ECA,1.2663,40
+2008,YR2008,Cyprus,CYP,Europe & Central Asia,ECA,1.1588,45
+2008,YR2008,Czech Republic,CZE,Europe & Central Asia,ECA,3.116,14
+2008,YR2008,Denmark,DNK,Europe & Central Asia,ECA,2.3988,19
+2008,YR2008,Ecuador,ECU,Latin America & Caribbean,LAC,0.11831,102
+2008,YR2008,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.8061,57
+2008,YR2008,El Salvador,SLV,Latin America & Caribbean,LAC,0.59991,66
+2008,YR2008,Eritrea,ERI,Sub-Saharan Africa,SSA,0.11275,103
+2008,YR2008,Estonia,EST,Europe & Central Asia,ECA,1.7117,27
+2008,YR2008,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.13917,98
+2008,YR2008,Finland,FIN,Europe & Central Asia,ECA,1.5292,34
+2008,YR2008,France,FRA,Europe & Central Asia,ECA,4.9935,6
+2008,YR2008,Gabon,GAB,Sub-Saharan Africa,SSA,0.0022221,140
+2008,YR2008,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.17524,93
+2008,YR2008,Georgia,GEO,Europe & Central Asia,ECA,0.29796,81
+2008,YR2008,Germany,DEU,Europe & Central Asia,ECA,6.8499,1
+2008,YR2008,Ghana,GHA,Sub-Saharan Africa,SSA,0.098956,106
+2008,YR2008,Greece,GRC,Europe & Central Asia,ECA,1.3135,36
+2008,YR2008,Greenland,GRL,Europe & Central Asia,ECA,0.024436,128
+2008,YR2008,Guatemala,GTM,Latin America & Caribbean,LAC,0.63297,64
+2008,YR2008,Guinea,GIN,Sub-Saharan Africa,SSA,0.010515,132
+2008,YR2008,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.0016194,143
+2008,YR2008,Guyana,GUY,Latin America & Caribbean,LAC,0.035113,125
+2008,YR2008,Honduras,HND,Latin America & Caribbean,LAC,0.25553,86
+2008,YR2008,Hungary,HUN,Europe & Central Asia,ECA,1.6577,30
+2008,YR2008,Iceland,ISL,Europe & Central Asia,ECA,0.2314,89
+2008,YR2008,India,IND,South Asia,SA,3.8155,10
+2008,YR2008,Indonesia,IDN,East Asia & Pacific,EAP,1.6062,32
+2008,YR2008,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.054566,116
+2008,YR2008,Iraq,IRQ,Middle East & North Africa,MENA,3.30E-58,147
+2008,YR2008,Ireland,IRL,Europe & Central Asia,ECA,0.98016,52
+2008,YR2008,Israel,ISR,Middle East & North Africa,MENA,1.6769,29
+2008,YR2008,Italy,ITA,Europe & Central Asia,ECA,5.4197,3
+2008,YR2008,Japan,JPN,East Asia & Pacific,EAP,5.331,4
+2008,YR2008,Jordan,JOR,Middle East & North Africa,MENA,0.62591,65
+2008,YR2008,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.13477,99
+2008,YR2008,Kenya,KEN,Sub-Saharan Africa,SSA,0.50269,72
+2008,YR2008,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,1.0349,49
+2008,YR2008,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.5263,16
+2008,YR2008,Kuwait,KWT,Middle East & North Africa,MENA,0.0045644,136
+2008,YR2008,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.33149,79
+2008,YR2008,Lao PDR,LAO,East Asia & Pacific,EAP,0.12745,100
+2008,YR2008,Latvia,LVA,Europe & Central Asia,ECA,1.2258,42
+2008,YR2008,Lebanon,LBN,Middle East & North Africa,MENA,1.2249,43
+2008,YR2008,Liberia,LBR,Sub-Saharan Africa,SSA,0.0036677,139
+2008,YR2008,Libya,LBY,Middle East & North Africa,MENA,1.21E-08,145
+2008,YR2008,Lithuania,LTU,Europe & Central Asia,ECA,1.298,37
+2008,YR2008,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.42541,76
+2008,YR2008,Madagascar,MDG,Sub-Saharan Africa,SSA,0.29869,80
+2008,YR2008,Malawi,MWI,Sub-Saharan Africa,SSA,0.089576,109
+2008,YR2008,Malaysia,MYS,East Asia & Pacific,EAP,1.9739,25
+2008,YR2008,Mali,MLI,Sub-Saharan Africa,SSA,0.043335,119
+2008,YR2008,Malta,MLT,Middle East & North Africa,MENA,0.28984,83
+2008,YR2008,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0044861,137
+2008,YR2008,Mexico,MEX,Latin America & Caribbean,LAC,1.6114,31
+2008,YR2008,Mongolia,MNG,East Asia & Pacific,EAP,0.040691,120
+2008,YR2008,Montenegro,MNE,Europe & Central Asia,ECA,0.29097,82
+2008,YR2008,Morocco,MAR,Middle East & North Africa,MENA,0.70816,62
+2008,YR2008,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.055609,115
+2008,YR2008,Myanmar,MMR,East Asia & Pacific,EAP,0.095807,107
+2008,YR2008,Nepal,NPL,South Asia,SA,0.57569,68
+2008,YR2008,Netherlands,NLD,Europe & Central Asia,ECA,3.6934,12
+2008,YR2008,New Zealand,NZL,East Asia & Pacific,EAP,0.90872,54
+2008,YR2008,Nicaragua,NIC,Latin America & Caribbean,LAC,0.16856,95
+2008,YR2008,Niger,NER,Sub-Saharan Africa,SSA,0.090326,108
+2008,YR2008,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0077914,135
+2008,YR2008,Norway,NOR,Europe & Central Asia,ECA,0.57004,69
+2008,YR2008,Oman,OMN,Middle East & North Africa,MENA,0.084706,111
+2008,YR2008,Pakistan,PAK,South Asia,SA,1.0912,47
+2008,YR2008,Panama,PAN,Latin America & Caribbean,LAC,2.1862,23
+2008,YR2008,Paraguay,PRY,Latin America & Caribbean,LAC,0.12732,101
+2008,YR2008,Peru,PER,Latin America & Caribbean,LAC,0.36422,78
+2008,YR2008,Philippines,PHL,East Asia & Pacific,EAP,1.0594,48
+2008,YR2008,Poland,POL,Europe & Central Asia,ECA,2.4522,17
+2008,YR2008,Portugal,PRT,Europe & Central Asia,ECA,2.3376,20
+2008,YR2008,Qatar,QAT,Middle East & North Africa,MENA,0.0016938,142
+2008,YR2008,Romania,ROU,Europe & Central Asia,ECA,1.7196,26
+2008,YR2008,Russian Federation,RUS,Europe & Central Asia,ECA,0.74733,60
+2008,YR2008,Rwanda,RWA,Sub-Saharan Africa,SSA,0.10286,104
+2008,YR2008,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.039176,121
+2008,YR2008,Senegal,SEN,Sub-Saharan Africa,SSA,0.28166,84
+2008,YR2008,Serbia,SRB,Europe & Central Asia,ECA,1.2773,39
+2008,YR2008,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.18957,92
+2008,YR2008,Singapore,SGP,East Asia & Pacific,EAP,2.0598,24
+2008,YR2008,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6829,28
+2008,YR2008,Slovenia,SVN,Europe & Central Asia,ECA,2.2185,22
+2008,YR2008,Somalia,SOM,Sub-Saharan Africa,SSA,0.036481,123
+2008,YR2008,South Africa,ZAF,Sub-Saharan Africa,SSA,0.99972,50
+2008,YR2008,Spain,ESP,Europe & Central Asia,ECA,3.8409,9
+2008,YR2008,Sudan,SDN,Sub-Saharan Africa,SSA,0.0017869,141
+2008,YR2008,Suriname,SUR,Latin America & Caribbean,LAC,0.028979,127
+2008,YR2008,Sweden,SWE,Europe & Central Asia,ECA,2.6238,15
+2008,YR2008,Switzerland,CHE,Europe & Central Asia,ECA,3.7535,11
+2008,YR2008,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.71276,61
+2008,YR2008,Tajikistan,TJK,Europe & Central Asia,ECA,0.059693,114
+2008,YR2008,Tanzania,TZA,Sub-Saharan Africa,SSA,0.40503,77
+2008,YR2008,Thailand,THA,East Asia & Pacific,EAP,2.4269,18
+2008,YR2008,Togo,TGO,Sub-Saharan Africa,SSA,0.15857,96
+2008,YR2008,Tunisia,TUN,Middle East & North Africa,MENA,0.98797,51
+2008,YR2008,Turkey,TUR,Europe & Central Asia,ECA,2.2283,21
+2008,YR2008,Turkmenistan,TKM,Europe & Central Asia,ECA,0.0087182,133
+2008,YR2008,Uganda,UGA,Sub-Saharan Africa,SSA,0.23391,88
+2008,YR2008,Ukraine,UKR,Europe & Central Asia,ECA,1.1648,44
+2008,YR2008,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.45388,73
+2008,YR2008,United Kingdom,GBR,Europe & Central Asia,ECA,4.0409,8
+2008,YR2008,United States,USA,North America,NA,5.3092,5
+2008,YR2008,Uruguay,URY,Latin America & Caribbean,LAC,0.52805,70
+2008,YR2008,Uzbekistan,UZB,Europe & Central Asia,ECA,0.14498,97
+2008,YR2008,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.024365,129
+2008,YR2008,Vietnam,VNM,East Asia & Pacific,EAP,1.3216,35
+2008,YR2008,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.046095,117
+2008,YR2008,Zambia,ZMB,Sub-Saharan Africa,SSA,0.088999,110
+2008,YR2008,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.27363,85
+2009,YR2009,Afghanistan,AFG,South Asia,SA,0.62194,67
+2009,YR2009,Albania,ALB,Europe & Central Asia,ECA,0.89086,54
+2009,YR2009,Algeria,DZA,Middle East & North Africa,MENA,0.0063216,139
+2009,YR2009,Andorra,AND,Europe & Central Asia,ECA,0.6402,65
+2009,YR2009,Angola,AGO,Sub-Saharan Africa,SSA,5.01E-21,148
+2009,YR2009,Argentina,ARG,Latin America & Caribbean,LAC,0.81936,57
+2009,YR2009,Armenia,ARM,Europe & Central Asia,ECA,0.42582,76
+2009,YR2009,Australia,AUS,East Asia & Pacific,EAP,0.51095,73
+2009,YR2009,Austria,AUT,Europe & Central Asia,ECA,3.4761,12
+2009,YR2009,Azerbaijan,AZE,Europe & Central Asia,ECA,0.015961,134
+2009,YR2009,Bahrain,BHR,Middle East & North Africa,MENA,0.25894,88
+2009,YR2009,Bangladesh,BGD,South Asia,SA,0.26004,87
+2009,YR2009,Belarus,BLR,Europe & Central Asia,ECA,0.81953,56
+2009,YR2009,Belgium,BEL,Europe & Central Asia,ECA,4.2102,7
+2009,YR2009,Belize,BLZ,Latin America & Caribbean,LAC,0.7228,62
+2009,YR2009,Benin,BEN,Sub-Saharan Africa,SSA,0.088089,113
+2009,YR2009,Bhutan,BTN,South Asia,SA,0.09209,112
+2009,YR2009,Bolivia,BOL,Latin America & Caribbean,LAC,0.092844,110
+2009,YR2009,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.89225,53
+2009,YR2009,Brazil,BRA,Latin America & Caribbean,LAC,1.1924,44
+2009,YR2009,Brunei Darussalam,BRN,East Asia & Pacific,EAP,5.12E-06,145
+2009,YR2009,Bulgaria,BGR,Europe & Central Asia,ECA,1.7187,28
+2009,YR2009,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.036876,125
+2009,YR2009,Burundi,BDI,Sub-Saharan Africa,SSA,0.05123,123
+2009,YR2009,Cambodia,KHM,East Asia & Pacific,EAP,0.18825,92
+2009,YR2009,Cameroon,CMR,Sub-Saharan Africa,SSA,0.074249,116
+2009,YR2009,Canada,CAN,North America,NA,1.4915,35
+2009,YR2009,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.053811,121
+2009,YR2009,Chad,TCD,Sub-Saharan Africa,SSA,4.43E-16,147
+2009,YR2009,Chile,CHL,Latin America & Caribbean,LAC,0.44224,75
+2009,YR2009,China,CHN,East Asia & Pacific,EAP,6.8373,1
+2009,YR2009,Colombia,COL,Latin America & Caribbean,LAC,0.65099,63
+2009,YR2009,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.019775,132
+2009,YR2009,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0079346,137
+2009,YR2009,Costa Rica,CRI,Latin America & Caribbean,LAC,0.32196,82
+2009,YR2009,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.13059,105
+2009,YR2009,Croatia,HRV,Europe & Central Asia,ECA,1.1404,45
+2009,YR2009,Cyprus,CYP,Europe & Central Asia,ECA,1.232,41
+2009,YR2009,Czech Republic,CZE,Europe & Central Asia,ECA,2.9647,14
+2009,YR2009,Denmark,DNK,Europe & Central Asia,ECA,2.3891,19
+2009,YR2009,Ecuador,ECU,Latin America & Caribbean,LAC,0.14495,102
+2009,YR2009,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,1.026,49
+2009,YR2009,El Salvador,SLV,Latin America & Caribbean,LAC,0.57023,70
+2009,YR2009,Eritrea,ERI,Sub-Saharan Africa,SSA,0.16653,98
+2009,YR2009,Estonia,EST,Europe & Central Asia,ECA,1.5513,33
+2009,YR2009,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.17287,96
+2009,YR2009,Finland,FIN,Europe & Central Asia,ECA,1.5523,32
+2009,YR2009,France,FRA,Europe & Central Asia,ECA,4.6909,6
+2009,YR2009,Gabon,GAB,Sub-Saharan Africa,SSA,0.005853,140
+2009,YR2009,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.14588,100
+2009,YR2009,Georgia,GEO,Europe & Central Asia,ECA,0.27442,86
+2009,YR2009,Germany,DEU,Europe & Central Asia,ECA,6.1992,2
+2009,YR2009,Ghana,GHA,Sub-Saharan Africa,SSA,0.09282,111
+2009,YR2009,Greece,GRC,Europe & Central Asia,ECA,1.3697,38
+2009,YR2009,Greenland,GRL,Europe & Central Asia,ECA,0.016771,133
+2009,YR2009,Guatemala,GTM,Latin America & Caribbean,LAC,0.56224,71
+2009,YR2009,Guinea,GIN,Sub-Saharan Africa,SSA,0.0083908,136
+2009,YR2009,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,0.0042568,142
+2009,YR2009,Guyana,GUY,Latin America & Caribbean,LAC,0.056637,120
+2009,YR2009,Honduras,HND,Latin America & Caribbean,LAC,0.28482,85
+2009,YR2009,Hungary,HUN,Europe & Central Asia,ECA,1.5917,31
+2009,YR2009,Iceland,ISL,Europe & Central Asia,ECA,0.25212,90
+2009,YR2009,India,IND,South Asia,SA,3.9348,10
+2009,YR2009,Indonesia,IDN,East Asia & Pacific,EAP,1.7914,25
+2009,YR2009,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.048822,124
+2009,YR2009,Iraq,IRQ,Middle East & North Africa,MENA,4.39E-38,149
+2009,YR2009,Ireland,IRL,Europe & Central Asia,ECA,0.80928,59
+2009,YR2009,Israel,ISR,Middle East & North Africa,MENA,1.7597,27
+2009,YR2009,Italy,ITA,Europe & Central Asia,ECA,5.2073,4
+2009,YR2009,Japan,JPN,East Asia & Pacific,EAP,5.6738,3
+2009,YR2009,Jordan,JOR,Middle East & North Africa,MENA,0.59972,69
+2009,YR2009,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.11553,107
+2009,YR2009,Kenya,KEN,Sub-Saharan Africa,SSA,0.65036,64
+2009,YR2009,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.95268,51
+2009,YR2009,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.5671,16
+2009,YR2009,Kuwait,KWT,Middle East & North Africa,MENA,0.027012,129
+2009,YR2009,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.31633,83
+2009,YR2009,Lao PDR,LAO,East Asia & Pacific,EAP,0.11616,106
+2009,YR2009,Latvia,LVA,Europe & Central Asia,ECA,1.3482,39
+2009,YR2009,Lebanon,LBN,Middle East & North Africa,MENA,0.91735,52
+2009,YR2009,Liberia,LBR,Sub-Saharan Africa,SSA,0.0074568,138
+2009,YR2009,Libya,LBY,Middle East & North Africa,MENA,1.52E-06,146
+2009,YR2009,Lithuania,LTU,Europe & Central Asia,ECA,1.3723,37
+2009,YR2009,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.63365,66
+2009,YR2009,Madagascar,MDG,Sub-Saharan Africa,SSA,0.36182,80
+2009,YR2009,Malawi,MWI,Sub-Saharan Africa,SSA,0.08348,114
+2009,YR2009,Malaysia,MYS,East Asia & Pacific,EAP,1.8031,24
+2009,YR2009,Mali,MLI,Sub-Saharan Africa,SSA,0.15984,99
+2009,YR2009,Malta,MLT,Middle East & North Africa,MENA,0.34616,81
+2009,YR2009,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0046311,141
+2009,YR2009,Mexico,MEX,Latin America & Caribbean,LAC,1.5142,34
+2009,YR2009,Mongolia,MNG,East Asia & Pacific,EAP,0.033669,126
+2009,YR2009,Montenegro,MNE,Europe & Central Asia,ECA,0.38283,77
+2009,YR2009,Morocco,MAR,Middle East & North Africa,MENA,0.81888,58
+2009,YR2009,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.14332,104
+2009,YR2009,Myanmar,MMR,East Asia & Pacific,EAP,0.11084,108
+2009,YR2009,Nepal,NPL,South Asia,SA,1.0479,48
+2009,YR2009,Netherlands,NLD,Europe & Central Asia,ECA,3.8501,11
+2009,YR2009,New Zealand,NZL,East Asia & Pacific,EAP,0.78335,60
+2009,YR2009,Nicaragua,NIC,Latin America & Caribbean,LAC,0.14367,103
+2009,YR2009,Niger,NER,Sub-Saharan Africa,SSA,0.051508,122
+2009,YR2009,Nigeria,NGA,Sub-Saharan Africa,SSA,0.02846,128
+2009,YR2009,Norway,NOR,Europe & Central Asia,ECA,0.61325,68
+2009,YR2009,Oman,OMN,Middle East & North Africa,MENA,0.082391,115
+2009,YR2009,Pakistan,PAK,South Asia,SA,1.2013,43
+2009,YR2009,Panama,PAN,Latin America & Caribbean,LAC,1.7908,26
+2009,YR2009,Paraguay,PRY,Latin America & Caribbean,LAC,0.14566,101
+2009,YR2009,Peru,PER,Latin America & Caribbean,LAC,0.45066,74
+2009,YR2009,Philippines,PHL,East Asia & Pacific,EAP,0.98541,50
+2009,YR2009,Poland,POL,Europe & Central Asia,ECA,2.2719,20
+2009,YR2009,Portugal,PRT,Europe & Central Asia,ECA,2.2487,21
+2009,YR2009,Qatar,QAT,Middle East & North Africa,MENA,0.0147,135
+2009,YR2009,Romania,ROU,Europe & Central Asia,ECA,1.6389,29
+2009,YR2009,Russian Federation,RUS,Europe & Central Asia,ECA,0.7238,61
+2009,YR2009,Rwanda,RWA,Sub-Saharan Africa,SSA,0.23169,91
+2009,YR2009,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.026907,130
+2009,YR2009,Senegal,SEN,Sub-Saharan Africa,SSA,0.25679,89
+2009,YR2009,Serbia,SRB,Europe & Central Asia,ECA,1.2145,42
+2009,YR2009,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.30576,84
+2009,YR2009,Singapore,SGP,East Asia & Pacific,EAP,1.8751,23
+2009,YR2009,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6374,30
+2009,YR2009,Slovenia,SVN,Europe & Central Asia,ECA,2.1381,22
+2009,YR2009,Somalia,SOM,Sub-Saharan Africa,SSA,0.0042049,143
+2009,YR2009,South Africa,ZAF,Sub-Saharan Africa,SSA,1.1354,46
+2009,YR2009,Spain,ESP,Europe & Central Asia,ECA,3.9484,9
+2009,YR2009,Sudan,SDN,Sub-Saharan Africa,SSA,0.00067223,144
+2009,YR2009,Suriname,SUR,Latin America & Caribbean,LAC,0.065588,117
+2009,YR2009,Sweden,SWE,Europe & Central Asia,ECA,2.634,15
+2009,YR2009,Switzerland,CHE,Europe & Central Asia,ECA,3.4084,13
+2009,YR2009,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.84797,55
+2009,YR2009,Tajikistan,TJK,Europe & Central Asia,ECA,0.061299,118
+2009,YR2009,Tanzania,TZA,Sub-Saharan Africa,SSA,0.36712,79
+2009,YR2009,Thailand,THA,East Asia & Pacific,EAP,2.3895,18
+2009,YR2009,Togo,TGO,Sub-Saharan Africa,SSA,0.18564,94
+2009,YR2009,Tunisia,TUN,Middle East & North Africa,MENA,1.0936,47
+2009,YR2009,Turkey,TUR,Europe & Central Asia,ECA,2.4168,17
+2009,YR2009,Turkmenistan,TKM,Europe & Central Asia,ECA,0.020347,131
+2009,YR2009,Uganda,UGA,Sub-Saharan Africa,SSA,0.37239,78
+2009,YR2009,Ukraine,UKR,Europe & Central Asia,ECA,1.322,40
+2009,YR2009,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.18639,93
+2009,YR2009,United Kingdom,GBR,Europe & Central Asia,ECA,3.9909,8
+2009,YR2009,United States,USA,North America,NA,5.1251,5
+2009,YR2009,Uruguay,URY,Latin America & Caribbean,LAC,0.52577,72
+2009,YR2009,Uzbekistan,UZB,Europe & Central Asia,ECA,0.1753,95
+2009,YR2009,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.028739,127
+2009,YR2009,Vietnam,VNM,East Asia & Pacific,EAP,1.468,36
+2009,YR2009,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.057976,119
+2009,YR2009,Zambia,ZMB,Sub-Saharan Africa,SSA,0.097619,109
+2009,YR2009,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.17235,97
+2010,YR2010,Afghanistan,AFG,South Asia,SA,0.31129,83
+2010,YR2010,Albania,ALB,Europe & Central Asia,ECA,0.42641,73
+2010,YR2010,Algeria,DZA,Middle East & North Africa,MENA,0.0016128,140
+2010,YR2010,Andorra,AND,Europe & Central Asia,ECA,0.46577,70
+2010,YR2010,Angola,AGO,Sub-Saharan Africa,SSA,5.03E-194,148
+2010,YR2010,Argentina,ARG,Latin America & Caribbean,LAC,0.83044,53
+2010,YR2010,Armenia,ARM,Europe & Central Asia,ECA,0.32899,80
+2010,YR2010,Australia,AUS,East Asia & Pacific,EAP,0.42168,74
+2010,YR2010,Austria,AUT,Europe & Central Asia,ECA,3.3548,13
+2010,YR2010,Azerbaijan,AZE,Europe & Central Asia,ECA,0.019849,129
+2010,YR2010,Bahrain,BHR,Middle East & North Africa,MENA,0.25556,89
+2010,YR2010,Bangladesh,BGD,South Asia,SA,0.30471,84
+2010,YR2010,Belarus,BLR,Europe & Central Asia,ECA,0.98249,50
+2010,YR2010,Belgium,BEL,Europe & Central Asia,ECA,4.0799,7
+2010,YR2010,Belize,BLZ,Latin America & Caribbean,LAC,0.072104,112
+2010,YR2010,Benin,BEN,Sub-Saharan Africa,SSA,0.017476,131
+2010,YR2010,Bhutan,BTN,South Asia,SA,0.091762,108
+2010,YR2010,Bolivia,BOL,Latin America & Caribbean,LAC,0.10971,105
+2010,YR2010,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.81419,55
+2010,YR2010,Brazil,BRA,Latin America & Caribbean,LAC,1.1756,42
+2010,YR2010,Brunei Darussalam,BRN,East Asia & Pacific,EAP,1.98E-133,147
+2010,YR2010,Bulgaria,BGR,Europe & Central Asia,ECA,1.6226,33
+2010,YR2010,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.068757,114
+2010,YR2010,Burundi,BDI,Sub-Saharan Africa,SSA,0.051784,118
+2010,YR2010,Cambodia,KHM,East Asia & Pacific,EAP,0.19208,94
+2010,YR2010,Cameroon,CMR,Sub-Saharan Africa,SSA,0.057295,117
+2010,YR2010,Canada,CAN,North America,NA,1.3988,37
+2010,YR2010,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.042074,123
+2010,YR2010,Chad,TCD,Sub-Saharan Africa,SSA,1.95E-98,146
+2010,YR2010,Chile,CHL,Latin America & Caribbean,LAC,0.36344,79
+2010,YR2010,China,CHN,East Asia & Pacific,EAP,7.3882,1
+2010,YR2010,Colombia,COL,Latin America & Caribbean,LAC,0.44142,71
+2010,YR2010,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0079439,134
+2010,YR2010,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0012542,141
+2010,YR2010,Costa Rica,CRI,Latin America & Caribbean,LAC,0.30389,85
+2010,YR2010,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.068637,115
+2010,YR2010,Croatia,HRV,Europe & Central Asia,ECA,1.2775,41
+2010,YR2010,Cyprus,CYP,Europe & Central Asia,ECA,1.1332,44
+2010,YR2010,Czech Republic,CZE,Europe & Central Asia,ECA,3.1301,14
+2010,YR2010,Denmark,DNK,Europe & Central Asia,ECA,2.4171,19
+2010,YR2010,Ecuador,ECU,Latin America & Caribbean,LAC,0.20526,93
+2010,YR2010,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,1.03,48
+2010,YR2010,El Salvador,SLV,Latin America & Caribbean,LAC,0.52171,67
+2010,YR2010,Eritrea,ERI,Sub-Saharan Africa,SSA,0.12455,103
+2010,YR2010,Estonia,EST,Europe & Central Asia,ECA,1.775,26
+2010,YR2010,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.18018,95
+2010,YR2010,Finland,FIN,Europe & Central Asia,ECA,1.6646,31
+2010,YR2010,France,FRA,Europe & Central Asia,ECA,4.6563,6
+2010,YR2010,Gabon,GAB,Sub-Saharan Africa,SSA,1.36E-16,144
+2010,YR2010,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.12611,102
+2010,YR2010,Georgia,GEO,Europe & Central Asia,ECA,0.29332,86
+2010,YR2010,Germany,DEU,Europe & Central Asia,ECA,6.5361,2
+2010,YR2010,Ghana,GHA,Sub-Saharan Africa,SSA,0.084203,109
+2010,YR2010,Greece,GRC,Europe & Central Asia,ECA,1.3146,40
+2010,YR2010,Greenland,GRL,Europe & Central Asia,ECA,0.032621,128
+2010,YR2010,Guatemala,GTM,Latin America & Caribbean,LAC,0.57448,65
+2010,YR2010,Guinea,GIN,Sub-Saharan Africa,SSA,0.0019098,137
+2010,YR2010,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,6.16E-05,142
+2010,YR2010,Guyana,GUY,Latin America & Caribbean,LAC,0.041099,124
+2010,YR2010,Honduras,HND,Latin America & Caribbean,LAC,0.37077,78
+2010,YR2010,Hungary,HUN,Europe & Central Asia,ECA,1.7575,27
+2010,YR2010,Iceland,ISL,Europe & Central Asia,ECA,0.23335,91
+2010,YR2010,India,IND,South Asia,SA,3.6693,10
+2010,YR2010,Indonesia,IDN,East Asia & Pacific,EAP,1.4658,36
+2010,YR2010,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.32336,81
+2010,YR2010,Iraq,IRQ,Middle East & North Africa,MENA,0,149
+2010,YR2010,Ireland,IRL,Europe & Central Asia,ECA,0.74514,58
+2010,YR2010,Israel,ISR,Middle East & North Africa,MENA,1.6732,30
+2010,YR2010,Italy,ITA,Europe & Central Asia,ECA,5.5365,4
+2010,YR2010,Japan,JPN,East Asia & Pacific,EAP,5.5836,3
+2010,YR2010,Jordan,JOR,Middle East & North Africa,MENA,0.70545,61
+2010,YR2010,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.083146,110
+2010,YR2010,Kenya,KEN,Sub-Saharan Africa,SSA,0.58402,64
+2010,YR2010,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.78698,56
+2010,YR2010,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.8574,15
+2010,YR2010,Kuwait,KWT,Middle East & North Africa,MENA,0.0020786,136
+2010,YR2010,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.25605,88
+2010,YR2010,Lao PDR,LAO,East Asia & Pacific,EAP,0.12446,104
+2010,YR2010,Latvia,LVA,Europe & Central Asia,ECA,1.5377,34
+2010,YR2010,Lebanon,LBN,Middle East & North Africa,MENA,0.89908,51
+2010,YR2010,Liberia,LBR,Sub-Saharan Africa,SSA,0.0017584,138
+2010,YR2010,Libya,LBY,Middle East & North Africa,MENA,2.87E-78,145
+2010,YR2010,Lithuania,LTU,Europe & Central Asia,ECA,1.3882,38
+2010,YR2010,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.60281,63
+2010,YR2010,Madagascar,MDG,Sub-Saharan Africa,SSA,0.46633,69
+2010,YR2010,Malawi,MWI,Sub-Saharan Africa,SSA,0.093243,107
+2010,YR2010,Malaysia,MYS,East Asia & Pacific,EAP,1.8615,24
+2010,YR2010,Mali,MLI,Sub-Saharan Africa,SSA,0.061337,116
+2010,YR2010,Malta,MLT,Middle East & North Africa,MENA,0.41778,75
+2010,YR2010,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0076737,135
+2010,YR2010,Mexico,MEX,Latin America & Caribbean,LAC,1.6501,32
+2010,YR2010,Mongolia,MNG,East Asia & Pacific,EAP,0.042876,122
+2010,YR2010,Montenegro,MNE,Europe & Central Asia,ECA,0.42835,72
+2010,YR2010,Morocco,MAR,Middle East & North Africa,MENA,0.81419,54
+2010,YR2010,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.047101,120
+2010,YR2010,Myanmar,MMR,East Asia & Pacific,EAP,0.13618,99
+2010,YR2010,Nepal,NPL,South Asia,SA,0.75414,57
+2010,YR2010,Netherlands,NLD,Europe & Central Asia,ECA,3.5109,11
+2010,YR2010,New Zealand,NZL,East Asia & Pacific,EAP,0.72083,60
+2010,YR2010,Nicaragua,NIC,Latin America & Caribbean,LAC,0.13548,100
+2010,YR2010,Niger,NER,Sub-Saharan Africa,SSA,0.037961,125
+2010,YR2010,Nigeria,NGA,Sub-Saharan Africa,SSA,0.012263,133
+2010,YR2010,Norway,NOR,Europe & Central Asia,ECA,0.62307,62
+2010,YR2010,Oman,OMN,Middle East & North Africa,MENA,0.10071,106
+2010,YR2010,Pakistan,PAK,South Asia,SA,1.1157,45
+2010,YR2010,Panama,PAN,Latin America & Caribbean,LAC,2.1445,23
+2010,YR2010,Paraguay,PRY,Latin America & Caribbean,LAC,0.13473,101
+2010,YR2010,Peru,PER,Latin America & Caribbean,LAC,0.38445,76
+2010,YR2010,Philippines,PHL,East Asia & Pacific,EAP,0.98664,49
+2010,YR2010,Poland,POL,Europe & Central Asia,ECA,2.4439,18
+2010,YR2010,Portugal,PRT,Europe & Central Asia,ECA,2.3957,20
+2010,YR2010,Qatar,QAT,Middle East & North Africa,MENA,0.048752,119
+2010,YR2010,Romania,ROU,Europe & Central Asia,ECA,1.7087,28
+2010,YR2010,Russian Federation,RUS,Europe & Central Asia,ECA,0.73937,59
+2010,YR2010,Rwanda,RWA,Sub-Saharan Africa,SSA,0.15029,97
+2010,YR2010,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.044551,121
+2010,YR2010,Senegal,SEN,Sub-Saharan Africa,SSA,0.24911,90
+2010,YR2010,Serbia,SRB,Europe & Central Asia,ECA,1.0716,46
+2010,YR2010,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.2896,87
+2010,YR2010,Singapore,SGP,East Asia & Pacific,EAP,1.8063,25
+2010,YR2010,Slovak Republic,SVK,Europe & Central Asia,ECA,1.68,29
+2010,YR2010,Slovenia,SVN,Europe & Central Asia,ECA,2.2018,22
+2010,YR2010,Somalia,SOM,Sub-Saharan Africa,SSA,0.001689,139
+2010,YR2010,South Africa,ZAF,Sub-Saharan Africa,SSA,1.045,47
+2010,YR2010,Spain,ESP,Europe & Central Asia,ECA,4.0198,9
+2010,YR2010,Sudan,SDN,Sub-Saharan Africa,SSA,4.84E-05,143
+2010,YR2010,Suriname,SUR,Latin America & Caribbean,LAC,0.01601,132
+2010,YR2010,Sweden,SWE,Europe & Central Asia,ECA,2.7701,16
+2010,YR2010,Switzerland,CHE,Europe & Central Asia,ECA,3.4386,12
+2010,YR2010,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.85622,52
+2010,YR2010,Tajikistan,TJK,Europe & Central Asia,ECA,0.07432,111
+2010,YR2010,Tanzania,TZA,Sub-Saharan Africa,SSA,0.38284,77
+2010,YR2010,Thailand,THA,East Asia & Pacific,EAP,2.3902,21
+2010,YR2010,Togo,TGO,Sub-Saharan Africa,SSA,0.16418,96
+2010,YR2010,Tunisia,TUN,Middle East & North Africa,MENA,1.1665,43
+2010,YR2010,Turkey,TUR,Europe & Central Asia,ECA,2.4831,17
+2010,YR2010,Turkmenistan,TKM,Europe & Central Asia,ECA,0.033554,127
+2010,YR2010,Uganda,UGA,Sub-Saharan Africa,SSA,0.32334,82
+2010,YR2010,Ukraine,UKR,Europe & Central Asia,ECA,1.3306,39
+2010,YR2010,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.56959,66
+2010,YR2010,United Kingdom,GBR,Europe & Central Asia,ECA,4.044,8
+2010,YR2010,United States,USA,North America,NA,5.5102,5
+2010,YR2010,Uruguay,URY,Latin America & Caribbean,LAC,0.46737,68
+2010,YR2010,Uzbekistan,UZB,Europe & Central Asia,ECA,0.22017,92
+2010,YR2010,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.019413,130
+2010,YR2010,Vietnam,VNM,East Asia & Pacific,EAP,1.5226,35
+2010,YR2010,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.03478,126
+2010,YR2010,Zambia,ZMB,Sub-Saharan Africa,SSA,0.071232,113
+2010,YR2010,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.14691,98
+2011,YR2011,Afghanistan,AFG,South Asia,SA,0.10048,105
+2011,YR2011,Albania,ALB,Europe & Central Asia,ECA,0.41327,68
+2011,YR2011,Algeria,DZA,Middle East & North Africa,MENA,1.04E-12,139
+2011,YR2011,Andorra,AND,Europe & Central Asia,ECA,0.23063,87
+2011,YR2011,Angola,AGO,Sub-Saharan Africa,SSA,4.89E-253,148
+2011,YR2011,Argentina,ARG,Latin America & Caribbean,LAC,0.63882,58
+2011,YR2011,Armenia,ARM,Europe & Central Asia,ECA,0.43946,67
+2011,YR2011,Australia,AUS,East Asia & Pacific,EAP,0.34349,76
+2011,YR2011,Austria,AUT,Europe & Central Asia,ECA,3.5692,12
+2011,YR2011,Azerbaijan,AZE,Europe & Central Asia,ECA,0.010694,128
+2011,YR2011,Bahrain,BHR,Middle East & North Africa,MENA,0.17819,92
+2011,YR2011,Bangladesh,BGD,South Asia,SA,0.27904,83
+2011,YR2011,Belarus,BLR,Europe & Central Asia,ECA,0.92876,48
+2011,YR2011,Belgium,BEL,Europe & Central Asia,ECA,4.0023,8
+2011,YR2011,Belize,BLZ,Latin America & Caribbean,LAC,0.38498,73
+2011,YR2011,Benin,BEN,Sub-Saharan Africa,SSA,0.012682,126
+2011,YR2011,Bhutan,BTN,South Asia,SA,0.05974,114
+2011,YR2011,Bolivia,BOL,Latin America & Caribbean,LAC,0.068236,112
+2011,YR2011,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.84236,52
+2011,YR2011,Brazil,BRA,Latin America & Caribbean,LAC,1.1806,41
+2011,YR2011,Brunei Darussalam,BRN,East Asia & Pacific,EAP,1.55E-79,145
+2011,YR2011,Bulgaria,BGR,Europe & Central Asia,ECA,1.7138,30
+2011,YR2011,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.011438,127
+2011,YR2011,Burundi,BDI,Sub-Saharan Africa,SSA,0.046071,118
+2011,YR2011,Cambodia,KHM,East Asia & Pacific,EAP,0.22172,88
+2011,YR2011,Cameroon,CMR,Sub-Saharan Africa,SSA,0.069906,110
+2011,YR2011,Canada,CAN,North America,NA,1.4258,38
+2011,YR2011,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.023643,124
+2011,YR2011,Chad,TCD,Sub-Saharan Africa,SSA,5.25E-206,147
+2011,YR2011,Chile,CHL,Latin America & Caribbean,LAC,0.41118,69
+2011,YR2011,China,CHN,East Asia & Pacific,EAP,7.9147,1
+2011,YR2011,Colombia,COL,Latin America & Caribbean,LAC,0.33797,77
+2011,YR2011,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,1.60E-13,141
+2011,YR2011,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,5.83E-37,143
+2011,YR2011,Costa Rica,CRI,Latin America & Caribbean,LAC,0.27218,84
+2011,YR2011,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.052147,116
+2011,YR2011,Croatia,HRV,Europe & Central Asia,ECA,1.1746,42
+2011,YR2011,Cyprus,CYP,Europe & Central Asia,ECA,1.0659,45
+2011,YR2011,Czech Republic,CZE,Europe & Central Asia,ECA,3.2532,14
+2011,YR2011,Denmark,DNK,Europe & Central Asia,ECA,2.5993,18
+2011,YR2011,Ecuador,ECU,Latin America & Caribbean,LAC,0.14972,98
+2011,YR2011,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.88489,51
+2011,YR2011,El Salvador,SLV,Latin America & Caribbean,LAC,0.53877,63
+2011,YR2011,Eritrea,ERI,Sub-Saharan Africa,SSA,0.00070156,136
+2011,YR2011,Estonia,EST,Europe & Central Asia,ECA,1.6548,32
+2011,YR2011,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.15055,97
+2011,YR2011,Finland,FIN,Europe & Central Asia,ECA,1.8267,27
+2011,YR2011,France,FRA,Europe & Central Asia,ECA,4.8582,6
+2011,YR2011,Gabon,GAB,Sub-Saharan Africa,SSA,2.49E-50,144
+2011,YR2011,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.15635,96
+2011,YR2011,Georgia,GEO,Europe & Central Asia,ECA,0.33442,78
+2011,YR2011,Germany,DEU,Europe & Central Asia,ECA,6.5393,2
+2011,YR2011,Ghana,GHA,Sub-Saharan Africa,SSA,0.11676,102
+2011,YR2011,Greece,GRC,Europe & Central Asia,ECA,1.0556,46
+2011,YR2011,Greenland,GRL,Europe & Central Asia,ECA,0.018713,125
+2011,YR2011,Guatemala,GTM,Latin America & Caribbean,LAC,0.61313,59
+2011,YR2011,Guinea,GIN,Sub-Saharan Africa,SSA,0.0049787,134
+2011,YR2011,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,5.50E-13,140
+2011,YR2011,Guyana,GUY,Latin America & Caribbean,LAC,0.039188,120
+2011,YR2011,Honduras,HND,Latin America & Caribbean,LAC,0.23956,86
+2011,YR2011,Hungary,HUN,Europe & Central Asia,ECA,1.8502,25
+2011,YR2011,Iceland,ISL,Europe & Central Asia,ECA,0.21615,89
+2011,YR2011,India,IND,South Asia,SA,3.7188,10
+2011,YR2011,Indonesia,IDN,East Asia & Pacific,EAP,1.4986,37
+2011,YR2011,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.26875,85
+2011,YR2011,Iraq,IRQ,Middle East & North Africa,MENA,3.81E-255,149
+2011,YR2011,Ireland,IRL,Europe & Central Asia,ECA,0.77226,55
+2011,YR2011,Israel,ISR,Middle East & North Africa,MENA,1.666,31
+2011,YR2011,Italy,ITA,Europe & Central Asia,ECA,5.8891,3
+2011,YR2011,Japan,JPN,East Asia & Pacific,EAP,5.8059,4
+2011,YR2011,Jordan,JOR,Middle East & North Africa,MENA,0.57217,61
+2011,YR2011,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.11049,104
+2011,YR2011,Kenya,KEN,Sub-Saharan Africa,SSA,0.40321,70
+2011,YR2011,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.53289,64
+2011,YR2011,"Korea, Rep.",KOR,East Asia & Pacific,EAP,2.8041,15
+2011,YR2011,Kuwait,KWT,Middle East & North Africa,MENA,1.07E-14,142
+2011,YR2011,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.28318,82
+2011,YR2011,Lao PDR,LAO,East Asia & Pacific,EAP,0.11369,103
+2011,YR2011,Latvia,LVA,Europe & Central Asia,ECA,1.5285,35
+2011,YR2011,Lebanon,LBN,Middle East & North Africa,MENA,0.90036,49
+2011,YR2011,Liberia,LBR,Sub-Saharan Africa,SSA,0.027793,121
+2011,YR2011,Libya,LBY,Middle East & North Africa,MENA,1.22E-88,146
+2011,YR2011,Lithuania,LTU,Europe & Central Asia,ECA,1.5144,36
+2011,YR2011,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.55298,62
+2011,YR2011,Madagascar,MDG,Sub-Saharan Africa,SSA,0.39767,72
+2011,YR2011,Malawi,MWI,Sub-Saharan Africa,SSA,0.08921,107
+2011,YR2011,Malaysia,MYS,East Asia & Pacific,EAP,1.9332,24
+2011,YR2011,Mali,MLI,Sub-Saharan Africa,SSA,0.051862,117
+2011,YR2011,Malta,MLT,Middle East & North Africa,MENA,0.37239,75
+2011,YR2011,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0061176,131
+2011,YR2011,Mexico,MEX,Latin America & Caribbean,LAC,1.734,29
+2011,YR2011,Mongolia,MNG,East Asia & Pacific,EAP,0.025252,123
+2011,YR2011,Montenegro,MNE,Europe & Central Asia,ECA,0.29632,81
+2011,YR2011,Morocco,MAR,Middle East & North Africa,MENA,0.83998,53
+2011,YR2011,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.060922,113
+2011,YR2011,Myanmar,MMR,East Asia & Pacific,EAP,0.13044,99
+2011,YR2011,Nepal,NPL,South Asia,SA,0.71503,57
+2011,YR2011,Netherlands,NLD,Europe & Central Asia,ECA,3.6941,11
+2011,YR2011,New Zealand,NZL,East Asia & Pacific,EAP,0.77461,54
+2011,YR2011,Nicaragua,NIC,Latin America & Caribbean,LAC,0.12844,101
+2011,YR2011,Niger,NER,Sub-Saharan Africa,SSA,0.026838,122
+2011,YR2011,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0030983,135
+2011,YR2011,Norway,NOR,Europe & Central Asia,ECA,0.46158,65
+2011,YR2011,Oman,OMN,Middle East & North Africa,MENA,0.091182,106
+2011,YR2011,Pakistan,PAK,South Asia,SA,1.3009,39
+2011,YR2011,Panama,PAN,Latin America & Caribbean,LAC,1.9731,23
+2011,YR2011,Paraguay,PRY,Latin America & Caribbean,LAC,0.1288,100
+2011,YR2011,Peru,PER,Latin America & Caribbean,LAC,0.37622,74
+2011,YR2011,Philippines,PHL,East Asia & Pacific,EAP,1.2668,40
+2011,YR2011,Poland,POL,Europe & Central Asia,ECA,2.5561,20
+2011,YR2011,Portugal,PRT,Europe & Central Asia,ECA,2.5812,19
+2011,YR2011,Qatar,QAT,Middle East & North Africa,MENA,0.0050346,133
+2011,YR2011,Romania,ROU,Europe & Central Asia,ECA,1.6355,33
+2011,YR2011,Russian Federation,RUS,Europe & Central Asia,ECA,0.60945,60
+2011,YR2011,Rwanda,RWA,Sub-Saharan Africa,SSA,0.083349,108
+2011,YR2011,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.0088975,130
+2011,YR2011,Senegal,SEN,Sub-Saharan Africa,SSA,0.19777,90
+2011,YR2011,Serbia,SRB,Europe & Central Asia,ECA,1.1155,44
+2011,YR2011,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.16244,94
+2011,YR2011,Singapore,SGP,East Asia & Pacific,EAP,1.8476,26
+2011,YR2011,Slovak Republic,SVK,Europe & Central Asia,ECA,1.7466,28
+2011,YR2011,Slovenia,SVN,Europe & Central Asia,ECA,2.2728,22
+2011,YR2011,Somalia,SOM,Sub-Saharan Africa,SSA,2.04E-07,138
+2011,YR2011,South Africa,ZAF,Sub-Saharan Africa,SSA,0.99019,47
+2011,YR2011,Spain,ESP,Europe & Central Asia,ECA,4.2765,7
+2011,YR2011,Sudan,SDN,Sub-Saharan Africa,SSA,4.76E-07,137
+2011,YR2011,Suriname,SUR,Latin America & Caribbean,LAC,0.068929,111
+2011,YR2011,Sweden,SWE,Europe & Central Asia,ECA,2.7761,16
+2011,YR2011,Switzerland,CHE,Europe & Central Asia,ECA,3.2907,13
+2011,YR2011,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.71844,56
+2011,YR2011,Tajikistan,TJK,Europe & Central Asia,ECA,0.079903,109
+2011,YR2011,Tanzania,TZA,Sub-Saharan Africa,SSA,0.31076,80
+2011,YR2011,Thailand,THA,East Asia & Pacific,EAP,2.5414,21
+2011,YR2011,Togo,TGO,Sub-Saharan Africa,SSA,0.16292,93
+2011,YR2011,Tunisia,TUN,Middle East & North Africa,MENA,1.1742,43
+2011,YR2011,Turkey,TUR,Europe & Central Asia,ECA,2.7486,17
+2011,YR2011,Turkmenistan,TKM,Europe & Central Asia,ECA,0.0092905,129
+2011,YR2011,Uganda,UGA,Sub-Saharan Africa,SSA,0.3177,79
+2011,YR2011,Ukraine,UKR,Europe & Central Asia,ECA,0.88526,50
+2011,YR2011,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.39783,71
+2011,YR2011,United Kingdom,GBR,Europe & Central Asia,ECA,3.8493,9
+2011,YR2011,United States,USA,North America,NA,5.7536,5
+2011,YR2011,Uruguay,URY,Latin America & Caribbean,LAC,0.44353,66
+2011,YR2011,Uzbekistan,UZB,Europe & Central Asia,ECA,0.18766,91
+2011,YR2011,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.0057054,132
+2011,YR2011,Vietnam,VNM,East Asia & Pacific,EAP,1.5714,34
+2011,YR2011,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.039194,119
+2011,YR2011,Zambia,ZMB,Sub-Saharan Africa,SSA,0.052598,115
+2011,YR2011,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.15975,95
+2012,YR2012,Afghanistan,AFG,South Asia,SA,0.077571,106
+2012,YR2012,Albania,ALB,Europe & Central Asia,ECA,0.42853,71
+2012,YR2012,Algeria,DZA,Middle East & North Africa,MENA,1.43E-40,138
+2012,YR2012,Andorra,AND,Europe & Central Asia,ECA,0.61898,63
+2012,YR2012,Angola,AGO,Sub-Saharan Africa,SSA,0,147.5
+2012,YR2012,Argentina,ARG,Latin America & Caribbean,LAC,0.65138,61
+2012,YR2012,Armenia,ARM,Europe & Central Asia,ECA,0.42947,70
+2012,YR2012,Australia,AUS,East Asia & Pacific,EAP,0.37233,73
+2012,YR2012,Austria,AUT,Europe & Central Asia,ECA,3.406,11
+2012,YR2012,Azerbaijan,AZE,Europe & Central Asia,ECA,0.0091757,129
+2012,YR2012,Bahrain,BHR,Middle East & North Africa,MENA,0.22725,87
+2012,YR2012,Bangladesh,BGD,South Asia,SA,0.34158,79
+2012,YR2012,Belarus,BLR,Europe & Central Asia,ECA,0.94779,49
+2012,YR2012,Belgium,BEL,Europe & Central Asia,ECA,4.2326,7
+2012,YR2012,Belize,BLZ,Latin America & Caribbean,LAC,0.078263,105
+2012,YR2012,Benin,BEN,Sub-Saharan Africa,SSA,0.04522,116
+2012,YR2012,Bhutan,BTN,South Asia,SA,0.099184,101
+2012,YR2012,Bolivia,BOL,Latin America & Caribbean,LAC,0.10547,100
+2012,YR2012,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.84061,52
+2012,YR2012,Brazil,BRA,Latin America & Caribbean,LAC,1.0623,44
+2012,YR2012,Brunei Darussalam,BRN,East Asia & Pacific,EAP,7.04E-139,142
+2012,YR2012,Bulgaria,BGR,Europe & Central Asia,ECA,1.8274,26
+2012,YR2012,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.022899,123
+2012,YR2012,Burundi,BDI,Sub-Saharan Africa,SSA,0.043586,117
+2012,YR2012,Cambodia,KHM,East Asia & Pacific,EAP,0.2492,86
+2012,YR2012,Cameroon,CMR,Sub-Saharan Africa,SSA,0.049654,112
+2012,YR2012,Canada,CAN,North America,NA,1.424,37
+2012,YR2012,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.045987,115
+2012,YR2012,Chad,TCD,Sub-Saharan Africa,SSA,0,145
+2012,YR2012,Chile,CHL,Latin America & Caribbean,LAC,0.38865,72
+2012,YR2012,China,CHN,East Asia & Pacific,EAP,8.3551,1
+2012,YR2012,Colombia,COL,Latin America & Caribbean,LAC,0.35756,75
+2012,YR2012,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,0.0016029,135
+2012,YR2012,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,0.0016229,134
+2012,YR2012,Costa Rica,CRI,Latin America & Caribbean,LAC,0.28659,82
+2012,YR2012,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.056309,111
+2012,YR2012,Croatia,HRV,Europe & Central Asia,ECA,1.1867,42
+2012,YR2012,Cyprus,CYP,Europe & Central Asia,ECA,0.83395,53
+2012,YR2012,Czech Republic,CZE,Europe & Central Asia,ECA,3.2392,13
+2012,YR2012,Denmark,DNK,Europe & Central Asia,ECA,2.382,21
+2012,YR2012,Ecuador,ECU,Latin America & Caribbean,LAC,0.18104,92
+2012,YR2012,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,0.90315,51
+2012,YR2012,El Salvador,SLV,Latin America & Caribbean,LAC,0.63274,62
+2012,YR2012,Eritrea,ERI,Sub-Saharan Africa,SSA,0.0063311,131
+2012,YR2012,Estonia,EST,Europe & Central Asia,ECA,1.7593,29
+2012,YR2012,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.13349,98
+2012,YR2012,Finland,FIN,Europe & Central Asia,ECA,1.7699,28
+2012,YR2012,France,FRA,Europe & Central Asia,ECA,4.8431,6
+2012,YR2012,Gabon,GAB,Sub-Saharan Africa,SSA,4.42E-232,144
+2012,YR2012,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.07883,104
+2012,YR2012,Georgia,GEO,Europe & Central Asia,ECA,0.26283,84
+2012,YR2012,Germany,DEU,Europe & Central Asia,ECA,6.5548,2
+2012,YR2012,Ghana,GHA,Sub-Saharan Africa,SSA,0.059696,110
+2012,YR2012,Greece,GRC,Europe & Central Asia,ECA,0.9253,50
+2012,YR2012,Greenland,GRL,Europe & Central Asia,ECA,0.0064229,130
+2012,YR2012,Guatemala,GTM,Latin America & Caribbean,LAC,0.56393,64
+2012,YR2012,Guinea,GIN,Sub-Saharan Africa,SSA,0.003774,132
+2012,YR2012,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,3.52E-139,143
+2012,YR2012,Guyana,GUY,Latin America & Caribbean,LAC,0.020318,124
+2012,YR2012,Honduras,HND,Latin America & Caribbean,LAC,0.34654,78
+2012,YR2012,Hungary,HUN,Europe & Central Asia,ECA,1.9499,25
+2012,YR2012,Iceland,ISL,Europe & Central Asia,ECA,0.18121,91
+2012,YR2012,India,IND,South Asia,SA,4.0268,8
+2012,YR2012,Indonesia,IDN,East Asia & Pacific,EAP,1.4925,35
+2012,YR2012,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.03854,118
+2012,YR2012,Iraq,IRQ,Middle East & North Africa,MENA,0,147.5
+2012,YR2012,Ireland,IRL,Europe & Central Asia,ECA,0.72749,55
+2012,YR2012,Israel,ISR,Middle East & North Africa,MENA,1.5355,34
+2012,YR2012,Italy,ITA,Europe & Central Asia,ECA,5.6536,4
+2012,YR2012,Japan,JPN,East Asia & Pacific,EAP,5.8299,3
+2012,YR2012,Jordan,JOR,Middle East & North Africa,MENA,0.68556,57
+2012,YR2012,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.21947,88
+2012,YR2012,Kenya,KEN,Sub-Saharan Africa,SSA,0.44937,68
+2012,YR2012,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.6531,60
+2012,YR2012,"Korea, Rep.",KOR,East Asia & Pacific,EAP,3.0321,14
+2012,YR2012,Kuwait,KWT,Middle East & North Africa,MENA,1.11E-66,140
+2012,YR2012,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.42977,69
+2012,YR2012,Lao PDR,LAO,East Asia & Pacific,EAP,0.11197,99
+2012,YR2012,Latvia,LVA,Europe & Central Asia,ECA,1.4044,38
+2012,YR2012,Lebanon,LBN,Middle East & North Africa,MENA,0.9719,48
+2012,YR2012,Liberia,LBR,Sub-Saharan Africa,SSA,0.00090606,136
+2012,YR2012,Libya,LBY,Middle East & North Africa,MENA,0,146
+2012,YR2012,Lithuania,LTU,Europe & Central Asia,ECA,1.6277,33
+2012,YR2012,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.49638,66
+2012,YR2012,Madagascar,MDG,Sub-Saharan Africa,SSA,0.34843,77
+2012,YR2012,Malawi,MWI,Sub-Saharan Africa,SSA,0.067498,109
+2012,YR2012,Malaysia,MYS,East Asia & Pacific,EAP,1.9909,24
+2012,YR2012,Mali,MLI,Sub-Saharan Africa,SSA,0.046358,114
+2012,YR2012,Malta,MLT,Middle East & North Africa,MENA,0.35774,74
+2012,YR2012,Mauritania,MRT,Sub-Saharan Africa,SSA,0.010682,128
+2012,YR2012,Mexico,MEX,Latin America & Caribbean,LAC,1.7149,31
+2012,YR2012,Mongolia,MNG,East Asia & Pacific,EAP,0.018205,126
+2012,YR2012,Montenegro,MNE,Europe & Central Asia,ECA,0.26456,83
+2012,YR2012,Morocco,MAR,Middle East & North Africa,MENA,0.71654,56
+2012,YR2012,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.037883,119
+2012,YR2012,Myanmar,MMR,East Asia & Pacific,EAP,0.1506,94
+2012,YR2012,Nepal,NPL,South Asia,SA,0.67358,59
+2012,YR2012,Netherlands,NLD,Europe & Central Asia,ECA,3.269,12
+2012,YR2012,New Zealand,NZL,East Asia & Pacific,EAP,0.75812,54
+2012,YR2012,Nicaragua,NIC,Latin America & Caribbean,LAC,0.18133,90
+2012,YR2012,Niger,NER,Sub-Saharan Africa,SSA,0.023915,122
+2012,YR2012,Nigeria,NGA,Sub-Saharan Africa,SSA,0.013625,127
+2012,YR2012,Norway,NOR,Europe & Central Asia,ECA,0.5093,65
+2012,YR2012,Oman,OMN,Middle East & North Africa,MENA,0.092843,102
+2012,YR2012,Pakistan,PAK,South Asia,SA,1.1359,43
+2012,YR2012,Panama,PAN,Latin America & Caribbean,LAC,2.3655,22
+2012,YR2012,Paraguay,PRY,Latin America & Caribbean,LAC,0.14328,95
+2012,YR2012,Peru,PER,Latin America & Caribbean,LAC,0.47741,67
+2012,YR2012,Philippines,PHL,East Asia & Pacific,EAP,1.4679,36
+2012,YR2012,Poland,POL,Europe & Central Asia,ECA,2.5792,17
+2012,YR2012,Portugal,PRT,Europe & Central Asia,ECA,2.4979,19
+2012,YR2012,Qatar,QAT,Middle East & North Africa,MENA,1.41E-138,141
+2012,YR2012,Romania,ROU,Europe & Central Asia,ECA,1.7374,30
+2012,YR2012,Russian Federation,RUS,Europe & Central Asia,ECA,0.67992,58
+2012,YR2012,Rwanda,RWA,Sub-Saharan Africa,SSA,0.076665,107
+2012,YR2012,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.020171,125
+2012,YR2012,Senegal,SEN,Sub-Saharan Africa,SSA,0.25159,85
+2012,YR2012,Serbia,SRB,Europe & Central Asia,ECA,1.1957,40
+2012,YR2012,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.083719,103
+2012,YR2012,Singapore,SGP,East Asia & Pacific,EAP,1.6418,32
+2012,YR2012,Slovak Republic,SVK,Europe & Central Asia,ECA,1.8135,27
+2012,YR2012,Slovenia,SVN,Europe & Central Asia,ECA,2.1708,23
+2012,YR2012,Somalia,SOM,Sub-Saharan Africa,SSA,1.43E-40,139
+2012,YR2012,South Africa,ZAF,Sub-Saharan Africa,SSA,1.0067,46
+2012,YR2012,Spain,ESP,Europe & Central Asia,ECA,3.8759,9
+2012,YR2012,Sudan,SDN,Sub-Saharan Africa,SSA,..,..
+2012,YR2012,Suriname,SUR,Latin America & Caribbean,LAC,0.035725,120
+2012,YR2012,Sweden,SWE,Europe & Central Asia,ECA,2.6403,16
+2012,YR2012,Switzerland,CHE,Europe & Central Asia,ECA,2.9278,15
+2012,YR2012,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,1.0417,45
+2012,YR2012,Tajikistan,TJK,Europe & Central Asia,ECA,0.046662,113
+2012,YR2012,Tanzania,TZA,Sub-Saharan Africa,SSA,0.338,80
+2012,YR2012,Thailand,THA,East Asia & Pacific,EAP,2.4083,20
+2012,YR2012,Togo,TGO,Sub-Saharan Africa,SSA,0.18024,93
+2012,YR2012,Tunisia,TUN,Middle East & North Africa,MENA,1.1904,41
+2012,YR2012,Turkey,TUR,Europe & Central Asia,ECA,2.5056,18
+2012,YR2012,Turkmenistan,TKM,Europe & Central Asia,ECA,0.0029625,133
+2012,YR2012,Uganda,UGA,Sub-Saharan Africa,SSA,0.33515,81
+2012,YR2012,Ukraine,UKR,Europe & Central Asia,ECA,1.0032,47
+2012,YR2012,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.14041,97
+2012,YR2012,United Kingdom,GBR,Europe & Central Asia,ECA,3.7702,10
+2012,YR2012,United States,USA,North America,NA,5.4859,5
+2012,YR2012,Uruguay,URY,Latin America & Caribbean,LAC,0.35751,76
+2012,YR2012,Uzbekistan,UZB,Europe & Central Asia,ECA,0.2132,89
+2012,YR2012,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,7.16E-40,137
+2012,YR2012,Vietnam,VNM,East Asia & Pacific,EAP,1.3704,39
+2012,YR2012,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.030929,121
+2012,YR2012,Zambia,ZMB,Sub-Saharan Africa,SSA,0.072511,108
+2012,YR2012,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.14047,96
+2013,YR2013,Afghanistan,AFG,South Asia,SA,0.10157,101
+2013,YR2013,Albania,ALB,Europe & Central Asia,ECA,0.4238,68
+2013,YR2013,Algeria,DZA,Middle East & North Africa,MENA,1.58E-29,141
+2013,YR2013,Andorra,AND,Europe & Central Asia,ECA,0.30037,77
+2013,YR2013,Angola,AGO,Sub-Saharan Africa,SSA,3.81E-171,148
+2013,YR2013,Argentina,ARG,Latin America & Caribbean,LAC,0.57691,60
+2013,YR2013,Armenia,ARM,Europe & Central Asia,ECA,0.24752,83
+2013,YR2013,Australia,AUS,East Asia & Pacific,EAP,0.34311,72
+2013,YR2013,Austria,AUT,Europe & Central Asia,ECA,3.5407,11
+2013,YR2013,Azerbaijan,AZE,Europe & Central Asia,ECA,0.0066342,128
+2013,YR2013,Bahrain,BHR,Middle East & North Africa,MENA,0.25506,81
+2013,YR2013,Bangladesh,BGD,South Asia,SA,0.25405,82
+2013,YR2013,Belarus,BLR,Europe & Central Asia,ECA,1.1305,42
+2013,YR2013,Belgium,BEL,Europe & Central Asia,ECA,4.1664,8
+2013,YR2013,Belize,BLZ,Latin America & Caribbean,LAC,0.15703,91
+2013,YR2013,Benin,BEN,Sub-Saharan Africa,SSA,0.043522,113
+2013,YR2013,Bhutan,BTN,South Asia,SA,0.0037736,131
+2013,YR2013,Bolivia,BOL,Latin America & Caribbean,LAC,0.055892,109
+2013,YR2013,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.90199,51
+2013,YR2013,Brazil,BRA,Latin America & Caribbean,LAC,0.94035,50
+2013,YR2013,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.0013669,134
+2013,YR2013,Bulgaria,BGR,Europe & Central Asia,ECA,1.6918,30
+2013,YR2013,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.018707,121
+2013,YR2013,Burundi,BDI,Sub-Saharan Africa,SSA,0.02417,118
+2013,YR2013,Cambodia,KHM,East Asia & Pacific,EAP,0.29668,79
+2013,YR2013,Cameroon,CMR,Sub-Saharan Africa,SSA,0.0045198,129
+2013,YR2013,Canada,CAN,North America,NA,1.2577,40
+2013,YR2013,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.018956,120
+2013,YR2013,Chad,TCD,Sub-Saharan Africa,SSA,4.84E-130,146
+2013,YR2013,Chile,CHL,Latin America & Caribbean,LAC,0.351,70
+2013,YR2013,China,CHN,East Asia & Pacific,EAP,8.5557,1
+2013,YR2013,Colombia,COL,Latin America & Caribbean,LAC,0.35252,69
+2013,YR2013,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,7.22E-11,139
+2013,YR2013,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,6.77E-18,140
+2013,YR2013,Costa Rica,CRI,Latin America & Caribbean,LAC,0.20265,88
+2013,YR2013,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.042774,114
+2013,YR2013,Croatia,HRV,Europe & Central Asia,ECA,1.3728,39
+2013,YR2013,Cyprus,CYP,Europe & Central Asia,ECA,0.80554,55
+2013,YR2013,Czech Republic,CZE,Europe & Central Asia,ECA,3.3481,12
+2013,YR2013,Denmark,DNK,Europe & Central Asia,ECA,2.3401,21
+2013,YR2013,Ecuador,ECU,Latin America & Caribbean,LAC,0.12153,97
+2013,YR2013,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,1.0132,48
+2013,YR2013,El Salvador,SLV,Latin America & Caribbean,LAC,0.6939,56
+2013,YR2013,Eritrea,ERI,Sub-Saharan Africa,SSA,0.00031611,137
+2013,YR2013,Estonia,EST,Europe & Central Asia,ECA,2.0007,24
+2013,YR2013,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.1201,98
+2013,YR2013,Finland,FIN,Europe & Central Asia,ECA,1.6784,31
+2013,YR2013,France,FRA,Europe & Central Asia,ECA,4.825,6
+2013,YR2013,Gabon,GAB,Sub-Saharan Africa,SSA,4.84E-52,143
+2013,YR2013,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.074669,106
+2013,YR2013,Georgia,GEO,Europe & Central Asia,ECA,0.21533,86
+2013,YR2013,Germany,DEU,Europe & Central Asia,ECA,7.1438,2
+2013,YR2013,Ghana,GHA,Sub-Saharan Africa,SSA,0.070074,107
+2013,YR2013,Greece,GRC,Europe & Central Asia,ECA,0.94722,49
+2013,YR2013,Greenland,GRL,Europe & Central Asia,ECA,0.0039713,130
+2013,YR2013,Guatemala,GTM,Latin America & Caribbean,LAC,0.54279,62
+2013,YR2013,Guinea,GIN,Sub-Saharan Africa,SSA,0.0082056,127
+2013,YR2013,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,5.10E-128,145
+2013,YR2013,Guyana,GUY,Latin America & Caribbean,LAC,0.012,124
+2013,YR2013,Honduras,HND,Latin America & Caribbean,LAC,0.2302,84
+2013,YR2013,Hungary,HUN,Europe & Central Asia,ECA,2.0293,23
+2013,YR2013,Iceland,ISL,Europe & Central Asia,ECA,0.17132,90
+2013,YR2013,India,IND,South Asia,SA,4.1436,9
+2013,YR2013,Indonesia,IDN,East Asia & Pacific,EAP,1.6352,33
+2013,YR2013,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.078318,105
+2013,YR2013,Iraq,IRQ,Middle East & North Africa,MENA,2.62E-169,147
+2013,YR2013,Ireland,IRL,Europe & Central Asia,ECA,0.84008,52
+2013,YR2013,Israel,ISR,Middle East & North Africa,MENA,1.5121,35
+2013,YR2013,Italy,ITA,Europe & Central Asia,ECA,5.8448,4
+2013,YR2013,Japan,JPN,East Asia & Pacific,EAP,6.0161,3
+2013,YR2013,Jordan,JOR,Middle East & North Africa,MENA,0.62464,58
+2013,YR2013,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.12184,96
+2013,YR2013,Kenya,KEN,Sub-Saharan Africa,SSA,0.48564,65
+2013,YR2013,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.46417,66
+2013,YR2013,"Korea, Rep.",KOR,East Asia & Pacific,EAP,3.191,14
+2013,YR2013,Kuwait,KWT,Middle East & North Africa,MENA,0.011491,125
+2013,YR2013,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.33414,74
+2013,YR2013,Lao PDR,LAO,East Asia & Pacific,EAP,0.080305,104
+2013,YR2013,Latvia,LVA,Europe & Central Asia,ECA,1.4049,37
+2013,YR2013,Lebanon,LBN,Middle East & North Africa,MENA,1.0795,45
+2013,YR2013,Liberia,LBR,Sub-Saharan Africa,SSA,0.0033545,132
+2013,YR2013,Libya,LBY,Middle East & North Africa,MENA,9.22E-117,144
+2013,YR2013,Lithuania,LTU,Europe & Central Asia,ECA,1.7961,28
+2013,YR2013,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.50293,64
+2013,YR2013,Madagascar,MDG,Sub-Saharan Africa,SSA,0.30213,76
+2013,YR2013,Malawi,MWI,Sub-Saharan Africa,SSA,0.064541,108
+2013,YR2013,Malaysia,MYS,East Asia & Pacific,EAP,1.8788,26
+2013,YR2013,Mali,MLI,Sub-Saharan Africa,SSA,0.029512,117
+2013,YR2013,Malta,MLT,Middle East & North Africa,MENA,0.33341,75
+2013,YR2013,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0012223,135
+2013,YR2013,Mexico,MEX,Latin America & Caribbean,LAC,1.8679,27
+2013,YR2013,Mongolia,MNG,East Asia & Pacific,EAP,0.03512,115
+2013,YR2013,Montenegro,MNE,Europe & Central Asia,ECA,0.33469,73
+2013,YR2013,Morocco,MAR,Middle East & North Africa,MENA,0.81998,54
+2013,YR2013,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.04864,111
+2013,YR2013,Myanmar,MMR,East Asia & Pacific,EAP,0.11665,99
+2013,YR2013,Nepal,NPL,South Asia,SA,0.59039,59
+2013,YR2013,Netherlands,NLD,Europe & Central Asia,ECA,3.1935,13
+2013,YR2013,New Zealand,NZL,East Asia & Pacific,EAP,0.68935,57
+2013,YR2013,Nicaragua,NIC,Latin America & Caribbean,LAC,0.14148,94
+2013,YR2013,Niger,NER,Sub-Saharan Africa,SSA,0.01253,123
+2013,YR2013,Nigeria,NGA,Sub-Saharan Africa,SSA,0.011331,126
+2013,YR2013,Norway,NOR,Europe & Central Asia,ECA,0.51789,63
+2013,YR2013,Oman,OMN,Middle East & North Africa,MENA,0.0913,102
+2013,YR2013,Pakistan,PAK,South Asia,SA,1.1623,41
+2013,YR2013,Panama,PAN,Latin America & Caribbean,LAC,1.5891,34
+2013,YR2013,Paraguay,PRY,Latin America & Caribbean,LAC,0.12589,95
+2013,YR2013,Peru,PER,Latin America & Caribbean,LAC,0.44575,67
+2013,YR2013,Philippines,PHL,East Asia & Pacific,EAP,1.3825,38
+2013,YR2013,Poland,POL,Europe & Central Asia,ECA,2.5828,18
+2013,YR2013,Portugal,PRT,Europe & Central Asia,ECA,2.5524,19
+2013,YR2013,Qatar,QAT,Middle East & North Africa,MENA,6.59E-37,142
+2013,YR2013,Romania,ROU,Europe & Central Asia,ECA,1.9819,25
+2013,YR2013,Russian Federation,RUS,Europe & Central Asia,ECA,0.57328,61
+2013,YR2013,Rwanda,RWA,Sub-Saharan Africa,SSA,0.082483,103
+2013,YR2013,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.055871,110
+2013,YR2013,Senegal,SEN,Sub-Saharan Africa,SSA,0.20364,87
+2013,YR2013,Serbia,SRB,Europe & Central Asia,ECA,1.1219,43
+2013,YR2013,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.032602,116
+2013,YR2013,Singapore,SGP,East Asia & Pacific,EAP,1.7025,29
+2013,YR2013,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6719,32
+2013,YR2013,Slovenia,SVN,Europe & Central Asia,ECA,2.2908,22
+2013,YR2013,Somalia,SOM,Sub-Saharan Africa,SSA,2.13E-06,138
+2013,YR2013,South Africa,ZAF,Sub-Saharan Africa,SSA,1.0436,47
+2013,YR2013,Spain,ESP,Europe & Central Asia,ECA,4.3146,7
+2013,YR2013,Sudan,SDN,Sub-Saharan Africa,SSA,..,..
+2013,YR2013,Suriname,SUR,Latin America & Caribbean,LAC,0.023409,119
+2013,YR2013,Sweden,SWE,Europe & Central Asia,ECA,2.7162,15
+2013,YR2013,Switzerland,CHE,Europe & Central Asia,ECA,2.7087,16
+2013,YR2013,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.8303,53
+2013,YR2013,Tajikistan,TJK,Europe & Central Asia,ECA,0.047365,112
+2013,YR2013,Tanzania,TZA,Sub-Saharan Africa,SSA,0.27978,80
+2013,YR2013,Thailand,THA,East Asia & Pacific,EAP,2.4778,20
+2013,YR2013,Togo,TGO,Sub-Saharan Africa,SSA,0.21552,85
+2013,YR2013,Tunisia,TUN,Middle East & North Africa,MENA,1.0497,46
+2013,YR2013,Turkey,TUR,Europe & Central Asia,ECA,2.6973,17
+2013,YR2013,Turkmenistan,TKM,Europe & Central Asia,ECA,0.00043425,136
+2013,YR2013,Uganda,UGA,Sub-Saharan Africa,SSA,0.29711,78
+2013,YR2013,Ukraine,UKR,Europe & Central Asia,ECA,1.0916,44
+2013,YR2013,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.18323,89
+2013,YR2013,United Kingdom,GBR,Europe & Central Asia,ECA,3.6603,10
+2013,YR2013,United States,USA,North America,NA,5.303,5
+2013,YR2013,Uruguay,URY,Latin America & Caribbean,LAC,0.34783,71
+2013,YR2013,Uzbekistan,UZB,Europe & Central Asia,ECA,0.15191,92
+2013,YR2013,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,0.0031265,133
+2013,YR2013,Vietnam,VNM,East Asia & Pacific,EAP,1.4304,36
+2013,YR2013,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.016861,122
+2013,YR2013,Zambia,ZMB,Sub-Saharan Africa,SSA,0.11341,100
+2013,YR2013,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.15179,93
+2014,YR2014,Afghanistan,AFG,South Asia,SA,0.053497,112
+2014,YR2014,Albania,ALB,Europe & Central Asia,ECA,0.34232,72
+2014,YR2014,Algeria,DZA,Middle East & North Africa,MENA,1.77E-44,143
+2014,YR2014,Andorra,AND,Europe & Central Asia,ECA,0.18079,88
+2014,YR2014,Angola,AGO,Sub-Saharan Africa,SSA,3.89E-233,147
+2014,YR2014,Argentina,ARG,Latin America & Caribbean,LAC,0.59698,58
+2014,YR2014,Armenia,ARM,Europe & Central Asia,ECA,0.21659,84
+2014,YR2014,Australia,AUS,East Asia & Pacific,EAP,0.38785,68
+2014,YR2014,Austria,AUT,Europe & Central Asia,ECA,3.5083,12
+2014,YR2014,Azerbaijan,AZE,Europe & Central Asia,ECA,0.0018631,133
+2014,YR2014,Bahrain,BHR,Middle East & North Africa,MENA,0.33775,73
+2014,YR2014,Bangladesh,BGD,South Asia,SA,0.25507,79
+2014,YR2014,Belarus,BLR,Europe & Central Asia,ECA,1.0059,45
+2014,YR2014,Belgium,BEL,Europe & Central Asia,ECA,4.3013,9
+2014,YR2014,Belize,BLZ,Latin America & Caribbean,LAC,0.16884,92
+2014,YR2014,Benin,BEN,Sub-Saharan Africa,SSA,0.044771,115
+2014,YR2014,Bhutan,BTN,South Asia,SA,0.010627,127
+2014,YR2014,Bolivia,BOL,Latin America & Caribbean,LAC,0.032218,120
+2014,YR2014,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.85774,51
+2014,YR2014,Brazil,BRA,Latin America & Caribbean,LAC,0.96147,48
+2014,YR2014,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.0097635,128
+2014,YR2014,Bulgaria,BGR,Europe & Central Asia,ECA,1.7484,28
+2014,YR2014,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.027383,121
+2014,YR2014,Burundi,BDI,Sub-Saharan Africa,SSA,0.073953,106
+2014,YR2014,Cambodia,KHM,East Asia & Pacific,EAP,0.2647,78
+2014,YR2014,Cameroon,CMR,Sub-Saharan Africa,SSA,0.048023,113
+2014,YR2014,Canada,CAN,North America,NA,1.173,39
+2014,YR2014,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.019533,123
+2014,YR2014,Chad,TCD,Sub-Saharan Africa,SSA,1.61E-159,146
+2014,YR2014,Chile,CHL,Latin America & Caribbean,LAC,0.35453,71
+2014,YR2014,China,CHN,East Asia & Pacific,EAP,8.8967,1
+2014,YR2014,Colombia,COL,Latin America & Caribbean,LAC,0.29174,75
+2014,YR2014,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,2.38E-06,135
+2014,YR2014,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,1.48E-06,136
+2014,YR2014,Costa Rica,CRI,Latin America & Caribbean,LAC,0.19218,85
+2014,YR2014,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.057147,111
+2014,YR2014,Croatia,HRV,Europe & Central Asia,ECA,1.3281,38
+2014,YR2014,Cyprus,CYP,Europe & Central Asia,ECA,1.1091,41
+2014,YR2014,Czech Republic,CZE,Europe & Central Asia,ECA,3.2044,14
+2014,YR2014,Denmark,DNK,Europe & Central Asia,ECA,2.4873,20
+2014,YR2014,Ecuador,ECU,Latin America & Caribbean,LAC,0.071036,108
+2014,YR2014,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,1.151,40
+2014,YR2014,El Salvador,SLV,Latin America & Caribbean,LAC,0.67223,54
+2014,YR2014,Eritrea,ERI,Sub-Saharan Africa,SSA,2.15E-26,141
+2014,YR2014,Estonia,EST,Europe & Central Asia,ECA,1.6495,32
+2014,YR2014,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.090455,100
+2014,YR2014,Finland,FIN,Europe & Central Asia,ECA,1.6374,33
+2014,YR2014,France,FRA,Europe & Central Asia,ECA,4.903,6
+2014,YR2014,Gabon,GAB,Sub-Saharan Africa,SSA,4.09E-08,139
+2014,YR2014,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.081106,104
+2014,YR2014,Georgia,GEO,Europe & Central Asia,ECA,0.23529,82
+2014,YR2014,Germany,DEU,Europe & Central Asia,ECA,6.9211,2
+2014,YR2014,Ghana,GHA,Sub-Saharan Africa,SSA,0.046073,114
+2014,YR2014,Greece,GRC,Europe & Central Asia,ECA,0.9587,49
+2014,YR2014,Greenland,GRL,Europe & Central Asia,ECA,0.0032671,131
+2014,YR2014,Guatemala,GTM,Latin America & Caribbean,LAC,0.56964,59
+2014,YR2014,Guinea,GIN,Sub-Saharan Africa,SSA,0.001891,132
+2014,YR2014,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,2.18E-82,145
+2014,YR2014,Guyana,GUY,Latin America & Caribbean,LAC,0.012364,126
+2014,YR2014,Honduras,HND,Latin America & Caribbean,LAC,0.37038,70
+2014,YR2014,Hungary,HUN,Europe & Central Asia,ECA,2.046,23
+2014,YR2014,Iceland,ISL,Europe & Central Asia,ECA,0.16975,91
+2014,YR2014,India,IND,South Asia,SA,4.3043,8
+2014,YR2014,Indonesia,IDN,East Asia & Pacific,EAP,1.5812,36
+2014,YR2014,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.089325,101
+2014,YR2014,Iraq,IRQ,Middle East & North Africa,MENA,3.55E-235,148
+2014,YR2014,Ireland,IRL,Europe & Central Asia,ECA,0.83291,52
+2014,YR2014,Israel,ISR,Middle East & North Africa,MENA,1.6025,35
+2014,YR2014,Italy,ITA,Europe & Central Asia,ECA,5.8996,4
+2014,YR2014,Japan,JPN,East Asia & Pacific,EAP,6.0531,3
+2014,YR2014,Jordan,JOR,Middle East & North Africa,MENA,0.49347,64
+2014,YR2014,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.17892,89
+2014,YR2014,Kenya,KEN,Sub-Saharan Africa,SSA,0.39181,67
+2014,YR2014,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.47192,65
+2014,YR2014,"Korea, Rep.",KOR,East Asia & Pacific,EAP,3.2959,13
+2014,YR2014,Kuwait,KWT,Middle East & North Africa,MENA,0.012617,125
+2014,YR2014,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.16173,94
+2014,YR2014,Lao PDR,LAO,East Asia & Pacific,EAP,0.083057,102
+2014,YR2014,Latvia,LVA,Europe & Central Asia,ECA,1.604,34
+2014,YR2014,Lebanon,LBN,Middle East & North Africa,MENA,0.94944,50
+2014,YR2014,Liberia,LBR,Sub-Saharan Africa,SSA,9.11E-08,138
+2014,YR2014,Libya,LBY,Middle East & North Africa,MENA,3.71E-52,144
+2014,YR2014,Lithuania,LTU,Europe & Central Asia,ECA,2.0425,24
+2014,YR2014,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.50029,62
+2014,YR2014,Madagascar,MDG,Sub-Saharan Africa,SSA,0.24759,80
+2014,YR2014,Malawi,MWI,Sub-Saharan Africa,SSA,0.10301,98
+2014,YR2014,Malaysia,MYS,East Asia & Pacific,EAP,1.822,25
+2014,YR2014,Mali,MLI,Sub-Saharan Africa,SSA,0.032589,119
+2014,YR2014,Malta,MLT,Middle East & North Africa,MENA,0.37474,69
+2014,YR2014,Mauritania,MRT,Sub-Saharan Africa,SSA,0.0048216,130
+2014,YR2014,Mexico,MEX,Latin America & Caribbean,LAC,1.6728,31
+2014,YR2014,Mongolia,MNG,East Asia & Pacific,EAP,0.02376,122
+2014,YR2014,Montenegro,MNE,Europe & Central Asia,ECA,0.26633,77
+2014,YR2014,Morocco,MAR,Middle East & North Africa,MENA,0.71335,53
+2014,YR2014,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.064007,109
+2014,YR2014,Myanmar,MMR,East Asia & Pacific,EAP,0.12515,95
+2014,YR2014,Nepal,NPL,South Asia,SA,0.60773,57
+2014,YR2014,Netherlands,NLD,Europe & Central Asia,ECA,3.7887,11
+2014,YR2014,New Zealand,NZL,East Asia & Pacific,EAP,0.62542,56
+2014,YR2014,Nicaragua,NIC,Latin America & Caribbean,LAC,0.10216,99
+2014,YR2014,Niger,NER,Sub-Saharan Africa,SSA,0.037416,117
+2014,YR2014,Nigeria,NGA,Sub-Saharan Africa,SSA,0.0095373,129
+2014,YR2014,Norway,NOR,Europe & Central Asia,ECA,0.55034,60
+2014,YR2014,Oman,OMN,Middle East & North Africa,MENA,0.062759,110
+2014,YR2014,Pakistan,PAK,South Asia,SA,1.075,43
+2014,YR2014,Panama,PAN,Latin America & Caribbean,LAC,0.51843,61
+2014,YR2014,Paraguay,PRY,Latin America & Caribbean,LAC,0.11123,97
+2014,YR2014,Peru,PER,Latin America & Caribbean,LAC,0.40452,66
+2014,YR2014,Philippines,PHL,East Asia & Pacific,EAP,1.8031,26
+2014,YR2014,Poland,POL,Europe & Central Asia,ECA,2.56,19
+2014,YR2014,Portugal,PRT,Europe & Central Asia,ECA,2.4523,21
+2014,YR2014,Qatar,QAT,Middle East & North Africa,MENA,5.32E-44,142
+2014,YR2014,Romania,ROU,Europe & Central Asia,ECA,1.7622,27
+2014,YR2014,Russian Federation,RUS,Europe & Central Asia,ECA,0.63192,55
+2014,YR2014,Rwanda,RWA,Sub-Saharan Africa,SSA,0.12003,96
+2014,YR2014,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.080376,105
+2014,YR2014,Senegal,SEN,Sub-Saharan Africa,SSA,0.2688,76
+2014,YR2014,Serbia,SRB,Europe & Central Asia,ECA,1.1086,42
+2014,YR2014,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.014576,124
+2014,YR2014,Singapore,SGP,East Asia & Pacific,EAP,1.7245,29
+2014,YR2014,Slovak Republic,SVK,Europe & Central Asia,ECA,1.6778,30
+2014,YR2014,Slovenia,SVN,Europe & Central Asia,ECA,2.3331,22
+2014,YR2014,Somalia,SOM,Sub-Saharan Africa,SSA,0.00084799,134
+2014,YR2014,South Africa,ZAF,Sub-Saharan Africa,SSA,1.0167,44
+2014,YR2014,Spain,ESP,Europe & Central Asia,ECA,4.3425,7
+2014,YR2014,Sudan,SDN,Sub-Saharan Africa,SSA,..,..
+2014,YR2014,Suriname,SUR,Latin America & Caribbean,LAC,0.039917,116
+2014,YR2014,Sweden,SWE,Europe & Central Asia,ECA,2.7746,17
+2014,YR2014,Switzerland,CHE,Europe & Central Asia,ECA,2.9808,15
+2014,YR2014,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.4935,63
+2014,YR2014,Tajikistan,TJK,Europe & Central Asia,ECA,0.081458,103
+2014,YR2014,Tanzania,TZA,Sub-Saharan Africa,SSA,0.22094,83
+2014,YR2014,Thailand,THA,East Asia & Pacific,EAP,2.5855,18
+2014,YR2014,Togo,TGO,Sub-Saharan Africa,SSA,0.17841,90
+2014,YR2014,Tunisia,TUN,Middle East & North Africa,MENA,1.0009,46
+2014,YR2014,Turkey,TUR,Europe & Central Asia,ECA,2.8895,16
+2014,YR2014,Turkmenistan,TKM,Europe & Central Asia,ECA,3.89E-07,137
+2014,YR2014,Uganda,UGA,Sub-Saharan Africa,SSA,0.24534,81
+2014,YR2014,Ukraine,UKR,Europe & Central Asia,ECA,0.96492,47
+2014,YR2014,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.18133,87
+2014,YR2014,United Kingdom,GBR,Europe & Central Asia,ECA,3.9654,10
+2014,YR2014,United States,USA,North America,NA,5.3215,5
+2014,YR2014,Uruguay,URY,Latin America & Caribbean,LAC,0.3159,74
+2014,YR2014,Uzbekistan,UZB,Europe & Central Asia,ECA,0.18654,86
+2014,YR2014,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,8.42E-09,140
+2014,YR2014,Vietnam,VNM,East Asia & Pacific,EAP,1.3734,37
+2014,YR2014,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.034957,118
+2014,YR2014,Zambia,ZMB,Sub-Saharan Africa,SSA,0.071836,107
+2014,YR2014,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.16395,93
+2015,YR2015,Afghanistan,AFG,South Asia,SA,0.053695339,112
+2015,YR2015,Albania,ALB,Europe & Central Asia,ECA,0.374622329,73
+2015,YR2015,Algeria,DZA,Middle East & North Africa,MENA,3.28E-06,139
+2015,YR2015,Andorra,AND,Europe & Central Asia,ECA,0.369420207,74
+2015,YR2015,Angola,AGO,Sub-Saharan Africa,SSA,7.89E-13,146
+2015,YR2015,Argentina,ARG,Latin America & Caribbean,LAC,0.621472353,57
+2015,YR2015,Armenia,ARM,Europe & Central Asia,ECA,0.320281183,78
+2015,YR2015,Australia,AUS,East Asia & Pacific,EAP,0.388480648,71
+2015,YR2015,Austria,AUT,Europe & Central Asia,ECA,3.335967259,13
+2015,YR2015,Azerbaijan,AZE,Europe & Central Asia,ECA,0.006250701,127
+2015,YR2015,Bahrain,BHR,Middle East & North Africa,MENA,0.504196781,61
+2015,YR2015,Bangladesh,BGD,South Asia,SA,0.25144646,84
+2015,YR2015,Belarus,BLR,Europe & Central Asia,ECA,0.974237803,46
+2015,YR2015,Belgium,BEL,Europe & Central Asia,ECA,4.207358947,8
+2015,YR2015,Belize,BLZ,Latin America & Caribbean,LAC,0.14790773,92
+2015,YR2015,Benin,BEN,Sub-Saharan Africa,SSA,0.068441099,108
+2015,YR2015,Bhutan,BTN,South Asia,SA,0.009755026,124
+2015,YR2015,Bolivia,BOL,Latin America & Caribbean,LAC,0.034751792,117
+2015,YR2015,Bosnia and Herzegovina,BIH,Europe & Central Asia,ECA,0.777595064,52
+2015,YR2015,Brazil,BRA,Latin America & Caribbean,LAC,1.08710124,42
+2015,YR2015,Brunei Darussalam,BRN,East Asia & Pacific,EAP,0.02389176,120
+2015,YR2015,Bulgaria,BGR,Europe & Central Asia,ECA,1.771507149,27
+2015,YR2015,Burkina Faso,BFA,Sub-Saharan Africa,SSA,0.008403647,126
+2015,YR2015,Burundi,BDI,Sub-Saharan Africa,SSA,0.034917398,115
+2015,YR2015,Cambodia,KHM,East Asia & Pacific,EAP,0.409337456,70
+2015,YR2015,Cameroon,CMR,Sub-Saharan Africa,SSA,0.038481714,114
+2015,YR2015,Canada,CAN,North America,NA,1.353095732,38
+2015,YR2015,Central African Republic,CAF,Sub-Saharan Africa,SSA,0.005683702,128
+2015,YR2015,Chad,TCD,Sub-Saharan Africa,SSA,8.05E-16,147
+2015,YR2015,Chile,CHL,Latin America & Caribbean,LAC,0.424866646,66
+2015,YR2015,China,CHN,East Asia & Pacific,EAP,10.68784292,1
+2015,YR2015,Colombia,COL,Latin America & Caribbean,LAC,0.379177491,72
+2015,YR2015,"Congo, Dem. Rep.",COD,Sub-Saharan Africa,SSA,9.38E-07,141
+2015,YR2015,"Congo, Rep.",COG,Sub-Saharan Africa,SSA,4.96E-07,143
+2015,YR2015,Costa Rica,CRI,Latin America & Caribbean,LAC,0.413633114,69
+2015,YR2015,Cote d'Ivoire,CIV,Sub-Saharan Africa,SSA,0.057292725,111
+2015,YR2015,Croatia,HRV,Europe & Central Asia,ECA,1.327997279,39
+2015,YR2015,Cyprus,CYP,Europe & Central Asia,ECA,0.837707337,48
+2015,YR2015,Czech Republic,CZE,Europe & Central Asia,ECA,3.106868832,14
+2015,YR2015,Denmark,DNK,Europe & Central Asia,ECA,2.299857821,21
+2015,YR2015,Ecuador,ECU,Latin America & Caribbean,LAC,0.078880484,106
+2015,YR2015,"Egypt, Arab Rep.",EGY,Middle East & North Africa,MENA,1.102848825,41
+2015,YR2015,El Salvador,SLV,Latin America & Caribbean,LAC,0.644884466,56
+2015,YR2015,Eritrea,ERI,Sub-Saharan Africa,SSA,1.29E-10,144
+2015,YR2015,Estonia,EST,Europe & Central Asia,ECA,1.680372107,31
+2015,YR2015,Ethiopia,ETH,Sub-Saharan Africa,SSA,0.118188954,99
+2015,YR2015,Finland,FIN,Europe & Central Asia,ECA,1.71024154,30
+2015,YR2015,France,FRA,Europe & Central Asia,ECA,4.398229045,6
+2015,YR2015,Gabon,GAB,Sub-Saharan Africa,SSA,2.31E-06,140
+2015,YR2015,"Gambia, The",GMB,Sub-Saharan Africa,SSA,0.00456149,129
+2015,YR2015,Georgia,GEO,Europe & Central Asia,ECA,0.276626491,82
+2015,YR2015,Germany,DEU,Europe & Central Asia,ECA,6.669131935,3
+2015,YR2015,Ghana,GHA,Sub-Saharan Africa,SSA,0.008657004,125
+2015,YR2015,Greece,GRC,Europe & Central Asia,ECA,0.823034272,50
+2015,YR2015,Greenland,GRL,Europe & Central Asia,ECA,0.001259714,133
+2015,YR2015,Guatemala,GTM,Latin America & Caribbean,LAC,0.602576861,58
+2015,YR2015,Guinea,GIN,Sub-Saharan Africa,SSA,0.004246035,130
+2015,YR2015,Guinea-Bissau,GNB,Sub-Saharan Africa,SSA,1.56E-12,145
+2015,YR2015,Guyana,GUY,Latin America & Caribbean,LAC,0.017391039,121
+2015,YR2015,Honduras,HND,Latin America & Caribbean,LAC,0.244691768,85
+2015,YR2015,Hungary,HUN,Europe & Central Asia,ECA,1.792928447,26
+2015,YR2015,Iceland,ISL,Europe & Central Asia,ECA,0.132101275,94
+2015,YR2015,India,IND,South Asia,SA,4.395581747,7
+2015,YR2015,Indonesia,IDN,East Asia & Pacific,EAP,1.564620518,32
+2015,YR2015,"Iran, Islamic Rep.",IRN,Middle East & North Africa,MENA,0.124583627,96
+2015,YR2015,Iraq,IRQ,Middle East & North Africa,MENA,3.89E-20,148
+2015,YR2015,Ireland,IRL,Europe & Central Asia,ECA,0.738149739,54
+2015,YR2015,Israel,ISR,Middle East & North Africa,MENA,1.422800663,35
+2015,YR2015,Italy,ITA,Europe & Central Asia,ECA,5.624840397,4
+2015,YR2015,Japan,JPN,East Asia & Pacific,EAP,7.542060502,2
+2015,YR2015,Jordan,JOR,Middle East & North Africa,MENA,0.46093408,65
+2015,YR2015,Kazakhstan,KAZ,Europe & Central Asia,ECA,0.180210301,89
+2015,YR2015,Kenya,KEN,Sub-Saharan Africa,SSA,0.287748604,81
+2015,YR2015,"Korea, Dem. Rep.",PRK,East Asia & Pacific,EAP,0.483767571,63
+2015,YR2015,"Korea, Rep.",KOR,East Asia & Pacific,EAP,3.454575373,12
+2015,YR2015,Kuwait,KWT,Middle East & North Africa,MENA,0.045566011,113
+2015,YR2015,Kyrgyz Republic,KGZ,Europe & Central Asia,ECA,0.293052262,79
+2015,YR2015,Lao PDR,LAO,East Asia & Pacific,EAP,0.084095168,105
+2015,YR2015,Latvia,LVA,Europe & Central Asia,ECA,1.356673227,37
+2015,YR2015,Lebanon,LBN,Middle East & North Africa,MENA,0.825180308,49
+2015,YR2015,Liberia,LBR,Sub-Saharan Africa,SSA,4.01E-06,138
+2015,YR2015,Libya,LBY,Middle East & North Africa,MENA,9.22E-07,142
+2015,YR2015,Lithuania,LTU,Europe & Central Asia,ECA,1.726056722,29
+2015,YR2015,"Macedonia, FYR",MKD,Europe & Central Asia,ECA,0.420988273,67
+2015,YR2015,Madagascar,MDG,Sub-Saharan Africa,SSA,0.238751217,86
+2015,YR2015,Malawi,MWI,Sub-Saharan Africa,SSA,0.091519536,103
+2015,YR2015,Malaysia,MYS,East Asia & Pacific,EAP,2.133431966,24
+2015,YR2015,Mali,MLI,Sub-Saharan Africa,SSA,0.011646875,122
+2015,YR2015,Malta,MLT,Middle East & North Africa,MENA,0.339074592,77
+2015,YR2015,Mauritania,MRT,Sub-Saharan Africa,SSA,0.000578132,134
+2015,YR2015,Mexico,MEX,Latin America & Caribbean,LAC,1.536365766,33
+2015,YR2015,Mongolia,MNG,East Asia & Pacific,EAP,0.034917365,116
+2015,YR2015,Montenegro,MNE,Europe & Central Asia,ECA,0.258919562,83
+2015,YR2015,Morocco,MAR,Middle East & North Africa,MENA,0.516323175,60
+2015,YR2015,Mozambique,MOZ,Sub-Saharan Africa,SSA,0.057476144,110
+2015,YR2015,Myanmar,MMR,East Asia & Pacific,EAP,0.152873845,91
+2015,YR2015,Nepal,NPL,South Asia,SA,0.502333652,62
+2015,YR2015,Netherlands,NLD,Europe & Central Asia,ECA,3.814341904,9
+2015,YR2015,New Zealand,NZL,East Asia & Pacific,EAP,0.651715044,55
+2015,YR2015,Nicaragua,NIC,Latin America & Caribbean,LAC,0.098535281,101
+2015,YR2015,Niger,NER,Sub-Saharan Africa,SSA,0.011313939,123
+2015,YR2015,Nigeria,NGA,Sub-Saharan Africa,SSA,4.17E-06,137
+2015,YR2015,Norway,NOR,Europe & Central Asia,ECA,0.597234747,59
+2015,YR2015,Oman,OMN,Middle East & North Africa,MENA,0.096185045,102
+2015,YR2015,Pakistan,PAK,South Asia,SA,1.115248222,40
+2015,YR2015,Panama,PAN,Latin America & Caribbean,LAC,0.754755823,53
+2015,YR2015,Paraguay,PRY,Latin America & Caribbean,LAC,0.089010033,104
+2015,YR2015,Peru,PER,Latin America & Caribbean,LAC,0.352864685,75
+2015,YR2015,Philippines,PHL,East Asia & Pacific,EAP,1.824482142,25
+2015,YR2015,Poland,POL,Europe & Central Asia,ECA,2.474829389,18
+2015,YR2015,Portugal,PRT,Europe & Central Asia,ECA,2.34905577,20
+2015,YR2015,Qatar,QAT,Middle East & North Africa,MENA,0.034302741,118
+2015,YR2015,Romania,ROU,Europe & Central Asia,ECA,1.751493962,28
+2015,YR2015,Russian Federation,RUS,Europe & Central Asia,ECA,0.851629587,47
+2015,YR2015,Rwanda,RWA,Sub-Saharan Africa,SSA,0.121439917,98
+2015,YR2015,Saudi Arabia,SAU,Middle East & North Africa,MENA,0.414148132,68
+2015,YR2015,Senegal,SEN,Sub-Saharan Africa,SSA,0.159550913,90
+2015,YR2015,Serbia,SRB,Europe & Central Asia,ECA,1.04120265,44
+2015,YR2015,Sierra Leone,SLE,Sub-Saharan Africa,SSA,0.122472602,97
+2015,YR2015,Singapore,SGP,East Asia & Pacific,EAP,2.295571516,22
+2015,YR2015,Slovak Republic,SVK,Europe & Central Asia,ECA,1.525069288,34
+2015,YR2015,Slovenia,SVN,Europe & Central Asia,ECA,2.267489653,23
+2015,YR2015,Somalia,SOM,Sub-Saharan Africa,SSA,0.000268138,135
+2015,YR2015,South Africa,ZAF,Sub-Saharan Africa,SSA,0.978425287,45
+2015,YR2015,Spain,ESP,Europe & Central Asia,ECA,3.671046398,10
+2015,YR2015,Sudan,SDN,Sub-Saharan Africa,SSA,..,..
+2015,YR2015,Suriname,SUR,Latin America & Caribbean,LAC,0.00344802,131
+2015,YR2015,Sweden,SWE,Europe & Central Asia,ECA,2.466414279,19
+2015,YR2015,Switzerland,CHE,Europe & Central Asia,ECA,2.702371488,15
+2015,YR2015,Syrian Arab Republic,SYR,Middle East & North Africa,MENA,0.483639975,64
+2015,YR2015,Tajikistan,TJK,Europe & Central Asia,ECA,0.031548299,119
+2015,YR2015,Tanzania,TZA,Sub-Saharan Africa,SSA,0.131767529,95
+2015,YR2015,Thailand,THA,East Asia & Pacific,EAP,2.673715612,16
+2015,YR2015,Togo,TGO,Sub-Saharan Africa,SSA,0.140016208,93
+2015,YR2015,Tunisia,TUN,Middle East & North Africa,MENA,1.074020541,43
+2015,YR2015,Turkey,TUR,Europe & Central Asia,ECA,2.560730761,17
+2015,YR2015,Turkmenistan,TKM,Europe & Central Asia,ECA,0.001363964,132
+2015,YR2015,Uganda,UGA,Sub-Saharan Africa,SSA,0.21750698,87
+2015,YR2015,Ukraine,UKR,Europe & Central Asia,ECA,0.781894746,51
+2015,YR2015,United Arab Emirates,ARE,Middle East & North Africa,MENA,0.343862097,76
+2015,YR2015,United Kingdom,GBR,Europe & Central Asia,ECA,3.607584883,11
+2015,YR2015,United States,USA,North America,NA,5.26366717,5
+2015,YR2015,Uruguay,URY,Latin America & Caribbean,LAC,0.292351162,80
+2015,YR2015,Uzbekistan,UZB,Europe & Central Asia,ECA,0.191598065,88
+2015,YR2015,"Venezuela, RB",VEN,Latin America & Caribbean,LAC,8.03E-05,136
+2015,YR2015,Vietnam,VNM,East Asia & Pacific,EAP,1.391330426,36
+2015,YR2015,"Yemen, Rep.",YEM,Middle East & North Africa,MENA,0.074170996,107
+2015,YR2015,Zambia,ZMB,Sub-Saharan Africa,SSA,0.065307386,109
+2015,YR2015,Zimbabwe,ZWE,Sub-Saharan Africa,SSA,0.107816858,100
