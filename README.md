@@ -9,6 +9,8 @@ https://fred.stlouisfed.org/ FRED (Federal Reserve Bank of St. Louis) data respo
 
 https://www.census.gov/data.html US Census data
 
+https://github.com/awesomedata/awesome-public-datasets Gigantic source of data
+
 https://research.pomona.edu/johardin/datasources/ - Good set of various data sets
 
 https://data.worldbank.org/ World Bank open data
