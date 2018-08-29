@@ -7,6 +7,8 @@ https://tcdata360.worldbank.org/ TCdata360 is an initiative of the World Bank Gr
 
 https://fred.stlouisfed.org/ FRED (Federal Reserve Bank of St. Louis) data respository
 
+https://www.census.gov/data.html US Census data
+
 https://research.pomona.edu/johardin/datasources/ - Good set of various data sets
 
 https://data.worldbank.org/ World Bank open data
